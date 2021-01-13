@@ -51,7 +51,9 @@ BCO-DMO has purchased several objects that can be used when setting up a booth. 
   * Product Size: 30"L x 15"W x 15"H
   * Folded size: 30"L x 15"W x 2"H 
 
-## 
+## Newsletter
+
+A first newsletter has been send around to our committee in December 2019. The [lay-out](https://github.com/BCODMO/documentation_OfficeProcesses/tree/308a58e4db8362e869432567bb3e984ee4fedfbf/drive/u/1/folders/1XH64Whhy5HnAyFMCf2QRzr4THCTwwbRf/README.md) has been made in Inkscape. It can be found here:
 
 ## Twitter
 
