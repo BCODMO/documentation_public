@@ -9,6 +9,7 @@
 * [Google Calendar Protocols](google-calendar.md)
 * [Outreach](outreach/README.md)
   * [Twitter](outreach/twitter.md)
+  * [Blog](outreach/blog.md)
 * [Google drive structure](op_gdocs.md)
 * [Internal Meetings & Agendas](op_agenda.md)
 * [External meetings](op_externalmeetings.md)
