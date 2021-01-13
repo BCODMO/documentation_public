@@ -4,15 +4,15 @@ description: BCO-DMO internal meeting protocols
 
 # Internal Meetings & Agendas
 
-## Rationale 
+## Rationale
 
 The goal of any meeting is to actively discuss topics and issues, their relevance to office goals and objectives, come to resolutions, and provide clarity on outcomes and actions.
 
-**Meetings should be decision-focused rather than informational**. Purely informational topics are better distributed by email. 
+**Meetings should be decision-focused rather than informational**. Purely informational topics are better distributed by email.
 
-The roles of Meeting Lead and note taker are to rotate each week to distribute responsibility across team members. 
+The roles of Meeting Lead and note taker are to rotate each week to distribute responsibility across team members.
 
-All opinions, ideas, and information should be exhausted before determining a resolution \(which does not necessarily equate to consensus\). Resolutions should be clear and understood by all team members. Any action items should have designated champions and timelines. All topics resolve to a decision within one meeting time.  The following protocol is intended to provide a meeting framework.
+All opinions, ideas, and information should be exhausted before determining a resolution \(which does not necessarily equate to consensus\). Resolutions should be clear and understood by all team members. Any action items should have designated champions and timelines. All topics resolve to a decision within one meeting time. The following protocol is intended to provide a meeting framework.
 
 ## Lab Meetings
 
@@ -53,9 +53,9 @@ Regular weekly lab meetings take place on Thursdays at 10:00 AM. Lab meetings ar
    2. Action items should be sent out in the post-meeting follow-up email. Once an action is completed, the assignee will send out an email stating what they completed. The completed action items can then be crossed off the agenda \(select text → Format → Strikethrough\).
    3. Link the meeting notes to the [BCO-DMO Agenda Topics - Leaders/Rapper](https://docs.google.com/spreadsheets/d/1cDwIKKJ7GV0TSXGqv9J0UiF4nfJrGy-VKR5me6iwnQM/edit#gid=1479734122) sheet.
 
-## Data Manager Meetings 
+## Data Manager Meetings
 
-Regular weekly Data Manager meetings take place on Mondays at 10:00 AM. These meeting should be focused on resolving any issues data managers are having with specific datasets, data types, PIs, data processing software, or SOPs. 
+Regular weekly Data Manager meetings take place on Mondays at 10:00 AM. These meeting should be focused on resolving any issues data managers are having with specific datasets, data types, PIs, data processing software, or SOPs.
 
 1. **Prior to Meeting:**
    1. Prioritization of agenda topics is completed by the meeting Lead.
@@ -85,23 +85,23 @@ Regular weekly Data Manager meetings take place on Mondays at 10:00 AM. These me
 
 ## Agendas/Notes
 
-The meeting Agenda serves as the outline for the meeting. Notes are taken in the same document. 
+The meeting Agenda serves as the outline for the meeting. Notes are taken in the same document.
 
-#### Agenda Topics List \(items that need to be discussed\) and sign-up list for meeting leads:
+### Agenda Topics List \(items that need to be discussed\) and sign-up list for meeting leads:
 
 In Google Drive: [https://docs.google.com/spreadsheets/d/1cDwIKKJ7GV0TSXGqv9J0UiF4nfJrGy-VKR5me6iwnQM/edit\#gid=0](https://docs.google.com/spreadsheets/d/1cDwIKKJ7GV0TSXGqv9J0UiF4nfJrGy-VKR5me6iwnQM/edit#gid=0)
 
-#### Agenda Template:
+### Agenda Template:
 
 In Google Drive: [https://docs.google.com/document/d/1hWb54Fqm4ZqpuZ0MZ-jS2hiLwqNBGzqlwHN4YjEySx8/edit](https://docs.google.com/document/d/1hWb54Fqm4ZqpuZ0MZ-jS2hiLwqNBGzqlwHN4YjEySx8/edit)
 
-#### Agenda Location:
+### Agenda Location:
 
 Meeting agendas are saved in Google Drive at: [https://drive.google.com/drive/u/0/folders/1y2Z8G-NJiEn\_6vzwvbB\_4tgE\_lAnJZmW](https://drive.google.com/drive/u/0/folders/1y2Z8G-NJiEn_6vzwvbB_4tgE_lAnJZmW)
 
-![Agenda Location in Google Drive](../.gitbook/assets/image%20%2892%29.png)
+![Agenda Location in Google Drive](https://github.com/BCODMO/documentation_OfficeProcesses/tree/308a58e4db8362e869432567bb3e984ee4fedfbf/.gitbook/assets/image%20%2892%29.png)
 
 Withing the "BCO-DMO Meetings" folder, there are sub-folders by year. Agendas are named using the following format: **yyyy-mm-dd Meeting Type**. For example:
 
-![Naming convention for internal agendas](../.gitbook/assets/image%20%2865%29.png)
+![Naming convention for internal agendas](https://github.com/BCODMO/documentation_OfficeProcesses/tree/308a58e4db8362e869432567bb3e984ee4fedfbf/.gitbook/assets/image%20%2865%29.png)
 

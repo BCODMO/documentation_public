@@ -2,7 +2,7 @@
 
 Source:  
 Last updated by: K. Soenen  
-Updated at: 
+Updated at:
 
 ## Weekly progress reports
 

@@ -18,11 +18,11 @@ BCO-DMO uses a Google calendar to keep track of office meetings and individual t
 4. "Info" \(old "Pond Scum"\) assignment goes on the BCO-DMO calendar.
 5. Let PIs know when you will be out of the office for a day or longer, and update your calendar so that other members of the group can plan accordingly.
 
-**Single-day absences and multi-day absences/vacations:** Add all absences of **a whole day or longer** to the BCO-DMO calendar and add your personal calendar as a guest \(select Guest permissions to modify event, this makes it easier to change the event, if needed\). See below: 
+**Single-day absences and multi-day absences/vacations:** Add all absences of **a whole day or longer** to the BCO-DMO calendar and add your personal calendar as a guest \(select Guest permissions to modify event, this makes it easier to change the event, if needed\). See below:
 
-![](../.gitbook/assets/image%20%2897%29.png)
+![](https://github.com/BCODMO/documentation_OfficeProcesses/tree/308a58e4db8362e869432567bb3e984ee4fedfbf/.gitbook/assets/image%20%2897%29.png)
 
-**Appointments/absences shorter than one day:** Add all appointments and times you plan to be out of the office to your personal calendar. _**Make sure theses events are visible so that others can see you will be out.**_ ****Note: you can make events visible to others with the label "Busy" without necessarily sharing the details of your appointments. See more on Google Calendar privacy settings: [https://support.google.com/calendar/answer/34580](https://support.google.com/calendar/answer/34580)
+**Appointments/absences shorter than one day:** Add all appointments and times you plan to be out of the office to your personal calendar. _**Make sure theses events are visible so that others can see you will be out.**_ _\*\*_Note: you can make events visible to others with the label "Busy" without necessarily sharing the details of your appointments. See more on Google Calendar privacy settings: [https://support.google.com/calendar/answer/34580](https://support.google.com/calendar/answer/34580)
 
 **If you have an irregular schedule:** Place on the BCO-DMO calendar and add yourself as a guest, as a recurring event, the days of the week you are out of the office.
 
