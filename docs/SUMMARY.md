@@ -12,5 +12,4 @@
 * [Google drive structure](op_gdocs.md)
 * [Internal Meetings & Agendas](op_agenda.md)
 * [External meetings](op_externalmeetings.md)
-* [Documentation on GitHUb](op_githubdocs.md)
 
