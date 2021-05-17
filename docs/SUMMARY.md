@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome](README.md)
 * [General administration](general-administration/README.md)
   * [New Employees](general-administration/new-employees.md)
   * [Time Card](general-administration/time-card.md)
