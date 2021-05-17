@@ -1,9 +1,10 @@
 # New Employees
 
-## Important WHOI sites
+## WHOI sites
 
 * Internal WHOI portal: [https://www.whoi.edu/mywhoi/internal.go](https://www.whoi.edu/mywhoi/internal.go)
 * WHOI Information Systems \(IS\) platform: [https://whoi-it.whoi.edu/](https://whoi-it.whoi.edu/)
+* WHOIKI: [https://wiki.whoi.edu/](https://wiki.whoi.edu/)
 
 ## Checklist: What do you need in BCO-DMO?
 
