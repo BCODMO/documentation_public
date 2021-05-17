@@ -1,6 +1,6 @@
 # Blog
 
-Blogs and all its information is being coordinated by Adam
+Blog posts are being coordinated by Adam.
 
 
 
