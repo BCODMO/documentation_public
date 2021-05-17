@@ -8,7 +8,7 @@
   * [Weekly progress reports](general-administration/weekly-progress-reports.md)
 * [Google Calendar Protocols](google-calendar.md)
 * [Outreach](outreach/README.md)
-  * [Swag & Booth materials](outreach/swag-and-booth-materials.md)
+  * [Swag & Booth Materials](outreach/swag-and-booth-materials.md)
   * [Twitter](outreach/twitter.md)
   * [Blog](outreach/blog.md)
   * [Newsletter](outreach/newsletter.md)
