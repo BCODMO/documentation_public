@@ -12,7 +12,7 @@
   * [Twitter](outreach/twitter.md)
   * [Blog](outreach/blog.md)
   * [Newsletter](outreach/newsletter.md)
-* [Google drive structure](op_gdocs.md)
+* [Google Drive Structure](op_gdocs.md)
 * [Internal Meetings & Agendas](op_agenda.md)
 * [External meetings](op_externalmeetings.md)
 
