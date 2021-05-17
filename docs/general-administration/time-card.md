@@ -4,7 +4,7 @@
 
 [https://whoitime.whoi.edu/unanet/action/login](https://whoitime.whoi.edu/unanet/action/login)
 
-Time card reporting is done a week before paychecks arrive. They need to be filled out and submitted by the Thursday before.
+Time cards are due every other week on Thursday afternoon. 
 
 The number to charge is added by Christina Cuellar \([ccuellar@whoi.edu](mailto:ccuellar@whoi.edu)\) in Bio.
 
