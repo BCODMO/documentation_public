@@ -14,5 +14,5 @@
   * [Newsletter](outreach/newsletter.md)
 * [Google Drive Structure](op_gdocs.md)
 * [Internal Meetings & Agendas](op_agenda.md)
-* [External meetings](op_externalmeetings.md)
+* [External Meetings](op_externalmeetings.md)
 

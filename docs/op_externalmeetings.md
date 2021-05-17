@@ -1,4 +1,4 @@
-# External meetings
+# External Meetings
 
 Source: [https://drive.google.com/drive/u/1/folders/1IFHPXYCnplsMZpK8wxYZrBz2LWAR3Bg\_](https://drive.google.com/drive/u/1/folders/1IFHPXYCnplsMZpK8wxYZrBz2LWAR3Bg_)  
 Last updated:  
