@@ -6,7 +6,7 @@ Updated at:
 
 ## Weekly progress reports
 
-These are weekly reports to update Danie and Adam
+These are weekly reports to update Danie and Adam.
 
 ### Template
 

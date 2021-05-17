@@ -1,5 +1,5 @@
 ---
-description: Description of our graphics and outreach efforts.
+description: Description of our community outreach efforts and associated graphics.
 ---
 
 # Outreach
@@ -10,19 +10,19 @@ UpdatedL 2020-04-09
 
 ## Graphics
 
-Karen has been making posters and banners in Inkscape, the stock pictures, headshots and logos used for these can be found in our team drive in the [graphics folder](https://drive.google.com/drive/u/1/folders/1y44Ng34G2K7X6V7bBrrnL-NOfcAAyICG%20).
+Karen has been making posters and banners in Inkscape \([https://inkscape.org/](https://inkscape.org/)\). The stock pictures, headshots, and logos used for these can be found in our team drive in the [graphics folder](https://drive.google.com/drive/u/1/folders/1y44Ng34G2K7X6V7bBrrnL-NOfcAAyICG%20).
 
 ### BCO-DMO logo
 
-The BCO-DMO logo is currently being reworked by Element84. But the current logo can be found in the graphics folder
+The BCO-DMO logo is currently being reworked by Element84, but the current logo can be found in the graphics folder.
 
 ### WHOI logo and templates
 
-The whoi logos themselves are copied from the [WHOI graphics department](https://www.whoi.edu/graphics/resources.html)
+The WHOI logos themselves are provided by the [WHOI graphics department](https://www.whoi.edu/graphics/resources.html).
 
 ## Presentation template
 
-I \[Karen\] am working on a new [presentation template](https://drive.google.com/drive/u/1/folders/1DgUhJrRwVpoTrAk4p61l70LFHNLZUsw-), but would like to add the new BCO-DMO logo to it.
+Karen is working on a new [presentation template](https://drive.google.com/drive/u/1/folders/1DgUhJrRwVpoTrAk4p61l70LFHNLZUsw-), but would like to add the new BCO-DMO logo to it.
 
 ## 
 
