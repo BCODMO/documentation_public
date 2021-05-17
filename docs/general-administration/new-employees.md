@@ -5,7 +5,7 @@
 * Internal WHOI portal: [https://www.whoi.edu/mywhoi/internal.go](https://www.whoi.edu/mywhoi/internal.go)
 * WHOI Information Systems \(IS\) platform: [https://whoi-it.whoi.edu/](https://whoi-it.whoi.edu/)
 
-## Checklist: What do you need in BCO-DMO
+## Checklist: What do you need in BCO-DMO?
 
 * HR will give you your employee number
 * Email account set-up:
@@ -18,19 +18,19 @@
 * WHOI ID
   * Same as MBL library card
   * Ask for IS at MBL Swope Building
-* Google drive acces
+* Google Drive access
   * Use "service request form" on IS site 
-  * Send personal email to Fay Cali \(works at information services\), for access to google drive
-* WHOI github + BCODMO github account
-  * You need a personal GitHub account
-  * Ask Adam to add you to BCO-DMO GitHub
+  * Send a personal email to Fay Cali \(works at information services\), for access to Google Drive
+* WHOI github + BCO-DMO github account
+  * You first need a personal GitHub account
+  * Then ask Adam to add you to BCO-DMO GitHub
   * Use "service request form" on IS site to be added to the WHOI GitHub account
 * Corporate credit card
-  * Google search "Corporate credit card WHOI"
+  * See [https://www.whoi.edu/procurement/welcome](https://www.whoi.edu/procurement/welcome) 
 * Building keys and car stickers
   * WHOI internal -&gt; administration & operations -&gt; Facilities -&gt; building services -&gt; keys and stickers
-* Personal Laptop"
-  * Do internet search
+* Personal Laptop
+  * Do internet search for your preferred computer
   * Communicate with your supervisor who will coordinate purchase with IS
-* Access to bco-dmo server  and set appropriate permissions \(system/technical Admin\)
+* Access to BCO-DMO servers and tools with appropriate permissions \(system/technical Admin\)
 

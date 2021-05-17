@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [General administration](general-administration/README.md)
+* [General Administration](general-administration/README.md)
   * [New Employees](general-administration/new-employees.md)
   * [Time Card](general-administration/time-card.md)
   * [Expenses](general-administration/expenses.md)

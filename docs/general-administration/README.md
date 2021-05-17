@@ -1,2 +1,2 @@
-# General administration
+# General Administration
 
