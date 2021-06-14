@@ -69,7 +69,7 @@ Regular weekly Data Manager meetings take place on Mondays at 10:00 AM. These me
       2. Assigns action items within the notes.
    4. The Meeting Lead circulates the agenda via email and/or Slack at least 24 hr prior to meeting \(e.g. the Friday before a Monday meeting\). Link the meeting notes to the [BCO-DMO Agenda Topics - Leaders/Rapper](https://docs.google.com/spreadsheets/d/1cDwIKKJ7GV0TSXGqv9J0UiF4nfJrGy-VKR5me6iwnQM/edit#gid=1479734122) sheet.
    5. The issue creator should provide any relevant notes or links on the agenda. DMs should review this information before the meeting and come prepared.
-   6. Meeting Lead arrives 10 minutes early to ensure remote staff are on the call line and any projection or display is working and ready.
+   6. For in-person meetings, the Meeting Lead arrives 10 minutes early to ensure remote staff are on the call line and any projection or display is working and ready.
 2. **During the meeting:**
    1. Use agenda to introduce issues/topics:
       1. Describes issues. Why is this important? What’s at stake?  
