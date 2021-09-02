@@ -2,6 +2,9 @@
 
 ## Requirements
 
+* NSF funded
+* Project is registered
+
 ## The BCO-DMO Data Package
 
 ### Metadata
