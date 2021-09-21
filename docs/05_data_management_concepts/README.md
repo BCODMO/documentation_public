@@ -1,4 +1,4 @@
-# Data Management Concepts
+# Why curating data?
 
 ## Data Management Best Practices Guide <a id="page-title"></a>
 

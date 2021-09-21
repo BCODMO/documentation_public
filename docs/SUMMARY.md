@@ -14,7 +14,7 @@
   * [Citing Data - Terms of Use](04_data_access/02_access_citing_terms_of_use.md)
   * [ERDDAP](04_data_access/03_access_erddap.md)
   * [GeoMapper](04_data_access/04_access_geomapper.md)
-* [Data Management Concepts](05_data_management_concepts/README.md)
+* [Why curating data?](05_data_management_concepts/README.md)
   * [F.A.I.R Data](05_data_management_concepts/01_concepts_fair.md)
 * [Tutorials](06_tutorials.md)
 * [Office Processes \(move\)](office-processes-move/README.md)
