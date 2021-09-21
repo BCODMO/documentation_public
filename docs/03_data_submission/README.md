@@ -44,7 +44,7 @@ B. Submit [**Dataset Metadata Form\(s\)**](https://www.bco-dmo.org/objectserver/
 
 ## Steps to submit data
 
-1. Make sure your **project is registered** with BCO-DMo before submitting data. 
+1. Make sure your **project is registered** with BCO-DMO before submitting data. 
 2. Prepare your dataset package: i.e metadata and data
 3. **Submit:** 
    * Send applicable metadata forms and data files to info@bco-dmo.org
