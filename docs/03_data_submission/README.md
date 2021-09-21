@@ -42,6 +42,22 @@ A. Complete a[ Dataset Metadata Form](https://www.bco-dmo.org/objectserver/17ecc
 
 B. Submit [**Dataset Metadata Form\(s\)**](https://www.bco-dmo.org/objectserver/17ecc38b88a356c9197916f3aa48ee5e/DATASET.rtf?url=http%3A%2F%2Fwww.bco-dmo.org%2Ffiles%2Fbcodmo%2FDATASET.rtf&f=6430313539336162363963383235343735636130666666393564323330373132687474703a2f2f7777772e62636f2d646d6f2e6f72672f66696c65732f62636f646d6f2f444154415345542e727466) and all data files to [**info@bco-dmo.org**](mailto:info@bco-dmo.org). You can expect to receive a reply within 48-hours.
 
+## Steps to submit data
+
+1. Make sure your **project is registered** with BCO-DMo before submitting data. 
+2. Prepare your dataset package: i.e metadata and data
+3. **Submit:** 
+   * Send applicable metadata forms and data files to info@bco-dmo.org
+   * You will receive a reply from one of our Data Managers confirming receipt of your forms and data files, if applicable
+   * If a data set is too large to send as an email attachment, please contact us for instructions on the best way to contribute your data.
+   * NOTE: We strongly encourage you to submit data at least one month in advance of any pressing deadlines \(e.g. NSF reports, manuscript publication\) to provide adequate data processing time
+
+* Send applicable metadata forms and data files to info@bco-dmo.org.
+* Send applicable metadata forms and data files to info@bco-dmo.org. • You will receive a reply from one of our Data Managers confirming receipt of your forms and data files, if applicable. • If a data set is too large to send as an email attachment, please contact us for instructions on the best way to contribute your data. • NOTE: We strongly encourage you to submit data at least one month in advance of any pressing deadlines \(e.g. NSF reports, manuscript publication\) to provide adequate data processing time
+
+1. **Collaborate:** A Data Manager will begin the process of making the data available online. We strive to develop robust metadata that will ensure the data are easily discoverable and reusable. Your Data Manager will contact you with follow-up questions or requests for more information to ensure that the metadata is complete. This may be an iterative process, so your patience and cooperation are greatly appreciated.
+2. **Validate**: Once your datasets are online, you’ll be asked to review the data and metadata for completeness and accuracy. This validation stage is the final step in the process, and necessary for assignment of DOIs and long-term archive. Once datasets are reviewed and validated by the contributor, BCO-DMO ensures that the data are archived properly at the appropriate National Data Center \(e.g. National Centers for Environmental Information, NCEI\).
+
 
 
 
@@ -79,7 +95,7 @@ A Data Manager will begin the process of making the data available online. We st
   
 Validate 
 
-Once your datasets are online, you’ll be asked to review the data and metadata for completeness and accuracy. This validation stage is the final step in the process, and necessary for assignment of DOIs and long-term archive. Once datasets are reviewed and validated by the contributor, BCO-DMO ensures that the data are archived properly at the appropriate National Data Center \(e.g. National Centers for Environmental Information, NCEI6\).
+Once your datasets are online, you’ll be asked to review the data and metadata for completeness and accuracy. This validation stage is the final step in the process, and necessary for assignment of DOIs and long-term archive. Once datasets are reviewed and validated by the contributor, BCO-DMO ensures that the data are archived properly at the appropriate National Data Center \(e.g. National Centers for Environmental Information, NCEI\).
 
 
 
