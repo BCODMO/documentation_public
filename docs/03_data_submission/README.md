@@ -96,3 +96,13 @@ Validate
 
 Once your datasets are online, you’ll be asked to review the data and metadata for completeness and accuracy. This validation stage is the final step in the process, and necessary for assignment of DOIs and long-term archive. Once datasets are reviewed and validated by the contributor, BCO-DMO ensures that the data are archived properly at the appropriate National Data Center \(e.g. National Centers for Environmental Information, NCEI6\).
 
+
+
+**What happens next?**
+
+After we receive your data and metadata, a data manager will begin the process of making the data available online. Data managers may contact you with follow-up questions or to obtain feedback. You'll be asked to review the data and metadata for completeness and accuracy.
+
+After the data are online and fully documented, our office will ensure that the data are archived properly at the appropriate National Data Center \(e.g. [National Centers for Environmental Information, NCEI](https://www.ncei.noaa.gov/)\). We have developed a partial [list of National Data Centers](http://www.bco-dmo.org/resources/data_archiving) where data managed by BCO-DMO are sent for long-term archive. As part of the archive process, we'll assign a DOI to every dataset, which should be included whenever you cite the dataset.
+
+**Please see our** [**Frequently Asked Questions**](http://bco-dmo.org/faq-page) **page for additional information about BCO-DMO.**
+
