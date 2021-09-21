@@ -41,3 +41,7 @@ C. If data were collected from a research vessel, mooring, glider, or other uniq
 * Deployments help describe the geographic and temporal scale of datasets and provide context for mapping the associated data.
 * The Rolling Deck to Repository, R2R\(5\), provides cruise data for vessels in the UNOLS fleet. For data on these cruises, you need only reference the R2R cruise identifier and BCO-DMO does the rest.
 
+Submit 
+
+Send applicable metadata forms and data files to info@bco-dmo.org. • You will receive a reply from one of our Data Managers confirming receipt of your forms and data files, if applicable. • If a data set is too large to send as an email attachment, please contact us for instructions on the best way to contribute your data. • NOTE: We strongly encourage you to submit data at least one month in advance of any pressing deadlines \(e.g. NSF reports, manuscript publication\) to provide adequate data processing time
+
