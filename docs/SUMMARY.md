@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Is BCO-DMO my repository?](is-bco-dmo-my-repository.md)
 * [Data Management Plan](01_data_management_plan.md)
 * [Register your Project](02_project_registration.md)
 * [Submit Data](03_data_submission/README.md)
