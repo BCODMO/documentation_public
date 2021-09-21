@@ -9,7 +9,13 @@
 
 ## The BCO-DMO Data Package
 
-### Metadata
+### Metadata:
+
+* Parameters
+* Methods
+* People: Please indicate all the people that you want to attribute to the dataset and its citation. We have the ability to add people with the following roles: PI, co-PI, Scientist, Student, Long term contact, Technician and Data Manager. 
+
+
 
 ### Data
 
