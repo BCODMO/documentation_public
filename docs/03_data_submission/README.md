@@ -5,6 +5,23 @@
 * NSF funded
 * Project is registered
 
+You should contribute data to BCO-DMO if your project is funded by **NSF OCE's Biological** or **Chemical Oceanography Sections** or the **Division of Polar Programs' Antarctic Organisms & Ecosystems Program**.
+
+BCO-DMO provides data management services at no additional cost to projects funded by NSF's Division of Ocean Sciences' Biological and Chemical Oceanography Sections and the Division of Polar Programs' Antarctic Organisms & Ecosystems Program. BCO-DMO staff members work with researchers funded by these NSF programs to ensure that data and metadata contributed to BCO-DMO are in compliance with the current [NSF OCE Sample and Data Policy](https://nsf.gov/pubs/2017/nsf17037/nsf17037.jsp?org=NSF) \(NSF 17-037\). **To contribute data to BCO-DMO, please see Section II of this page, "How to contribute data and metadata to BCO-DMO."**
+
+If your project is funded by another source: we have a list of some [suggested data management centers](https://www.bco-dmo.org/how-get-started#other_data_centers) below.
+
+**Other suggested data management centers \(if your project is not funded by an NSF section that BCO-DMO serves\):**
+
+Not all NSF funded projects are supported free of charge by BCO-DMO. Some other recommended data centers include:
+
+* For NSF-sponsored Physical Oceanography projects, investigators are encouraged to contact the [CLIVAR and Carbon Hydrographic Data Office](https://cchdo.ucsd.edu/) [\(CCHDO\)](https://cchdo.ucsd.edu/) or archive their data directly with the [National Centers for Environmental Information](http://www.ncei.noaa.gov/) [\(NCEI\)](http://www.ncei.noaa.gov/). 
+* For marine geology, contact the [Interdisciplinary Earth Data Alliance](http://www.iedadata.org/)  \(IEDA\) group hosted at Lamont-Doherty Earth Observatory, Columbia University.
+* For projects supported by NSF Arctic Sciences Program \(ARC\) investigators, the [Arctic Data Center](https://arcticdata.io/) which succeeds the [Advanced Cooperative Arctic Data and Information Service](http://nsidc.org/acadis/) \(ACADIS\), should be contacted. The Arctic Data Center is supported by NSF and is led by the [National Center for Ecological Analysis and Synthesis \(NCEAS\)](https://www.nceas.ucsb.edu/) at the University of California Santa Barbara, to develop and curate the NSF [Arctic Data Center](https://arcticdata.io/), an archive for Arctic scientific data as well as other related research documents.
+* Gulf of Mexico Research Initiative \(GoMRI\) funded projects can submit data to their regional GoMRI location. See [https://data.gulfresearchinitiative.org/about](https://data.gulfresearchinitiative.org/about) for additional information including their data management plan under the "Design and Management" menu option.
+
+**OCB research community:** Guidance to OCB scientists who are uncertain where to submit or propose to submit their data is available from the [OCB website.](https://www.us-ocb.org/science-support/data-management-and-archival/)
+
 ## The BCO-DMO Data Package
 
 ### Metadata
@@ -13,9 +30,34 @@
 
 ### Deployment
 
+ **How to Contribute Deployments**
+
+A. Complete a[ Deployment Metadata Form](https://www.bco-dmo.org/objectserver/437fa51fd6b51261bacad274d44982cc/DEPLOYMENT.rtf?url=http%3A%2F%2Fwww.bco-dmo.org%2Ffiles%2Fbcodmo%2FDEPLOYMENT.rtf&f=3332386338323363636634616565393339363032353634633263306237626430687474703a2f2f7777772e62636f2d646d6f2e6f72672f66696c65732f62636f646d6f2f4445504c4f594d454e542e727466) \(.rtf\) to provide information about a specific cruise, mooring, laboratory, or some other unique experience of data collection or analysis. This form should be submitted in conjuction with datasets resulting from the deployment.
+
+* Complete this form if it is applicable to the dataset\(s\) you are submitting.
+* Deployments help to describe the geographic and temporal scale of datasets.
+* Deployments provide context for mapping the associated data.
+
+B. Submit the [**Deployment Metadata Form**](https://www.bco-dmo.org/objectserver/437fa51fd6b51261bacad274d44982cc/DEPLOYMENT.rtf?url=http%3A%2F%2Fwww.bco-dmo.org%2Ffiles%2Fbcodmo%2FDEPLOYMENT.rtf&f=3332386338323363636634616565393339363032353634633263306237626430687474703a2f2f7777772e62636f2d646d6f2e6f72672f66696c65732f62636f646d6f2f4445504c4f594d454e542e727466) along with the Dataset Metadata Form\(s\) and data files to [**info@bco-dmo.org**](http://info@bco-dmo.org.). You can expect to receive a reply within 48-hours.
+
 
 
 ## Automatic Submission Tool
+
+website: **How to Contribute Data**
+
+A. Complete a[ Dataset Metadata Form](https://www.bco-dmo.org/objectserver/17ecc38b88a356c9197916f3aa48ee5e/DATASET.rtf?url=http%3A%2F%2Fwww.bco-dmo.org%2Ffiles%2Fbcodmo%2FDATASET.rtf&f=6430313539336162363963383235343735636130666666393564323330373132687474703a2f2f7777772e62636f2d646d6f2e6f72672f66696c65732f62636f646d6f2f444154415345542e727466) \(.rtf\) to provide information about each unique dataset collected within a project.
+
+* A Dataset Metadata Form should be completed for each dataset contributed to BCO-DMO.
+* Please send us your _processed_ data when pertaining to acoustics, CTDs, and ADCPs.
+* We accept data in any format, but comma- or tab-delimited \(preferred\) ASCII files or Excel spreadsheets are most common. If contributing data as an Excel file, please see our [tips for submitting data in a spreadsheet](http://www.bco-dmo.org/submitting-data-spreadsheet).
+* **Sequence accession numbers** and the associated data can be contributed to BCO-DMO and we can provide links to the sequence repository \(such as NCBI's GenBank\). Please see "[Contributing Genetic Accessions \(omics\)](https://www.bco-dmo.org/contributing-sequence-accession-numbers)" for more information.
+* See [**Submitting Code, Software, and Models**](https://www.bco-dmo.org/page/submitting-code-software-and-models) if you have code files associated with your dataset\(s\).
+* Most datasets can be contributed as email attachments along with their respective completed Dataset Metadata Form. If the dataset is too large to contribute as an email attachment, please email [info@bco-dmo.org](mailto:info@bco-dmo.org) for instructions on the best way to contribute your data \(e.g. DropBox, FTP, etc.\).
+
+B. Submit [**Dataset Metadata Form\(s\)**](https://www.bco-dmo.org/objectserver/17ecc38b88a356c9197916f3aa48ee5e/DATASET.rtf?url=http%3A%2F%2Fwww.bco-dmo.org%2Ffiles%2Fbcodmo%2FDATASET.rtf&f=6430313539336162363963383235343735636130666666393564323330373132687474703a2f2f7777772e62636f2d646d6f2e6f72672f66696c65732f62636f646d6f2f444154415345542e727466) and all data files to [**info@bco-dmo.org**](mailto:info@bco-dmo.org). You can expect to receive a reply within 48-hours.
+
+
 
 
 
@@ -44,4 +86,13 @@ C. If data were collected from a research vessel, mooring, glider, or other uniq
 Submit 
 
 Send applicable metadata forms and data files to info@bco-dmo.org. • You will receive a reply from one of our Data Managers confirming receipt of your forms and data files, if applicable. • If a data set is too large to send as an email attachment, please contact us for instructions on the best way to contribute your data. • NOTE: We strongly encourage you to submit data at least one month in advance of any pressing deadlines \(e.g. NSF reports, manuscript publication\) to provide adequate data processing time
+
+Collaborate 
+
+A Data Manager will begin the process of making the data available online. We strive to develop robust metadata that will ensure the data are easily discoverable and reusable. Your Data Manager will contact you with follow-up questions or requests for more information to ensure that the metadata is complete. This may be an iterative process, so your patience and cooperation are greatly appreciated.
+
+  
+Validate 
+
+Once your datasets are online, you’ll be asked to review the data and metadata for completeness and accuracy. This validation stage is the final step in the process, and necessary for assignment of DOIs and long-term archive. Once datasets are reviewed and validated by the contributor, BCO-DMO ensures that the data are archived properly at the appropriate National Data Center \(e.g. National Centers for Environmental Information, NCEI6\).
 
