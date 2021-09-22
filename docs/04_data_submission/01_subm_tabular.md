@@ -44,13 +44,9 @@ as the value for "Wire Out" is difficult to serve as a number. The units, â€œmâ€
 
 
 
-## Figures and supplemental files
+## Figures and supplemental files \(non-tabular data\)
 
- Usually graphs are not included in the served data. It is easier for us to deal with a spreadsheet that does not contain graphs. However, if you do want to make graphs, or other images, available to others that is fine. These can be served as "data" too, usually as a separate dataset. We can accept images \(and movies\) in just about any common format, such as gif, tif, jpeg, mov, etc. Long \(or short\) descriptions are best provided separately, as part of the descriptions of how the data were collected or processed.
+Usually graphs are not included in the served data. It is easier for us to deal with a spreadsheet that does not contain graphs. 
 
-7. **Non-tabular data**: Spreadsheets can contain lots of other things besides tables of numbers. For example, we sometimes see spreadsheets containing graphs, and long descriptions.
-
-
-
-\_\_
+If you do want to make graphs, or other images, available to others that is fine. These can be served as "data" too, usually as a separate dataset. We can accept images \(and movies\) in just about any common format, such as gif, tif, jpeg, mov, etc. Long \(or short\) descriptions are best provided separately, as part of the descriptions of how the data were collected or processed.
 
