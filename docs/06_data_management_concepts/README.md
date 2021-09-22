@@ -16,8 +16,6 @@ Curating and providing open access to research data is a collaborative process. 
 
 \[INSERT FIGURE OF DATA LIFECYLE\]
 
-
-
 ## F.A.I.R Principles
 
 The four F.A.I.R. Principles \(Wilkinson et al., 2016\) comprise a set of values indented to guide data producers and publishers in establishing good data management and stewardship practices. These principles are at the core mission of BCO-DMO:
