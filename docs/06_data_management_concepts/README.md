@@ -1,15 +1,34 @@
 # Why curating data?
 
-## Data Management Best Practices Guide <a id="page-title"></a>
+## Open Data
 
-The purpose of this [guide](https://www.bco-dmo.org/sites/default/files/page_files/BCO-DMO_best_prac_v1d2_App5.pdf) \(PDF\) is to provide ocean scientists with a description of “best practices” designed to enable projects to quickly and efficiently make their data publicly available through the auspices of the Biological and Chemical Oceanography Data Management Office \(BCO-DMO\).
+The inherent value that data hold to the research process cannot be overstated, and existing data hold great potential to **accelerate scientific discovery through reuse once shared**.
 
-Please cite the guide as:  
- BCO-DMO. \(2008\) "BCO-DMO Data Management Guidelines Manual". Biological and Chemical Oceanography Data Management Office. Woods Hole Oceanographic Institution. November 2008. [https://www.bco-dmo.org/data-management-best-practices-guide](https://www.bco-dmo.org/data-management-best-practices-guide)
+The concept of open data, data that are publicly and freely discoverable, accessible, and reusable \(opendefinition.org\), has been steadily gaining momentum in the scientific community: “Open data is like a renewable energy source: it can be reused without diminishing its original value, and reuse creates new value.” \(Science et al., 2017\).
 
-The Biological and Chemical Oceanography Data Management Office \(BCO-DMO\) staff members work with investigators to publish data from research projects funded by the Biological and Chemical Oceanography Sections and the Division of Polar Programs Antarctic Organisms & Ecosystems Program at the U.S. National Science Foundation.
+Realizing the value of open data within the scientific research landscape, several stakeholders from funders to publishers, are driving change in the culture of data sharing \(Mayernik, 2012, Costas et al., 2013; NSF17-037, 2017; Holdren, 2013\). With this shift, many digital data repositories have come online to provide data management services that meet stakeholder needs for data discovery and access.
 
-### Need help?
+However, in order for data to be reused efficiently and effectively, they must also be **well managed and stewarded**. Here, domain-specific repositories add great value to their community’s research data by bringing subject matter expertise to the curation process \(Lenhert, 2015; ICPSR, 2013\).
 
-Please contact one of us at [info@bco-dmo.org](mailto:info@bco-dmo.org?subject=BCO-DMO%20question%2Fcomment), if you have any questions or comments about the BCO-DMO initiative or would like to discuss publication of data or results from your project.
+## Data Life Cycle
+
+Curating and providing open access to research data is a collaborative process. This process may be thought of as a life cycles with data passing through various phases. Each phase has its own associated actors, roles, and critical activities. Good data management practices are necessary for all phases, from proposal to preservation.
+
+\[INSERT FIGURE OF DATA LIFECYLE\]
+
+
+
+## F.A.I.R Principles
+
+The four F.A.I.R. Principles \(Wilkinson et al., 2016\) comprise a set of values indented to guide data producers and publishers in establishing good data management and stewardship practices. These principles are at the core mission of BCO-DMO:
+
+* **Findable**: Data are linked to descriptive persistent metadata
+* **Accessible:** Data and metadata are open, free, and machine accessible
+* **Interoperable**: Data and metadata are standardized, and use vocabularies. Data points to related metadata
+* **Reusable**: Metadata are rich, and employ usage licenses, provenance, and community standards.
+
+**Must reads on the F.A.I.R. principles.** Wilkinson _et al._ \(2016\) was the start on this topic, while Stall _et al_. \(2018\) highlights activities aimed at promoting FAIR principles within the Earth and space science communities.
+
+* Wilkinson, M., Dumontier, M., Aalbersberg, I. et al. The FAIR Guiding Principles for scientific data management and stewardship. Sci Data **3,** 160018 \(2016\). [https://doi.org/10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
+* Stall, S., et al. \(2018\), Advancing FAIR data in Earth, space, and environmental science, Eos, 99, [https://doi.org/10.1029/2018EO109301](https://doi.org/10.1029/2018EO109301). Published on 05 November 2018
 
