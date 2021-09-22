@@ -1,3 +1,7 @@
+---
+description: Organize data within a spreadsheet for inclusion in the BCO-DMO data system.
+---
+
 # Tabular Data
 
 This page makes some suggestions on how to organize data within a spreadsheet for inclusion in the BCO-DMO data system. We will accept your data in whatever form and format you provide. BCO-DMO wants to make it as easy as possible for researchers to submit their data so others can use them for further studies. There are ways of setting up the spreadsheet and entering the data that can make it significantly easier to serve. If possible, please try to follow as many of these guidelines as you can.
