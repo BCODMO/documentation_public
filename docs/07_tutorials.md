@@ -6,7 +6,7 @@ description: A summary of useful tutorials and workshops for the BCO-DMO user co
 
 ## Carpentries style workshop and training
 
-Here is a list of workshops staff members of BCO-DMO have been teaching in the past. All of the workshops are data related and could potentially be useful for the wider community that BCO-DMO is serving. When teaching workshops, we mostly follow the carpentries style workshops, but this is not always the case.
+Here is a list of workshops staff members of BCO-DMO have been teaching in the past. All of the workshops are data related and could potentially be useful for the wider community that BCO-DMO is serving. When teaching workshops, we mostly follow the carpentries style workshops \(Instructors are trained in pedagogy and focus on creating a motivating and engaging environment for learners\).
 
 [Unleashing your data potential: Wrangling data tables using Python and the pandas package](https://k-rns.github.io/2020-05-22-WHOI-online/)
 
