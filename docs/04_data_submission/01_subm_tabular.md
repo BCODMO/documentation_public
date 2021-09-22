@@ -36,15 +36,27 @@ To set up a data table for reuse, the basic rule of thumb is that **a file shoul
 
 
 
-**Header row**: 
+### **Header row**
 
-**Text format/color**: We cannot directly portray data that is denoted by text formatting or cell color.  For example, different colored text might be used for types of gear. This cannot be displayed in the served data. Please consider this when designing your spreadsheet and include such information in a separate data or comment column.
+### Text format and color
 
-**Blanks vs. 0**: There is a difference between a blank cell and a cell with a value of zero \(0\). A blank cell denotes a missing or undefined value, whereas a value of zero \(0\) means the value was measured as zero \(0\). We usually change blank entries to the value of “nd” meaning “no data”. \(The quotes are not included.\)
+We cannot directly portray data that is denoted by text formatting or cell color.  For example, different colored text might be used for types of gear. This cannot be displayed in the served data. Please consider this when designing your spreadsheet and include such information in a separate data or comment column.
+
+Merged cells
+
+### Blanks, no data value, below detection limit or 0's 
+
+There is a difference between a blank cell and a cell with a value of zero \(0\). A blank cell denotes a missing or undefined value, whereas a value of zero \(0\) means the value was measured as zero \(0\). We usually change blank entries to the value of “nd” meaning “no data”. \(The quotes are not included.\)
+
+### Ranges
 
 It is difficult to serve **ranges** of values within a single cell. If there are ranges, it is better to have two separate columns, one for each end of the range, such as depth\_min and depth\_max.  This is because the ranges are interpreted as text and therefore cannot be plotted or easily manipulated.
 
-**Units** should not appear in a data cell, such as 0.5 knots. The cell should contain just the value, 0.5. The units can appear as a separate line underneath the column headers, or in a separate document, or as part of the column name.
+### **Units** 
+
+should not appear in a data cell, such as 0.5 knots. The cell should contain just the value, 0.5. The units can appear as a separate line underneath the column headers, or in a separate document, or as part of the column name.
+
+### Comments
 
 **Comments** should appear in a separate column and not be part of data values. For example,
 
@@ -61,4 +73,6 @@ as the value for "Wire Out" is difficult to serve as a number. The units, “m�
 Usually graphs are not included in the served data. It is easier for us to deal with a spreadsheet that does not contain graphs. 
 
 If you do want to make graphs, or other images, available to others that is fine. These can be served as "data" too, usually as a separate dataset. We can accept images \(and movies\) in just about any common format, such as gif, tif, jpeg, mov, etc. Long \(or short\) descriptions are best provided separately, as part of the descriptions of how the data were collected or processed.
+
+## Use examples of well formated tables
 
