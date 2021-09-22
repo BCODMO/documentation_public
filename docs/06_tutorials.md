@@ -18,7 +18,7 @@ Intro to APIs: Case study to match taxonomic names in Python \[in progress\]
 
 [Reusing On-line Data: Intro to the ERDDAP API](https://k-rns.github.io/2021-10-27-WHOI-DataReuse/)  \[in progress\]
 
-Data Management in \(Ocean Sciences\) - Interactive class \[50 min class for high school students\] Soenen, Karen, Harden, Benjamin E., “Data Management in \(Ocean\) Sciences – Interactive Class”, Presented at Sea Education Association, Woods Hole, MA, February 26, 2020, DOI:10.1575/1912/25970, [https://hdl.handle.net/1912/25970](https://hdl.handle.net/1912/25970)
+[Data Management in \(Ocean Sciences\) - Interactive class](https://hdl.handle.net/1912/25970) \[50 min class for high school students\] Soenen, Karen, Harden, Benjamin E., “Data Management in \(Ocean\) Sciences – Interactive Class”, Presented at Sea Education Association, Woods Hole, MA, February 26, 2020, DOI:10.1575/1912/25970, [https://hdl.handle.net/1912/25970](https://hdl.handle.net/1912/25970)
 
 ## ESIP Data Management Short Course <a id="page-title"></a>
 
@@ -32,7 +32,7 @@ The ESIP Data Management Short Course is freely available on the ESIP Commons we
 
 Data access tutorial: [https://www.bco-dmo.org/files/bcodmo/BCO-DMO\_Tutorial.pdf](https://www.bco-dmo.org/files/bcodmo/BCO-DMO_Tutorial.pdf) 
 
-
+[BCO-DMO Youtube Channel ](https://www.youtube.com/user/BCODMO)
 
 
 
