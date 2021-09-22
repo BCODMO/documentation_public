@@ -17,7 +17,7 @@ BCO-DMO staff members work with researchers funded by these NSF programs to ensu
 
 If your project is not funded by an NSF section that BCO-DMO serves, we have compiled a list of recommended data centers below. 
 
-However, if your data 
+However, if your data fits our domain, we 
 
 \*\*\*\*
 
