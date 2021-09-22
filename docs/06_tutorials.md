@@ -16,7 +16,7 @@ Here is a list of workshops staff members of BCO-DMO have been teaching in the p
 
 Intro to APIs: Case study to match taxonomic names in Python \[in progress\]
 
-[Reusing online data: intro to the erddap API](https://k-rns.github.io/2021-10-27-WHOI-DataReuse/) \[in progress\]
+[Reusing On-line Data: Intro to the ERDDAP API](https://k-rns.github.io/2021-10-27-WHOI-DataReuse/)  \[in progress\]
 
 Data Management in \(Ocean Sciences\) - Interactive class \[50 min class for high school students\] Soenen, Karen, Harden, Benjamin E., “Data Management in \(Ocean\) Sciences – Interactive Class”, Presented at Sea Education Association, Woods Hole, MA, February 26, 2020, DOI:10.1575/1912/25970, [https://hdl.handle.net/1912/25970](https://hdl.handle.net/1912/25970)
 
