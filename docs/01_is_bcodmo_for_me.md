@@ -1,12 +1,25 @@
 # Is BCO-DMO my repository?
 
-You should contribute data to BCO-DMO if your project is funded by **NSF OCE's Biological** or **Chemical Oceanography Sections** or the **Division of Polar Programs' Antarctic Organisms & Ecosystems Program**.
+## Data types served at BCO-DMO
 
-BCO-DMO provides data management services at no additional cost to projects funded by NSF's Division of Ocean Sciences' Biological and Chemical Oceanography Sections and the Division of Polar Programs' Antarctic Organisms & Ecosystems Program. BCO-DMO staff members work with researchers funded by these NSF programs to ensure that data and metadata contributed to BCO-DMO are in compliance with the current [NSF OCE Sample and Data Policy](https://nsf.gov/pubs/2017/nsf17037/nsf17037.jsp?org=NSF) \(NSF 17-037\). **To contribute data to BCO-DMO, please see Section II of this page, "How to contribute data and metadata to BCO-DMO."**
+BCO-DMO is a **domain specific reporosity,** which means 
 
-If your project is funded by another source: we have a list of some [suggested data management centers](https://www.bco-dmo.org/how-get-started#other_data_centers) below.
+## Projects supported by BCO-DMO
 
-**Other suggested data management centers \(if your project is not funded by an NSF section that BCO-DMO serves\):**
+BCO-DMO provides data management services at no additional cost to projects funded by:
+
+* **NSF OCE's Biological** or **Chemical Oceanography Sections** or the 
+* **Division of Polar Programs' Antarctic Organisms & Ecosystems Program**.
+
+BCO-DMO staff members work with researchers funded by these NSF programs to ensure that data and metadata contributed to BCO-DMO are in compliance with the current [NSF OCE Sample and Data Policy](https://nsf.gov/pubs/2017/nsf17037/nsf17037.jsp?org=NSF) \(NSF 17-037\). 
+
+If your project is not funded by an NSF section that BCO-DMO serves, we have compiled a list of recommended data centers below. 
+
+However, if your data 
+
+\*\*\*\*
+
+## Other recommended domain-specific repositories
 
 Not all NSF funded projects are supported free of charge by BCO-DMO. Some other recommended data centers include:
 
