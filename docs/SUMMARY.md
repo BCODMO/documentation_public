@@ -9,7 +9,7 @@
   * [Genetic accession \(Omics\)](04_data_submission/02_subm_genetics.md)
   * [Software and Code](04_data_submission/03_subm_software_code.md)
   * [GEOTRACES guidance](04_data_submission/04_subm_geotraces.md)
-* [Access Data](05_data_access/README.md)
+* [Access & Data Reuse](05_data_access/README.md)
   * [Dataset Package](05_data_access/01_access_dataset.md)
   * [Citing Data - Terms of Use](05_data_access/02_access_citing_terms_of_use.md)
   * [ERDDAP](05_data_access/03_access_erddap.md)
