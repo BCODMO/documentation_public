@@ -4,8 +4,6 @@ From quickguide:
 
 Once data are processed and published online, the BCO-DMO website enables data discovery via text and geospatial search interfaces, making it easy for users to find datasets of choice. Through text-based searches, the database can be searched by cruise, project, person, or any keyword provided in metadata upon submission. Access to data is made possible from the Dataset Landing pages, and data may be subsetted, plotted, and reformatted prior to download. The BCO-DMO database encompasses the full range of oceanographic measurement types from limnological, physical, chemical, biological and/or ecological, and biogeochemical sub-domains. [http://bco-dmo.org/](http://bco-dmo.org/)
 
-
-
 ## Text-based Access <a id="page-title"></a>
 
 Text-based access to the data and information managed by BCO-DMO is provided by the Drupal content management system \(CMS\). Drupal, a CMS freely available to anyone, manages the more or less static web pages, including information about BCO-DMO and how to contact and contribute data to BCO-DMO, and manages the metadata, that is, the information about the data.
