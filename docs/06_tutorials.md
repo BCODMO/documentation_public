@@ -1,3 +1,7 @@
+---
+description: A summary of useful tutorials and workshops for the BCO-DMO user community.
+---
+
 # Tutorials
 
 ## ESIP Data Management Short Course <a id="page-title"></a>
@@ -11,4 +15,24 @@ The ESIP Data Management Short Course is freely available on the ESIP Commons we
 
 
 Data access tutorial: [https://www.bco-dmo.org/files/bcodmo/BCO-DMO\_Tutorial.pdf](https://www.bco-dmo.org/files/bcodmo/BCO-DMO_Tutorial.pdf) 
+
+
+
+## Carpentries style workshops:
+
+Here is a list of workshops staff members of BCO-DMO have been teaching in the past. All of the workshops are data related and could potentially be useful for the wider community that BCO-DMO is serving.: 
+
+[Unleashing your data potential: Wrangling data tables using Python and the pandas package](https://k-rns.github.io/2020-05-22-WHOI-online/)
+
+[Regular expressions](https://adyork.github.io/regex-intro/)
+
+[Data carpentry for oceanographers ](https://k-rns.github.io/2020-10-26-WHOI-Data/)
+
+Intro to APIs: Case study to match taxonomic names in Python \[in progress\]
+
+[Reusing online data: intro to the erddap API](https://k-rns.github.io/2021-10-27-WHOI-DataReuse/) \[in progress\]
+
+
+
+
 
