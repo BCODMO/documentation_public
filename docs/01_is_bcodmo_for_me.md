@@ -1,3 +1,7 @@
+---
+description: Is your data fit for the BCO-DMO repository?
+---
+
 # Is BCO-DMO my repository?
 
 ## Data types served by BCO-DMO
