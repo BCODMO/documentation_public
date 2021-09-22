@@ -17,9 +17,7 @@ BCO-DMO staff members work with researchers funded by these NSF programs to ensu
 
 If your project is not funded by an NSF section that BCO-DMO serves, we have compiled a list of recommended data centers below. 
 
-However, if your data fits our domain, we 
-
-\*\*\*\*
+However, if your data fits our domain, there are occasions where we are able to provide services to non-OCE projects, but they typically get prioritized after OCE's data needs and come with an additional cost.
 
 ## Other recommended domain-specific repositories
 
