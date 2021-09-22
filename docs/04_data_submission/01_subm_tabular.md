@@ -4,12 +4,22 @@ description: Organize data within a spreadsheet for inclusion in the BCO-DMO dat
 
 # Tabular Data
 
-This page makes some suggestions on how to organize data within a spreadsheet for inclusion in the BCO-DMO data system. We will accept your data in whatever form and format you provide. BCO-DMO wants to make it as easy as possible for researchers to submit their data so others can use them for further studies. There are ways of setting up the spreadsheet and entering the data that can make it significantly easier to serve. If possible, please try to follow as many of these guidelines as you can.
+This page makes some suggestions on how to organize data within a spreadsheet for inclusion in the BCO-DMO data system. We will accept your data in whatever form and format you provide. 
+
+BCO-DMO wants to make it as easy as possible for researchers to submit their data so others can use them for further studies. There are ways of setting up the spreadsheet and entering the data that can make it significantly easier to serve. If possible, please try to follow as many of these guidelines as you can.
 
 ## What information should a data table contain
 
-* **Position data**: Most of the time, data will need to be accompanied by position information so that others can put the data in a geographical context and compare them to other data. It is most convenient if the latitude and longitude values are submitted as decimal degrees with south latitude and west longitude entered as negative numbers. However, providing the position information as degrees and minutes is also okay. Please don’t include the degree, minute or seconds symbols, however.
-* **Date and time**: Entering date and time information is as important as entering the position information. While arguments still persist as to how date and time should be displayed, consistency is the overriding rule of thumb. If you have a choice, it would be best to provide date and time as UTC \(some refer to this as GMT\) \[See Note 1\]. The values can be entered in separate columns, as year, month, day, and time, or as a single long entry like mm-dd-yyyy hh:mm:ss where mm is the month \(January is 01\), dd is the day of the month, yyyy is the four digit year, hh is the hour \(13 is 1:00pm\), mm is minutes, and ss is seconds. The order isn’t important, just be consistent. If you have time zone \(or time difference\) information, please provide that too, either as a number or abbreviation \(e.g. time zone of -8 is UTC - 8 for Pacific Standard Time \[PST\] and time zone of -7 is UTC -7 for Pacific Daylight Time \[PDT\].\) Some like to provide date and time information as a single value, starting at some arbitrary point in time or at the beginning of the year, so that 1.5 would represent January 1 at 12:00pm. Others start counting with 0, so that 1.5 is January 2 at 1200. We can deal with almost any format, but as mentioned above, please be consistent and describe the format you are using.  If you provide date and time as a single value, please don’t forget to include the year information in a separate column or in the header or in a separate document.
+### Position data
+
+Most of the time, data will need to be accompanied by position information so that others can put the data in a geographical context and compare them to other data. 
+
+It is most convenient if the latitude and longitude values are submitted as **decimal degrees with south latitude and west longitude entered as negative numbers.** However, providing the position information as degrees and minutes is also okay. Please don’t include the degree, minute or seconds symbols, however.
+
+### Date & Time information
+
+Entering date and time information is as important as entering the position information. While arguments still persist as to how date and time should be displayed, consistency is the overriding rule of thumb. If you have a choice, it would be best to provide date and time as UTC \(some refer to this as GMT\) \[See Note 1\]. The values can be entered in separate columns, as year, month, day, and time, or as a single long entry like mm-dd-yyyy hh:mm:ss where mm is the month \(January is 01\), dd is the day of the month, yyyy is the four digit year, hh is the hour \(13 is 1:00pm\), mm is minutes, and ss is seconds. The order isn’t important, just be consistent. If you have time zone \(or time difference\) information, please provide that too, either as a number or abbreviation \(e.g. time zone of -8 is UTC - 8 for Pacific Standard Time \[PST\] and time zone of -7 is UTC -7 for Pacific Daylight Time \[PDT\].\) Some like to provide date and time information as a single value, starting at some arbitrary point in time or at the beginning of the year, so that 1.5 would represent January 1 at 12:00pm. Others start counting with 0, so that 1.5 is January 2 at 1200. We can deal with almost any format, but as mentioned above, please be consistent and describe the format you are using.  If you provide date and time as a single value, please don’t forget to include the year information in a separate column or in the header or in a separate document.
+
 * location \(latitude longitude\) of samples or sampling sites
 * _Notes:_  
    1. Coordinated Universal Time \(**UTC**\) is used as the official world reference for time. Coordinated Universal Time replaced the use of Greenwich Mean Time \(GMT\) in 1972. You will sometimes see time zones represented as UTC - 5h or GMT - 5h. In this example the \(-5h\) refers to that time zone being five hours behind UTC. UTC+5h or GMT +5h would refer to that time zone being five hours ahead of UTC or GMT.
@@ -22,7 +32,9 @@ This page makes some suggestions on how to organize data within a spreadsheet fo
 
 ## The lay-out of a data table 
 
-Basically, a file submitted to use should be able to be converted to a .csv file without loosing information.
+To set up a data table for reuse, the basic rule of thumb is that **a file should be able to be converted to a .csv file without loosing information.**
+
+
 
 **Header row**: 
 
