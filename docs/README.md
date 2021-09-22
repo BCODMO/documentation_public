@@ -2,15 +2,17 @@
 
 Welcome to the BCO-DMO information page. This space will guide you through everything you need to find your way into BCO-DMO. 
 
+## Introduction
 
+The Biological and Chemical Oceanography Data Management Office \(BCO-DMO\) is a publicly accessible domain science data repository created to curate, serve \(publish\), and archive digital data and information from biological, chemical and biogeochemical research conducted in coastal, marine, great lakes and laboratory environments. The BCO-DMO is funded primarily through the NSF OCE Division’s Biological and Chemical Sections and the Division of Polar Programs Antarctic Organisms & Ecosystems \([OCE-1924618](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1924618&HistoricalAwards=false)\), although does also receive support from other organizations. The office provides services that span the full data life cycle, from data management planning support and DOI creation, to archive with appropriate long-term facilities. Repository staff work closely with investigators help them prepare, publish, and share their data for reuse.
 
+BCO-DMO was established in 2006, through a collaborative merging of two legacy Data Management Offices created in support of the US JGOFS and US GLOBEC oceanographic research programs. It continues to support the data sharing needs of the broader ocean ecosystem research community today. The office is physically located in Woods Hole, Massachusetts at the Village Campus of the Woods Hole Oceanographic Institution, where it has cultivated close ties with WHOI, and other local scientists.
 
+**Mission: To work closely with oceanographic researchers to organize, describe, and share their science output, while curating a rich repository of research-ready marine-related data for the use in science, policy and management, and educational efforts.**
 
+#### **Vision:** An unparalleled data catalog of well-documented, interoperable oceanographic data and information, accessible to all end-users through an intuitive web-based interface for the purposes of advancing marine research.
 
-
-info@bco-dmo.orgPage 1Preservation Discovery & Access Data Publication Proposal Aquisition Analysis & Synthesis Data Use & Reuse Contribution Curating and providing open access to research data is a collaborative process. This process may be thought of as a life cycle with data passing through various phases. Each phase has its own associated actors, roles, and critical activities. Good data management practices are necessary for all phases, from proposal to preservation. BCO-DMO, a repository funded by the National Science Foundation \(NSF\), supports the oceanographic research community’s data needs throughout the entire data life cycle. This guide describes the services available from BCO-DMO from proposal to preservation and highlights phases where researchers engage significantly with the office.Data management services are provided free of charge for projects funded via:• NSF-OCE Biological Oceanography Section• NSF-OCE Chemical Oceanography Section• Division of Polar Programs’ Antarctic Organisms & Ecosystems Program Not funded from the programs above? We can assist in determining the appropriate repository for your project data. See a list of other data management centers1. Under certain circumstances, we may negotiate services for data not covered by these NSF sections
-
-BCO-DMO provides the following services:• 
+## BCO-DMO provides the following services:
 
 * Proposal: Help with your NSF Data Management Plan 
 * Acquisition: Advice on collecting good metadata and data.
