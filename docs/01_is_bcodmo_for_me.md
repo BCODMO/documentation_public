@@ -6,7 +6,7 @@ description: Is your data fit for the BCO-DMO repository?
 
 ## Data types served by BCO-DMO
 
-BCO-DMO is a **domain specific reporosity,** which means we curate specific data to be able to combine scientific knowledge and information management skills. We work closely with  research communities to apply quality controls, create and curate robust discovery- and use-level metadata, and document provenance, thereby increasing data reusability.
+BCO-DMO is a **domain specific repository,** which means we curate specific data to be able to combine scientific knowledge and information management skills. We work closely with  research communities to apply quality controls, create and curate robust discovery- and use-level metadata, and document provenance, thereby increasing data reusability.
 
 The data BCO-DMO focusses on is **biological and chemical oceanographic data** and research conducted in coastal, marine, great lakes and laboratory environments. 
 
