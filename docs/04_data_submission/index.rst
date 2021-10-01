@@ -10,14 +10,11 @@ Welcome to BCO-DMO public resources's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   README  
-   01_is_bcodmo_for_me
-   02_data_management_plan
-   03_project_registration
-   04_data_submission
-   05_data_access
-   06_data_management_concepts
-   07_tutorials
+   README
+   01_subm_tabular
+   02_subm_genetics
+   03_subm_software_code
+   06_subm_geotraces
 
 
 

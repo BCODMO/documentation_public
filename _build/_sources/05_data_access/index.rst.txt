@@ -10,14 +10,11 @@ Welcome to BCO-DMO public resources's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   README  
-   01_is_bcodmo_for_me
-   02_data_management_plan
-   03_project_registration
-   04_data_submission
-   05_data_access
-   06_data_management_concepts
-   07_tutorials
+   README   
+   01_access_dataset
+   02_access_citing_terms_of_use
+   03_access_erddap
+   06_access_geomapper
 
 
 
