@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'BCO-DMO public resources'
+project = 'BCO-DMO Resources'
 copyright = '2021, BCO-DMO'
 author = 'BCO-DMO'
 

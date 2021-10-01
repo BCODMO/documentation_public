@@ -7,10 +7,17 @@ REM Command file for Sphinx documentation
 if "%SPHINXBUILD%" == "" (
 	set SPHINXBUILD=sphinx-build
 )
-set SOURCEDIR=source
-set BUILDDIR=build
+set SOURCEDIR=docs
+set BUILDDIR=_build
 
 if "%1" == "" goto help
+
+if "%1" == "github" (
+    %SPHINXBUILD% -M html %SOURCEDIR% %BUILDDIR% %SPHINXOPTS%
+    robocopy %BUILDDIR%/html ../docs /E > nul
+    echo.Generated files copied to ../docs
+    goto end
+)
 
 %SPHINXBUILD% >NUL 2>NUL
 if errorlevel 9009 (
@@ -30,6 +37,8 @@ goto end
 
 :help
 %SPHINXBUILD% -M help %SOURCEDIR% %BUILDDIR% %SPHINXOPTS% %O%
+
+
 
 :end
 popd
