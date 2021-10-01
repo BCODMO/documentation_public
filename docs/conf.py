@@ -30,11 +30,15 @@ release = 'October 1, 2021'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
-]
+#myst parser = extension library that can parse MyST Markdown
+extensions = ["myst_parser"]
+
+source_suffix = {'.md': 'markdown','.rst': 'restructuredtext'}
+source_encoding = 'utf-8-sig'
+master_doc = 'index'
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
+templates_path = ['../_templates']
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
