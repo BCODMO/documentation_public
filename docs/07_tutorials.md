@@ -36,6 +36,14 @@ Data access tutorial: [https://www.bco-dmo.org/files/bcodmo/BCO-DMO\_Tutorial.pd
 
 
 
+Link test:
+
+Link to internat document: 
+
+{% page-ref page="04\_data\_submission/" %}
+
+
+
 Image test
 
 ![](.gitbook/assets/image%20%282%29.png)
