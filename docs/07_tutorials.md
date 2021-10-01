@@ -38,7 +38,7 @@ Data access tutorial: [https://www.bco-dmo.org/files/bcodmo/BCO-DMO\_Tutorial.pd
 
 Link test:
 
-Link to internat document: 
+Link to internal document \(using gitbook link\)
 
 {% page-ref page="04\_data\_submission/" %}
 
