@@ -38,13 +38,15 @@ Data access tutorial: [https://www.bco-dmo.org/files/bcodmo/BCO-DMO\_Tutorial.pd
 
 Link test:
 
-Link to internal document \(using gitbook link\)
+Link to internal document \(using gitbook link\) -  is this an indirect link?
 
 {% page-ref page="04\_data\_submission/" %}
 
-Other link test: direct link to gitbook page
+Other link test: direct link to gitbook page - Is this direct link? 
 
-[https://app.gitbook.com/@bcodmo/s/public\_resources/04\_data\_submission](https://app.gitbook.com/@bcodmo/s/public_resources/04_data_submission) 
+{% embed url="https://app.gitbook.com/@bcodmo/s/public\_resources/04\_data\_submission" %}
+
+indirect[ link](07_tutorials.md)
 
 Image test
 
