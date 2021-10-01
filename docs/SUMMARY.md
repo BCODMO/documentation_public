@@ -16,5 +16,4 @@
   * [GeoMapper](05_data_access/04_access_geomapper.md)
 * [Why curating data?](06_data_management_concepts.md)
 * [Tutorials](07_tutorials.md)
-* {:toc}
 
