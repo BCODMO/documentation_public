@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to BCO-DMO public resources's documentation!
-====================================================
+Data Submissions
+================
 
 .. toctree::
    :maxdepth: 2
@@ -14,13 +14,4 @@ Welcome to BCO-DMO public resources's documentation!
    01_subm_tabular
    02_subm_genetics
    03_subm_software_code
-   06_subm_geotraces
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   04_subm_geotraces

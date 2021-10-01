@@ -14,8 +14,8 @@ Welcome to BCO-DMO public resources's documentation!
    01_is_bcodmo_for_me
    02_data_management_plan
    03_project_registration
-   04_data_submission
-   05_data_access
+   04_data_submission/index
+   05_data_access/index
    06_data_management_concepts
    07_tutorials
 

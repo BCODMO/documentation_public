@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to BCO-DMO public resources's documentation!
-====================================================
+Data Access
+===========
 
 .. toctree::
    :maxdepth: 2
@@ -14,13 +14,4 @@ Welcome to BCO-DMO public resources's documentation!
    01_access_dataset
    02_access_citing_terms_of_use
    03_access_erddap
-   06_access_geomapper
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   04_access_geomapper
