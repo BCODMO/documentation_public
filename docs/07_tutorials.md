@@ -42,7 +42,9 @@ Link to internal document \(using gitbook link\)
 
 {% page-ref page="04\_data\_submission/" %}
 
+Other link test: direct link to gitbook page
 
+[https://app.gitbook.com/@bcodmo/s/public\_resources/04\_data\_submission](https://app.gitbook.com/@bcodmo/s/public_resources/04_data_submission) 
 
 Image test
 
