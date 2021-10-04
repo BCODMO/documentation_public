@@ -19,13 +19,13 @@ Clickable image in gitbook with markdown: [https://emekauche.medium.com/creating
 
   ![picture](https://source.unsplash.com/69n54RVh4tE/210x100)
 
-* **markdown - github images**
+* **markdown - github images:**
 
   [image\_on\_github](https://github.com/BCODMO/documentation_public/blob/main/docs/.gitbook/assets/image%20%282%29.png)
 
   ![image\_on github](https://github.com/BCODMO/documentation_public/blob/main/docs/.gitbook/assets/image%20%282%29.png)
 
-* html:
+* **html:**
 <img src="a.png" width="640" height=360 />
 
 
@@ -43,27 +43,23 @@ Unfortunately at this time, images must be scaled and centered using HTML as Git
 
   ![Image](.gitbook/assets/image%20%282%29.png) 
 
-* ** relatove link Pasted directly in gitbook:**
+* **relatove link Pasted directly in gitbook:**
 
 ![](.gitbook/assets/image%20%283%29.png)
 
 !\[\]\(.gitbook/assets/image%20%282%29.png\) : typed in gitbook doesn't work \(gitbook escapes the special characters?\)
 
+* **html:**
 
+&lt;img src=".gitbook/assets/image%20%282%29.png" alt="Test Pic not Showing" title="Test Pic" width="150" height="100" /&gt;
 
-html:
-
-&lt;img src=".gitbook/assets/image%20%282%29.png" alt="Test Pic not Showing"
-
-title="Test Pic" width="150" height="100" /&gt;
-
-* Inline:   
-* Liquid:  
 
 {% embed url="https://app.gitbook.com/@bcodmo/s/public\_resources/04\_data\_submission" caption="" %}
+The above link works directly in github, but does not translate in pure markdown or a markdown parser
 
 #### Rekative links to gitbook headers
 
-indirect[ link](07_tutorials.md) to this gitbook?
+indirect [link](07_tutorials.md) to this gitbook?
+reads as `[link](07_tutorials.md)` in markdown
 
 
