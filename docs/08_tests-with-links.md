@@ -8,25 +8,26 @@ The internal link to an image should be: (.gitbook/assets/image%20%282%29.png)
 
 
 ## Absolute links to images
-[https://github.com/GitbookIO/theme-faq/issues/13](https://github.com/GitbookIO/theme-faq/issues/13)
+[https://github.com/GitbookIO/theme-faq/issues/13](https://github.com/GitbookIO/theme-faq/issues/13)  
 
 
-* html:
+* html:  
 
- `<img src="a.png" width="640" height=360 />`
-* Inline: 
-* Liquid: 
+ `<img src="a.png" width="640" height=360 />`  
+* Inline:   
+* Liquid:   
 
 ## Relative links to images
-As indicated in the gitbook.yaml file, the root of the documentation is ./docs/ folder. Relative links need to start from that folder. 
-* * markdown 
-![file](.gitbook/assets/image%20%282%29.png)
-![file1](.gitbook/assets/image \(2\).png)
-![Image](.gitbook/assets/image%20%282%29.png)
+As indicated in the gitbook.yaml file, the root of the documentation is ./docs/ folder. Relative links need to start from that folder.   
 
-* html:
-* Inline: 
-* Liquid: 
+* markdown   
+![file](.gitbook/assets/image%20%282%29.png)  
+![file1](.gitbook/assets/image \(2\).png)  
+![Image](.gitbook/assets/image%20%282%29.png)  
+
+* html:  
+* Inline:   
+* Liquid:  
 {% embed url="https://app.gitbook.com/@bcodmo/s/public\_resources/04\_data\_submission" caption="" %}
 
 
