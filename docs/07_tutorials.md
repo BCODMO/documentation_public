@@ -50,7 +50,7 @@ indirect[ link](07_tutorials.md) to this gitbook?
 
 Image test
 
-![](.gitbook/assets/image%20%282%29.png)
+![](.gitbook/assets/image%20%282%29%20%281%29.png)
 
 
 

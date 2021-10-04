@@ -2,7 +2,9 @@
 
 ## Tests with links
 
-### Background
+### Tests with links
+
+#### Background
 
 Explanation link: [https://seadude.gitbooks.io/learn-gitbook/content/chapter1/internal.html](https://seadude.gitbooks.io/learn-gitbook/content/chapter1/internal.html) In gitbook.yml file the root of the repository for gitbook will be ./docs. All other options that specify paths will be relative to this root folder. So if you define root as ./docs/ The internal link to an image should be: \(.gitbook/assets/image%20%282%29.png\)
 
@@ -13,11 +15,11 @@ Clickable image in gitbook with markdown: [https://emekauche.medium.com/creating
 * link to file: `[displayname](link)` 
 * display picture: `![displayname](link)`
 
-### Absolute links to images
+#### Absolute links to images
 
-* markdown  - online image   
+* markdown - online image
 
-  \[link to picture\][https://source.unsplash.com/69n54RVh4tE/1920x1080](https://source.unsplash.com/69n54RVh4tE/1920x1080)\)  
+  \[link to picture\][https://source.unsplash.com/69n54RVh4tE/1920x1080](https://source.unsplash.com/69n54RVh4tE/1920x1080)\)
 
   ![picture](https://source.unsplash.com/69n54RVh4tE/210x100)
 
@@ -27,53 +29,52 @@ Clickable image in gitbook with markdown: [https://emekauche.medium.com/creating
 
   ![image\_on github](https://github.com/BCODMO/documentation_public/blob/main/docs/.gitbook/assets/image%20%282%29.png)
 
-* html:  
+* html:
 
 `<img src="a.png" width="640" height=360 />`
 
 * Inline:   
 * Liquid:   
-* 
-### Relative links to images
+* **Relative links to images**
 
 As indicated in the gitbook.yaml file, the root of the documentation is ./docs/ folder. Relative links need to start from that folder.
 
 Unfortunately at this time, images must be scaled and centered using HTML as Gitbooks markdown parser does not support image manipulation.
 
-* markdown   
+* markdown
 
-  ![file](.gitbook/assets/image%20%282%29.png)  : Does not display in gitbook
+  ![file](.gitbook/assets/image%20%282%29.png) 
 
-  ![file1](.gitbook/assets/image%20%282%29.png)  : does not display in gitbook
+  ![file1](.gitbook/assets/image%20%282%29.png) 
 
-  ![Image](.gitbook/assets/image%20%282%29.png)  : does not display in gitbook 
+  ![Image](.gitbook/assets/image%20%282%29.png) 
 
 * Pasted directly in gitbook:
 
 ![](.gitbook/assets/image%20%283%29.png)
 
-!\[\]\(.gitbook/assets/image%20%282%29.png\) : typed in gitbook doesn't work \(gitbook escapes the special characters\)
+!\[\]\(.gitbook/assets/image%20%282%29.png\) : typed in gitbook doesn't work \(gitbook escapes the special characters?\)
 
-\!\\[\\]\(.gitbook/assets/image%20%282%29.png\)
+
 
 ![](.gitbook/assets/image%20%283%29.png)
 
 ![](.gitbook/assets/image%20%284%29.png)
 
-html:    
+html:
 
- &lt;img src=".gitbook/assets/image%20%282%29.png" alt="Test Pic not Showing"
+&lt;img src=".gitbook/assets/image%20%282%29.png" alt="Test Pic not Showing"
 
-  title="Test Pic" width="150" height="100" /&gt;  
+title="Test Pic" width="150" height="100" /&gt;
 
 * Inline:   
 * Liquid:  
 
 {% embed url="https://app.gitbook.com/@bcodmo/s/public\_resources/04\_data\_submission" caption="" %}
 
-### Rekative links to gitbook headers
+#### Rekative links to gitbook headers
 
 indirect[ link](07_tutorials.md) to this gitbook?
 
+## SYNC TEST
 
-# SYNC TEST
