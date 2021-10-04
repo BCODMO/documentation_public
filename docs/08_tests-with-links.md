@@ -35,7 +35,7 @@ As indicated in the gitbook.yaml file, the root of the documentation is ./docs/ 
 
 Unfortunately at this time, images must be scaled and centered using HTML as Gitbooks markdown parser does not support image manipulation.
 
-* markdown
+* **markdown**
 
   ![file](.gitbook/assets/image%20%282%29.png) 
 
@@ -43,17 +43,13 @@ Unfortunately at this time, images must be scaled and centered using HTML as Git
 
   ![Image](.gitbook/assets/image%20%282%29.png) 
 
-* Pasted directly in gitbook:
+* ** relatove link Pasted directly in gitbook:**
 
 ![](.gitbook/assets/image%20%283%29.png)
 
 !\[\]\(.gitbook/assets/image%20%282%29.png\) : typed in gitbook doesn't work \(gitbook escapes the special characters?\)
 
 
-
-![](.gitbook/assets/image%20%283%29.png)
-
-![](.gitbook/assets/image%20%284%29.png)
 
 html:
 
@@ -70,5 +66,4 @@ title="Test Pic" width="150" height="100" /&gt;
 
 indirect[ link](07_tutorials.md) to this gitbook?
 
-## SYNC TEST
 
