@@ -26,7 +26,7 @@ Clickable image in gitbook with markdown: [https://emekauche.medium.com/creating
   ![image\_on\ github](https://github.com/BCODMO/documentation_public/blob/main/docs/.gitbook/assets/image%20%282%29.png), this link does not get viewed in gitbook, why is that?
 
 * **html:**
-<img src="(https://source.unsplash.com/69n54RVh4tE/210x100" width="640" height=360 />, html is being ignored in gitbook, doesn't show up at all, but works in plain markdown
+<img src="(https://source.unsplash.com/69n54RVh4tE/210x100" width="640" height=360 /> reads as `<img src="(https://source.unsplash.com/69n54RVh4tE/210x100" width="640" height=360 />`, html is being ignored in gitbook, doesn't show up at all, but works in plain markdown
 
 
 ## Relative links to images
