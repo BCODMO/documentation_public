@@ -51,9 +51,9 @@ Unfortunately at this time, images must be scaled and centered using HTML as Git
 
 ![](.gitbook/assets/image%20%283%29.png)
 
-!\[\]\(.gitbook/assets/image%20%282%29.png\)
+!\[\]\(.gitbook/assets/image%20%282%29.png\) : typed in gitbook doesn't work \(gitbook escapes the special characters\)
 
-
+\!\\[\\]\(.gitbook/assets/image%20%282%29.png\)
 
 * html:    
 
