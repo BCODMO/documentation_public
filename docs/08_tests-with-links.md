@@ -18,10 +18,12 @@ The internal link to an image should be: (.gitbook/assets/image%20%282%29.png)
 * Liquid: 
 
 ## Relative links to images
-
+As indicated in the gitbook.yaml file, the root of the documentation is ./docs/ folder. Relative links need to start from that folder. 
+* * markdown 
 ![file](.gitbook/assets/image%20%282%29.png)
-!\[file1\]\(.gitbook/assets/image \(2\).png\)
+![file1](.gitbook/assets/image \(2\).png)
 ![Image](.gitbook/assets/image%20%282%29.png)
+
 * html:
 * Inline: 
 * Liquid: 
