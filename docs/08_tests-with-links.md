@@ -57,7 +57,7 @@ Unfortunately at this time, images must be scaled and centered using HTML as Git
 {% embed url="https://app.gitbook.com/@bcodmo/s/public\_resources/04\_data\_submission" caption="" %}
 The above link works directly in github, but does not translate in pure markdown or a markdown parser
 
-#### Rekative links to gitbook headers
+#### Relative links to gitbook headers
 
 indirect [link](07_tutorials.md) to this gitbook?
 reads as `[link](07_tutorials.md)` in markdown
