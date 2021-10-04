@@ -26,9 +26,9 @@ link to file: `[displayname](link)` display picture: `![displayname](link)`
 
   ![image\_on github](https://github.com/BCODMO/documentation_public/blob/main/docs/.gitbook/assets/image%20%282%29.png)
 
-* html:  
+* html:  relative image with html sizing
 
-`<img src="a.png" width="640" height=360 />`
+<img src=".gitbook/assets/image%20%282%29.png" width="640" height=360 />
 
 * Inline:   
 * Liquid:   
@@ -41,7 +41,7 @@ Unfortunately at this time, images must be scaled and centered using HTML as Git
 
 * markdown   
 
-  ![file](.gitbook/assets/image%20%282%29.png)  : Does not display in gitbook
+  ![file](.gitbook/assets/image%20%282%29.png)  : Does not display in gitbook when copied from markdown (gitbook escapes special characters automoaticall?)
 
   ![file1](.gitbook/assets/image%20%282%29.png)  : does not display in gitbook
 
