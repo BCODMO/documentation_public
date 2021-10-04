@@ -53,7 +53,7 @@ relative paths on github: https://github.com/GitbookIO/theme-faq/issues/13
 
 ![file](.gitbook/assets/image%20%282%29.png)
 
-![file1](/.gitbook/assets/image (2).png)
+![file1](.gitbook/assets/image (2).png)
 
 html image
 <img src=".gitbook/assets/image%20%282%29.png" height="30" />
