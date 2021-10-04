@@ -25,6 +25,9 @@ relative paths on github: [https://github.com/GitbookIO/theme-faq/issues/13](htt
 * relative html image 
 {% embed url="https://unsplash.com/photos/69n54RVh4tE" caption="Relative html link" %} 
 
+* Absolute link in Gitbook: 
+* https://unsplash.com/photos/69n54RVh4tE 
+
 Link test:
 
 Link to internal document \(using gitbook link\) - is this an indirect link?
