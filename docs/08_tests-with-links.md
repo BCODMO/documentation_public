@@ -13,9 +13,9 @@ Clickable image in gitbook with markdown: [https://emekauche.medium.com/creating
 
 ## Absolute links to images
 
-* markdown - online image
+* markdown - online image:
 
-  \[link to picture\][https://source.unsplash.com/69n54RVh4tE/1920x1080](https://source.unsplash.com/69n54RVh4tE/1920x1080)\)
+  [link to picture](https://source.unsplash.com/69n54RVh4tE/1920x1080)
 
   ![picture](https://source.unsplash.com/69n54RVh4tE/210x100)
 
