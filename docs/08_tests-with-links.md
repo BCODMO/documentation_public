@@ -1,10 +1,6 @@
 # Tests with links
 
-## Tests with links
-
-### Tests with links
-
-#### Background
+## Background
 
 Explanation link: [https://seadude.gitbooks.io/learn-gitbook/content/chapter1/internal.html](https://seadude.gitbooks.io/learn-gitbook/content/chapter1/internal.html) In gitbook.yml file the root of the repository for gitbook will be ./docs. All other options that specify paths will be relative to this root folder. So if you define root as ./docs/ The internal link to an image should be: \(.gitbook/assets/image%20%282%29.png\)
 
@@ -15,7 +11,7 @@ Clickable image in gitbook with markdown: [https://emekauche.medium.com/creating
 * link to file: `[displayname](link)` 
 * display picture: `![displayname](link)`
 
-#### Absolute links to images
+## Absolute links to images
 
 * markdown - online image
 
