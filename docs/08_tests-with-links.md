@@ -23,7 +23,7 @@ Clickable image in gitbook with markdown: [https://emekauche.medium.com/creating
 
   [image\_on\_github](https://github.com/BCODMO/documentation_public/blob/main/docs/.gitbook/assets/image%20%282%29.png)
 
-  ![image\_on github](https://github.com/BCODMO/documentation_public/blob/main/docs/.gitbook/assets/image%20%282%29.png)
+  ![image\_on\ github](https://github.com/BCODMO/documentation_public/blob/main/docs/.gitbook/assets/image%20%282%29.png), this link does not get viewed in gitbook, why is that?
 
 * **html:**
 <img src="a.png" width="640" height=360 />
