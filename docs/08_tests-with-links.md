@@ -23,7 +23,7 @@ relative paths on github: [https://github.com/GitbookIO/theme-faq/issues/13](htt
 ## HTML links
 * Absolute html: 
 * relative html image 
-* {% embed url="https://unsplash.com/photos/69n54RVh4tE" caption="Relative html link" %} 
+{% embed url="https://unsplash.com/photos/69n54RVh4tE" caption="Relative html link" %} 
 
 Link test:
 
