@@ -16,13 +16,17 @@ link to file: ` [displayname](link)`
 display picture: `![displayname](link)`
 
 ## Absolute links to images
-* markdown 
+* markdown  - online image   
 [link to picture]https://source.unsplash.com/69n54RVh4tE/1920x1080)  
 ![picture](https://source.unsplash.com/69n54RVh4tE/210x100)
 
-[image_on_github](https://github.com/BCODMO/documentation_public/blob/main/docs/.gitbook/assets/image%20%282%29.png)  
 
-![image_on github](https://github.com/BCODMO/documentation_public/blob/main/docs/.gitbook/assets/image%20%282%29.png)  
+
+* markdown - github images  
+
+  [image_on_github](https://github.com/BCODMO/documentation_public/blob/main/docs/.gitbook/assets/image%20%282%29.png)  
+
+  ![image_on github](https://github.com/BCODMO/documentation_public/blob/main/docs/.gitbook/assets/image%20%282%29.png)  
 
 
 
