@@ -50,6 +50,7 @@ Unfortunately at this time, images must be scaled and centered using HTML as Git
 !\[\]\(.gitbook/assets/image%20%282%29.png\) : typed in gitbook doesn't work \(gitbook escapes the special characters?\)
 
 * **html:**
+HTML links are not supported in gitbook markdown
 
 &lt;img src=".gitbook/assets/image%20%282%29.png" alt="Test Pic not Showing" title="Test Pic" width="150" height="100" /&gt;
 
