@@ -13,25 +13,23 @@ Clickable image in gitbook with markdown: [https://emekauche.medium.com/creating
 
 ## Absolute links to images
 
-* markdown - online image:
+* **markdown - online image:**
 
   [link to picture](https://source.unsplash.com/69n54RVh4tE/1920x1080)
 
   ![picture](https://source.unsplash.com/69n54RVh4tE/210x100)
 
-* markdown - github images
+* **markdown - github images**
 
   [image\_on\_github](https://github.com/BCODMO/documentation_public/blob/main/docs/.gitbook/assets/image%20%282%29.png)
 
   ![image\_on github](https://github.com/BCODMO/documentation_public/blob/main/docs/.gitbook/assets/image%20%282%29.png)
 
 * html:
+<img src="a.png" width="640" height=360 />
 
-`<img src="a.png" width="640" height=360 />`
 
-* Inline:   
-* Liquid:   
-* **Relative links to images**
+## Relative links to images
 
 As indicated in the gitbook.yaml file, the root of the documentation is ./docs/ folder. Relative links need to start from that folder.
 
