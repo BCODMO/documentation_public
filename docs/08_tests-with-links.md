@@ -32,7 +32,7 @@ link to file: `[displayname](link)` display picture: `![displayname](link)`
 
 * Inline:   
 * Liquid:   
-
+* 
 ### Relative links to images
 
 As indicated in the gitbook.yaml file, the root of the documentation is ./docs/ folder. Relative links need to start from that folder.
@@ -41,17 +41,21 @@ Unfortunately at this time, images must be scaled and centered using HTML as Git
 
 * markdown   
 
-  ![file](.gitbook/assets/image%20%282%29.png)  
+  ![file](.gitbook/assets/image%20%282%29.png)  : Does not display in gitbook
 
-  ![file1](.gitbook/assets/image%20%282%29.png)  
+  ![file1](.gitbook/assets/image%20%282%29.png)  : does not display in gitbook
 
-  ![Image](.gitbook/assets/image%20%282%29.png)  
+  ![Image](.gitbook/assets/image%20%282%29.png)  : does not display in gitbook 
+
+* Pasted directly in gitbook:
+
+![](.gitbook/assets/image%20%283%29.png)
 
 * html:    
 
-    &lt;img src=".gitbook/assets/image%20%282%29.png" alt="Test Pic not Showing"
+ &lt;img src=".gitbook/assets/image%20%282%29.png" alt="Test Pic not Showing"
 
-    title="Test Pic" width="150" height="100" /&gt;  
+  title="Test Pic" width="150" height="100" /&gt;  
 
 * Inline:   
 * Liquid:  
