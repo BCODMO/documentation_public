@@ -48,12 +48,15 @@ Other link test: direct link to gitbook page - Is this direct link?
 
 indirect[ link](07_tutorials.md) to this gitbook?
 
-Image test
+# Image test - Relative links
 relative paths on github: https://github.com/GitbookIO/theme-faq/issues/13
 
 ![file](.gitbook/assets/image%20%282%29.png)
 
 ![file1](/.gitbook/assets/image (2).png)
+
+html image
+<img src=".gitbook/assets/image%20%282%29.png" height="30" />
 
 
 
