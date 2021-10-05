@@ -1,6 +1,8 @@
 # Tests with links
 
-## Background
+## Tests with links
+
+### Background
 
 Explanation link: [https://seadude.gitbooks.io/learn-gitbook/content/chapter1/internal.html](https://seadude.gitbooks.io/learn-gitbook/content/chapter1/internal.html) In gitbook.yml file the root of the repository for gitbook will be ./docs. All other options that specify paths will be relative to this root folder. So if you define root as ./docs/ The internal link to an image should be: \(.gitbook/assets/image%20%282%29.png\)
 
@@ -11,7 +13,7 @@ Clickable image in gitbook with markdown: [https://emekauche.medium.com/creating
 * link to file: `[displayname](link)` 
 * display picture: `![displayname](link)`
 
-## Absolute links to images
+### Absolute links to images
 
 * **markdown - online image:**
 
@@ -23,13 +25,21 @@ Clickable image in gitbook with markdown: [https://emekauche.medium.com/creating
 
 [image\_on\_github](https://github.com/BCODMO/documentation_public/blob/main/docs/.gitbook/assets/image%20%282%29.png)
 
-![ImageOnGithub](https://github.com/BCODMO/documentation_public/blob/main/docs/.gitbook/assets/image%20%282%29.png) , this link does not get viewed in gitbook, why is that?
+![ImageOnGithub](https://github.com/BCODMO/documentation_public/blob/main/docs/.gitbook/assets/image%20%282%29.png) , this link does not get viewed in gitbook, why is that? This needs to be a link to the raw picture. See example: 
+
+```text
+![pic](
+https://raw.githubusercontent.com/BCODMO/documentation_public/main/docs/.gitbook/assets/image%20(2).png
+)
+```
+
+!\[pic\]\([https://raw.githubusercontent.com/BCODMO/documentation\_public/main/docs/.gitbook/assets/image%20\(2\).png](https://raw.githubusercontent.com/BCODMO/documentation_public/main/docs/.gitbook/assets/image%20%282%29.png)\)
 
 * **html:**
-<img src="(https://source.unsplash.com/69n54RVh4tE/210x100" width="640" height=360 /> reads as `<img src="(https://source.unsplash.com/69n54RVh4tE/210x100" width="640" height=360 />`, html is being ignored in gitbook, doesn't show up at all, but works in plain markdown
 
+  ![](https://github.com/BCODMO/documentation_public/tree/30fbbf594149156ee032399b173f68fc1b96123b/docs/%28https:/source.unsplash.com/69n54RVh4tE/210x100) reads as `<img src="(https://source.unsplash.com/69n54RVh4tE/210x100" width="640" height=360 />`, html is being ignored in gitbook, doesn't show up at all, but works in plain markdown
 
-## Relative links to images
+### Relative links to images
 
 As indicated in the gitbook.yaml file, the root of the documentation is ./docs/ folder. Relative links need to start from that folder.
 
@@ -37,11 +47,11 @@ Unfortunately at this time, images must be scaled and centered using HTML as Git
 
 * **markdown**
 
-  ![file](.gitbook/assets/image%20%282%29.png) 
+  ![file](.gitbook/assets/image%20%282%29.png)
 
-  ![file1](.gitbook/assets/image%20%282%29.png) 
+  ![file1](.gitbook/assets/image%20%282%29%20%283%29.png)
 
-  ![Image](.gitbook/assets/image%20%282%29.png) 
+  ![Image](.gitbook/assets/image%20%282%29%20%282%29.png)
 
 * **relatove link Pasted directly in gitbook:**
 
@@ -50,24 +60,29 @@ Unfortunately at this time, images must be scaled and centered using HTML as Git
 !\[\]\(.gitbook/assets/image%20%282%29.png\) : typed in gitbook doesn't work \(gitbook escapes the special characters?\)
 
 * **html:**
-HTML links are not supported in gitbook markdown
+
+  HTML links are not supported in gitbook markdown
 
 &lt;img src=".gitbook/assets/image%20%282%29.png" alt="Test Pic not Showing" title="Test Pic" width="150" height="100" /&gt;
 
-
 {% embed url="https://app.gitbook.com/@bcodmo/s/public\_resources/04\_data\_submission" caption="" %}
+
 The above link works directly in github, but does not translate in pure markdown or a markdown parser
 
 #### Relative links to gitbook headers
 
-indirect [link](07_tutorials.md) to this gitbook?
-reads as `[link](07_tutorials.md)` in markdown
+indirect [link](07_tutorials.md) to this gitbook? reads as `[link](07_tutorials.md)` in markdown
 
+## Links to headers
 
-# Links to headers
 `[link text](../<chapter>/<article>.md#<heading-name>)`
-  
-[link text](../03_project_registration.md#recommended-for-funding)   Does not display in base md files    
-[link text](/04_data_submission/01_subm_tabular#units)        Does not display in base md files    
-03_project_registration.md#recommended-for-funding  
-04_data_submission/01_subm_tabular#units  
+
+[link text](https://github.com/BCODMO/documentation_public/tree/30fbbf594149156ee032399b173f68fc1b96123b/03_project_registration.md#recommended-for-funding) Does not display in base md files, something is wrong here, isnt correct in gitbook either.   
+[link text](https://github.com/BCODMO/documentation_public/tree/30fbbf594149156ee032399b173f68fc1b96123b/04_data_submission/01_subm_tabular/README.md#units) Does not display in base md files  
+03\_project\_registration.md\#recommended-for-funding  
+04\_data\_submission/01\_subm\_tabular\#units
+
+Internal [link ](04_data_submission/#data)from gitbook itself
+
+another[ link](07_tutorials.md#bco-dmo-tutorials)
+
