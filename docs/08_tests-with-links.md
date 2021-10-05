@@ -64,3 +64,10 @@ indirect [link](07_tutorials.md) to this gitbook?
 reads as `[link](07_tutorials.md)` in markdown
 
 
+# Links to headers
+  [link text](../<chapter>/<article>.md#<heading-name>)  
+  
+[link text](../03_project_registration.md#recommended-for-funding) 
+[link text](../04_data_submission/01_subm_tabular#units)   
+03_project_registration.md#recommended-for-funding  
+04_data_submission/01_subm_tabular#units  
