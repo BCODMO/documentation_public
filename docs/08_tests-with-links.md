@@ -86,3 +86,7 @@ Links to gitbook headers:
 * basepath: https://bcodmo.gitbook.io/public_resources/
 * relative path: 04_data_submission/#data
 * full: https://bcodmo.gitbook.io/public_resources/04_data_submission/#data
+
+I understand why Adam wants to be able to add an .md file into a webbpage specifically: this might be an example from arctic data center: https://arcticdata.io/working-with-data/ where a .md page is imbedded in the webpage itself instead of linking to an online "quickguide"
+
+**Can we work with relative links when working in gitbook, BUT when putting an .md file on a webpage add external basepaths? **
