@@ -83,6 +83,6 @@ Pictures adding the base to a relative link:
 * full: https://raw.githubusercontent.com/BCODMO/documentation_public/main/docs/.gitbook/assets/image%20%282%29.png
 
 Links to gitbook headers:
-* basepath
+* basepath: https://bcodmo.gitbook.io/public_resources/
 * relative path: 04_data_submission/#data
-* full:
+* full: https://bcodmo.gitbook.io/public_resources/04_data_submission/#data
