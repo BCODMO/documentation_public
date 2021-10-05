@@ -70,7 +70,9 @@ The above link works directly in github, but does not translate in pure markdown
 `[link text](../<chapter>/<article>.md#<heading-name>)`
 
 Examples:
-Internal[link](04_data_submission/#data)from gitbook itself `Internal [link ](04_data_submission/#data)from gitbook itself`  
+Internal [link](04_data_submission/#data)from gitbook itself : 
+`Internal [link ](04_data_submission/#data)from gitbook itself`     
 
-another[ link](07_tutorials.md#bco-dmo-tutorials) `another[ link](07_tutorials.md#bco-dmo-tutorials)`   
+another [link](07_tutorials.md#bco-dmo-tutorials) : 
+`another[ link](07_tutorials.md#bco-dmo-tutorials)`     
 
