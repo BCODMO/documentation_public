@@ -27,13 +27,9 @@ Clickable image in gitbook with markdown: [https://emekauche.medium.com/creating
 
 ![ImageOnGithub](https://github.com/BCODMO/documentation_public/blob/main/docs/.gitbook/assets/image%20%282%29.png) , this link does not get viewed in gitbook, why is that? This needs to be a link to the raw picture. See example: 
 
-```text
-![pic](
-https://raw.githubusercontent.com/BCODMO/documentation_public/main/docs/.gitbook/assets/image%20(2).png
-)
-```
+`![pic](https://raw.githubusercontent.com/BCODMO/documentation_public/main/docs/.gitbook/assets/image%20%282%29.png)`
 
-!\[pic\]\([https://raw.githubusercontent.com/BCODMO/documentation\_public/main/docs/.gitbook/assets/image%20\(2\).png](https://raw.githubusercontent.com/BCODMO/documentation_public/main/docs/.gitbook/assets/image%20%282%29.png)\)
+![pic](https://raw.githubusercontent.com/BCODMO/documentation_public/main/docs/.gitbook/assets/image%20%282%29.png)
 
 * **html:**
 
