@@ -64,20 +64,13 @@ Unfortunately at this time, images must be scaled and centered using HTML as Git
 
 The above link works directly in github, but does not translate in pure markdown or a markdown parser
 
-#### Relative links to gitbook headers
 
-indirect [link](07_tutorials.md) to this gitbook? reads as `[link](07_tutorials.md)` in markdown
-
-## Links to headers
+## Relative Links to gitbook headers
 
 `[link text](../<chapter>/<article>.md#<heading-name>)`
 
-[link text](https://github.com/BCODMO/documentation_public/tree/30fbbf594149156ee032399b173f68fc1b96123b/03_project_registration.md#recommended-for-funding) Does not display in base md files, something is wrong here, isnt correct in gitbook either.   
-[link text](https://github.com/BCODMO/documentation_public/tree/30fbbf594149156ee032399b173f68fc1b96123b/04_data_submission/01_subm_tabular/README.md#units) Does not display in base md files  
-03\_project\_registration.md\#recommended-for-funding  
-04\_data\_submission/01\_subm\_tabular\#units
+Examples:
+Internal[link](04_data_submission/#data)from gitbook itself `Internal [link ](04_data_submission/#data)from gitbook itself`  
 
-Internal [link ](04_data_submission/#data)from gitbook itself
-
-another[ link](07_tutorials.md#bco-dmo-tutorials)
+another[ link](07_tutorials.md#bco-dmo-tutorials) `another[ link](07_tutorials.md#bco-dmo-tutorials)`   
 
