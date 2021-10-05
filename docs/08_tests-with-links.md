@@ -76,3 +76,13 @@ Internal [link](04_data_submission/#data) from gitbook itself :
 another [link](07_tutorials.md#bco-dmo-tutorials) : 
 `another[ link](07_tutorials.md#bco-dmo-tutorials)`     
 
+## Bottom line
+Pictures adding the base to a relative link: 
+* basepath https://raw.githubusercontent.com/BCODMO/documentation_public/main/docs/
+* relative path: .gitbook/assets/image%20%282%29.png
+* full: https://raw.githubusercontent.com/BCODMO/documentation_public/main/docs/.gitbook/assets/image%20%282%29.png
+
+Links to gitbook headers:
+* basepath
+* relative path: 04_data_submission/#data
+* full:
