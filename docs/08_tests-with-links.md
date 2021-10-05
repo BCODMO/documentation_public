@@ -89,4 +89,4 @@ Links to gitbook headers:
 
 I understand why Adam wants to be able to add an .md file into a webbpage specifically: this might be an example from arctic data center: https://arcticdata.io/working-with-data/ where a .md page is imbedded in the webpage itself instead of linking to an online "quickguide"
 
-**Can we work with relative links when working in gitbook, BUT when putting an .md file on a webpage add external basepaths? **
+**Can we work with relative links when working in gitbook, BUT when putting an .md file on a webpage add external basepaths?**
