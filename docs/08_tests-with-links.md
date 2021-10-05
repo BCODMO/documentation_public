@@ -43,11 +43,10 @@ Unfortunately at this time, images must be scaled and centered using HTML as Git
 
 * **markdown**
 
-  ![file](.gitbook/assets/image%20%282%29.png)
+`![file](.gitbook/assets/image%20%282%29.png)` relative path 
 
-  ![file1](.gitbook/assets/image%20%282%29%20%283%29.png)
+![file](.gitbook/assets/image%20%282%29.png)
 
-  ![Image](.gitbook/assets/image%20%282%29%20%282%29.png)
 
 * **relatove link Pasted directly in gitbook:**
 
