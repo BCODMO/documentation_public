@@ -29,4 +29,3 @@
   * [Carpentries Style Workshops](education/workshops.md)
   * [ESIP Data Management Course](education/esip-data-management-course.md)
 * [Glossary](glossary.md)
-* [Tests with links](08\_tests-with-links.md)
