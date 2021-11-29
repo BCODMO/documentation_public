@@ -1,6 +1,6 @@
 # Table of contents
 
-* [BCO-DMO "How To?" Pages](README.md)
+* [Welcome!](README.md)
 * [Data Planning](data-planning/README.md)
   * [Data Management Plan](data-planning/data\_management\_plan.md)
   * [Project Registration](data-planning/project-registration.md)
