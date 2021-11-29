@@ -4,36 +4,35 @@
 
 ### Background
 
-Explanation link: [https://seadude.gitbooks.io/learn-gitbook/content/chapter1/internal.html](https://seadude.gitbooks.io/learn-gitbook/content/chapter1/internal.html) In gitbook.yml file the root of the repository for gitbook will be ./docs. All other options that specify paths will be relative to this root folder. So if you define root as ./docs/ The internal link to an image should be: \(.gitbook/assets/image%20%282%29.png\)
+Explanation link: [https://seadude.gitbooks.io/learn-gitbook/content/chapter1/internal.html](https://seadude.gitbooks.io/learn-gitbook/content/chapter1/internal.html) In gitbook.yml file the root of the repository for gitbook will be ./docs. All other options that specify paths will be relative to this root folder. So if you define root as ./docs/ The internal link to an image should be: (.gitbook/assets/image%20%282%29.png)
 
 Clickable image in gitbook with markdown: [https://emekauche.medium.com/creating-clickable-images-on-gitbook-958069b13208](https://emekauche.medium.com/creating-clickable-images-on-gitbook-958069b13208)
 
 **Markdown syntax** for links and images:
 
-* link to file: `[displayname](link)` 
+* link to file: `[displayname](link)`&#x20;
 * display picture: `![displayname](link)`
 
 ### Absolute links to images
 
-* **markdown - online image:**
+*   **markdown - online image:**
 
-  [link to picture](https://source.unsplash.com/69n54RVh4tE/1920x1080)
+    [link to picture](https://source.unsplash.com/69n54RVh4tE/1920x1080)
 
-  ![picture](https://source.unsplash.com/69n54RVh4tE/210x100)
-
+    ![picture](https://source.unsplash.com/69n54RVh4tE/210x100)
 * **markdown - github images:**
 
-[image\_on\_github](https://github.com/BCODMO/documentation_public/blob/main/docs/.gitbook/assets/image%20%282%29.png)
+[image\_on\_github](.gitbook/assets/image%20\(2\).png)
 
-![ImageOnGithub](https://github.com/BCODMO/documentation_public/blob/main/docs/.gitbook/assets/image%20%282%29.png) , this link does not get viewed in gitbook, why is that? This needs to be a link to the raw picture. See example: 
+![ImageOnGithub](.gitbook/assets/image%20\(2\).png) , this link does not get viewed in gitbook, why is that? This needs to be a link to the raw picture. See example:
 
 `![pic](https://raw.githubusercontent.com/BCODMO/documentation_public/main/docs/.gitbook/assets/image%20%282%29.png)`
 
-![pic](https://raw.githubusercontent.com/BCODMO/documentation_public/main/docs/.gitbook/assets/image%20%282%29.png)
+![pic](https://raw.githubusercontent.com/BCODMO/documentation\_public/main/docs/.gitbook/assets/image%20\(2\).png)
 
-* **html:**
+*   **html:**
 
-  ![](https://github.com/BCODMO/documentation_public/tree/30fbbf594149156ee032399b173f68fc1b96123b/docs/%28https:/source.unsplash.com/69n54RVh4tE/210x100) reads as `<img src="(https://source.unsplash.com/69n54RVh4tE/210x100" width="640" height=360 />`, html is being ignored in gitbook, doesn't show up at all, but works in plain markdown
+    ![](https://github.com/BCODMO/documentation\_public/tree/30fbbf594149156ee032399b173f68fc1b96123b/docs/\(https:/source.unsplash.com/69n54RVh4tE/210x100) reads as `<img src="(https://source.unsplash.com/69n54RVh4tE/210x100" width="640" height=360 />`, html is being ignored in gitbook, doesn't show up at all, but works in plain markdown
 
 ### Relative links to images
 
@@ -43,50 +42,48 @@ Unfortunately at this time, images must be scaled and centered using HTML as Git
 
 * **markdown**
 
-`![file](.gitbook/assets/image%20%282%29.png)` relative path 
+`![file](.gitbook/assets/image%20%282%29.png)` relative path
 
-![file](.gitbook/assets/image%20%282%29.png)
-
+![file](<.gitbook/assets/image (2).png>)
 
 * **relatove link Pasted directly in gitbook:**
 
-![](.gitbook/assets/image%20%283%29.png)
+![](<.gitbook/assets/image (3).png>)
 
-!\[\]\(.gitbook/assets/image%20%282%29.png\) : typed in gitbook doesn't work \(gitbook escapes the special characters?\)
+!\[]\(.gitbook/assets/image%20%282%29.png) : typed in gitbook doesn't work (gitbook escapes the special characters?)
 
-* **html:**
+*   **html:**
 
-  HTML links are not supported in gitbook markdown
+    HTML links are not supported in gitbook markdown
 
-&lt;img src=".gitbook/assets/image%20%282%29.png" alt="Test Pic not Showing" title="Test Pic" width="150" height="100" /&gt;
+\<img src=".gitbook/assets/image%20%282%29.png" alt="Test Pic not Showing" title="Test Pic" width="150" height="100" />
 
-{% embed url="https://app.gitbook.com/@bcodmo/s/public\_resources/04\_data\_submission" caption="" %}
+{% embed url="https://app.gitbook.com/@bcodmo/s/public_resources/04_data_submission" %}
 
 The above link works directly in github, but does not translate in pure markdown or a markdown parser
-
 
 ## Relative Links to gitbook headers
 
 `[link text](../<chapter>/<article>.md#<heading-name>)`
 
-Examples:
-Internal [link](04_data_submission/#data) from gitbook itself : 
-`Internal [link ](04_data_submission/#data) from gitbook itself`     
+Examples: Internal [link](broken-reference) from gitbook itself : `Internal [link ](04_data_submission/#data) from gitbook itself`
 
-another [link](07_tutorials.md#bco-dmo-tutorials) : 
-`another[ link](07_tutorials.md#bco-dmo-tutorials)`     
+another [link](education/07\_tutorials.md#bco-dmo-tutorials) : `another[ link](07_tutorials.md#bco-dmo-tutorials)`
 
 ## Bottom line
-Pictures adding the base to a relative link: 
-* basepath https://raw.githubusercontent.com/BCODMO/documentation_public/main/docs/
+
+Pictures adding the base to a relative link:
+
+* basepath [https://raw.githubusercontent.com/BCODMO/documentation\_public/main/docs/](https://raw.githubusercontent.com/BCODMO/documentation\_public/main/docs/)
 * relative path: .gitbook/assets/image%20%282%29.png
-* full: https://raw.githubusercontent.com/BCODMO/documentation_public/main/docs/.gitbook/assets/image%20%282%29.png
+* full: [https://raw.githubusercontent.com/BCODMO/documentation\_public/main/docs/.gitbook/assets/image %282%29.png](https://raw.githubusercontent.com/BCODMO/documentation\_public/main/docs/.gitbook/assets/image%20\(2\).png)
 
 Links to gitbook headers:
-* basepath: https://bcodmo.gitbook.io/public_resources/
-* relative path: 04_data_submission/#data
-* full: https://bcodmo.gitbook.io/public_resources/04_data_submission/#data
 
-I understand why Adam wants to be able to add an .md file into a webbpage specifically: this might be an example from arctic data center: https://arcticdata.io/working-with-data/ where a .md page is imbedded in the webpage itself instead of linking to an online "quickguide"
+* basepath: [https://bcodmo.gitbook.io/public\_resources/](https://bcodmo.gitbook.io/public\_resources/)
+* relative path: 04\_data\_submission/#data
+* full: [https://bcodmo.gitbook.io/public\_resources/04\_data\_submission/#data](https://bcodmo.gitbook.io/public\_resources/04\_data\_submission/#data)
+
+I understand why Adam wants to be able to add an .md file into a webbpage specifically: this might be an example from arctic data center: [https://arcticdata.io/working-with-data/](https://arcticdata.io/working-with-data/) where a .md page is imbedded in the webpage itself instead of linking to an online "quickguide"
 
 **Can we work with relative links when working in gitbook, BUT when putting an .md file on a webpage add external basepaths?**
