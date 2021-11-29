@@ -68,7 +68,7 @@ The above link works directly in github, but does not translate in pure markdown
 
 Examples: Internal [link](broken-reference) from gitbook itself : `Internal [link ](04_data_submission/#data) from gitbook itself`
 
-another [link](education/07\_tutorials.md#bco-dmo-tutorials) : `another[ link](07_tutorials.md#bco-dmo-tutorials)`
+another [link](education/workshops.md#bco-dmo-tutorials) : `another[ link](07_tutorials.md#bco-dmo-tutorials)`
 
 ## Bottom line
 

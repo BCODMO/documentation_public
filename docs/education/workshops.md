@@ -48,7 +48,7 @@ Other link test: direct link to gitbook page - Is this direct link?&#x20;
 
 {% embed url="https://app.gitbook.com/@bcodmo/s/public_resources/04_data_submission" %}
 
-indirect[ link](07\_tutorials.md) to this gitbook?
+indirect[ link](workshops.md) to this gitbook?
 
 Image test
 
