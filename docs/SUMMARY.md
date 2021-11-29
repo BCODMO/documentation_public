@@ -26,6 +26,6 @@
 * [Education](education/README.md)
   * [What is Open & F.A.I.R Data?](education/open-fair-data.md)
   * [Data Management Best Practices](education/data-management-best-practices.md)
-  * [Carpentries Style Workshops](education/workshops.md)
-  * [ESIP Data Management Course](education/esip-data-management-course.md)
+  * [BCO-DMO Workshops](education/workshops.md)
+  * [Other Courses](education/other-courses.md)
 * [Glossary](glossary.md)
