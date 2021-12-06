@@ -11,7 +11,7 @@
   * [Organizing Data Tables](submit-data/organizing-data-tables.md)
   * [Genetic accession (Omics)](submit-data/genetic-accessions.md)
   * [GEOTRACES](submit-data/geotraces.md)
-  * [Software and Code](submit-data/software-and-code.md)
+  * [Models, Software, and Code](submit-data/software-and-code.md)
   * [Large Data Files](submit-data/large-data-files.md)
 * [Access & Reuse Data](access-and-reuse-data/README.md)
   * [Database Search](access-and-reuse-data/database-search.md)
