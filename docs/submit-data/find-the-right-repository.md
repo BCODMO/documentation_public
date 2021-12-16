@@ -10,8 +10,12 @@ The data BCO-DMO focusses on is **biological and chemical oceanographic data** a
 
 BCO-DMO provides data management services at no additional cost to projects funded by:
 
-* **NSF OCE's Biological** or **Chemical Oceanography Sections** or the&#x20;
-* **Division of Polar Programs' Antarctic Organisms & Ecosystems Program**.
+* NSF-OCE **Biological Oceanography** program
+* NSF-OCE **Chemical Oceanography** program
+* Division of Polar Programs' Antarctic Organisms & Ecosystems Program. **PLR or OPP (**PLR is its previous name)
+* NSF **CRI-OA**: OA is the Ocean Acidification program. Some fall under OCE, and some are under other NSF divisions like Division of Environmental Biology (DEB), but we can accept all of the "CRI-OA" awards. **NOTE:** this is a legacy program that has sunset.
+* NSF\*\* FSML\*\*: Biological Field Stations and Marine Laboratories (part of Division of Biological Infrastructure, DBI) - per Mike Sieracki of OCE, marine data from FSML are appropriate for BCO-DMO support.
+* Long Term Ecological Research (**LTER**): LTER is a cross cutting program at the Directorate/Division level (for example BIO/DEB, GEO/OPP, GEO/OCE), but funds oceanographic sites (GEO/OCE). BCO-DMO accepts ancillary or complimentary research output conducted at an LTER site. Core LTER research data should be directed to the Environmental Data Initiative (EDI) repository.
 
 BCO-DMO staff members work with researchers funded by these NSF programs to ensure that data and metadata contributed to BCO-DMO are in compliance with the current [NSF OCE Sample and Data Policy](https://nsf.gov/pubs/2017/nsf17037/nsf17037.jsp?org=NSF) (NSF 17-037).&#x20;
 
