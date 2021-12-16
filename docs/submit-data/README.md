@@ -127,3 +127,11 @@ The Biological and Chemical Oceanography Data Management Office (BCO-DMO) staff 
 ### Need help?
 
 Please contact one of us at [info@bco-dmo.org](mailto:info@bco-dmo.org?subject=BCO-DMO%20question%2Fcomment), if you have any questions or comments about the BCO-DMO initiative or would like to discuss publication of data or results from your project.
+
+
+
+
+
+By submitting data, metadata, and any other content to BCO-DMO, submitters warrant that they own the rights to the content and are authorized to do so under original copyright. Items in BCO-DMO are protected under original copyright with all rights reserved, where applicable (e.g., documents such as related publications, cruise reports, manuals, etc.). \*Data themselves are not copyrightable (see 17 U.S.C. Sec. 102).
+
+By submitting data and information, the submitter grants BCO-DMO the rights needed to copy, store, redistribute, and share data, metadata, and any other content. By validating and making their data publicly available, submitters grant BCO-DMO and any other users the right to reuse their data according to the terms of the CC BY 4 license.
