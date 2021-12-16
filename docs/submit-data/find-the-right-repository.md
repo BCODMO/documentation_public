@@ -55,3 +55,9 @@ Repository types range from general repositories, which curate heterogeneous typ
 In addition, they apply harmonization techniques to data and metadata that increase interoperability across scientific domains. They employ persistent identifiers for metadata and related information, and standardized formats for representing metadata and data; they facilitate the application of appropriate licenses and make connections to qualified external resources for additional interpretation and context for reuse.&#x20;
 
 ![Increased curation efforts done by domain specific repositories lead to F.A.I.R data](../.gitbook/assets/image.png)
+
+### Repository Certification
+
+A plethora of repositories are currently available and the Re3data.org registry can facilitate finding them. Nevertheless, it is often difficult to determine which repositories are capable of fully implementing the FAIR Principles.
+
+This poses problems for data stakeholders seeking a suitable repository for sharing data, and ensuring its access and reuse. Repository certification such as [CoreTrustSeal](https://www.coretrustseal.org) can demonstrate robust capability and services.&#x20;
