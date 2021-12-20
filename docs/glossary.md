@@ -46,7 +46,7 @@ Project Page (or Project Landing Page?)
 
 Project Registration:
 
-**Restricted**: BCO-DMO's dataset landing pages display a "Restricted" field denoting the availability of the dataset. "No" means the data are or will be publicly available. "Yes" means the data are restricted and will not be published or shared before the release date specified by the data contributor. The term "embargoed data" is often used interchangeably with "restricted data".&#x20;
+**Restricted**: BCO-DMO's dataset landing pages display a "Restricted" field denoting the availability of the dataset. "No" means the data are or will be publicly available. "Yes" means the data are restricted and will not be published or shared publicly before the release date specified by the data submitter. The term "embargoed data" is often used interchangeably with "restricted data".&#x20;
 
 Tabular Data (or Data Tables?)
 
@@ -54,7 +54,7 @@ Submission Status:
 
 **Submission Tool:** BCO-DMO's Submission Tool, found at [https://submit.bco-dmo.org/](https://submit.bco-dmo.org), is an online tool that allows users to submit datasets to and register projects with BCO-DMO. If you'd prefer to email your submission to BCO-DMO, use our downloadable Metadata Forms (.rtf) instead. The downloadable, fillable forms can be found on our website at [https://www.bco-dmo.org/how-get-started](https://www.bco-dmo.org/how-get-started).&#x20;
 
-**Validated**: BCO-DMO's dataset landing pages display a "Validated" field denoting the validation status of the dataset. "Yes" means the data contributor has reviewed and approved the data and metadata. "No" means BCO-DMO has not received the final approval from the data contributor.&#x20;
+**Validated**: BCO-DMO's dataset landing pages display a "Validated" field denoting the validation status of the dataset. "Yes" means the data submitter has reviewed and approved the data and metadata. "No" means BCO-DMO has not received the final approval from the data submitter.
 
 **Validation:** (or "Dataset Validation")
 
