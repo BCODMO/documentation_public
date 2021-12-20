@@ -8,11 +8,11 @@ description: Definitions of frequently used terms and acronym
 
 **Current State**: BCO-DMO's dataset landing pages display a "Current State" field denoting the status of the dataset. The Current States are defined as:
 
-* **Data not available yet** = Data have been submitted to BCO-DMO and they are currently being processed or awaiting final review by the data contributor.
-* **Under Revision** = A change to the data, resulting in a version number change, has been received and we are currently processing the update or awaiting final review by the data contributor.
-* **Preliminary and in progress** = Data should be considered preliminary as we have not received final approval from the data contributor. Please contact the dataset Contact or PI before using the data.
-* **Final no updates expected** = The data contributor has validated the data and metadata for the current version and no updates are expected.
-* **Final with updates expected** = The data contributor has validated the data and metadata for the current version. Updates to the dataset are expected. This designation is often used to indicate ongoing data updates are expected, such as for time-series datasets.
+* **Data not available yet** = Data have been submitted to BCO-DMO and they are currently being processed or awaiting final review by the data submitter.
+* **Under Revision** = A change to the data, resulting in a version number change, has been received and we are currently processing the update or awaiting final review by the data submitter.
+* **Preliminary and in progress** = The data and metadata should be considered preliminary and may be incomplete. Please contact the dataset Contact or PI before using the data.
+* **Final no updates expected** = The data submitter has validated the data and metadata for the current version and no updates are expected.
+* **Final with updates expected** = The data submitter has validated the data and metadata for the current version. Updates to the dataset are expected. This designation is often used to indicate ongoing data updates are expected, such as for time-series datasets.
 
 **Data Management Plan**: A data management plan, or DMP, is a formal document that outlines what you will do with your data during and after a research project. Proposals submitted to NSF must include a DMP and those submitted to the NSF Division of Ocean Sciences (OCE) must comply with [OCE Sample and Data Policy](https://www.nsf.gov/pubs/2017/nsf17037/nsf17037.jsp). BCO-DMO has a template designed to help you prepare your DMP for submissions to OCE. For more information, see the "[Data Management Plan](data-planning/data\_management\_plan.md)" page.
 
@@ -52,7 +52,7 @@ Tabular Data (or Data Tables?)
 
 Submission Status:
 
-**Submission Tool (or: Online Submission Tool, Interactive Submission Tool?)**
+**Submission Tool:** BCO-DMO's Submission Tool, found at [https://submit.bco-dmo.org/](https://submit.bco-dmo.org), is an online tool that allows users to submit datasets to and register projects with BCO-DMO. If you'd prefer to email your submission to BCO-DMO, use our downloadable Metadata Forms (.rtf) instead. The downloadable, fillable forms can be found on our website at [https://www.bco-dmo.org/how-get-started](https://www.bco-dmo.org/how-get-started).&#x20;
 
 **Validated**: BCO-DMO's dataset landing pages display a "Validated" field denoting the validation status of the dataset. "Yes" means the data contributor has reviewed and approved the data and metadata. "No" means BCO-DMO has not received the final approval from the data contributor.&#x20;
 
