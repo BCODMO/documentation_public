@@ -1,5 +1,39 @@
 # Find the Right Repository
 
+## Choosing a repository for your data
+
+A registry for repositories such as [Re3data.org](https://www.re3data.org)(Registry of Research Data Repositories) can help locate suitable repositories for sharing your data.
+
+Yet the ultimate decision to find a repository for your data depends on the following elements:
+
+1. **Funder requirements**: Does your organization and/or funding agency have specific repository requirements?
+2. **Type of data**: Is there a domain repository that your community always uses?
+3. **Publisher specifications**: Publishers will often request your data to have a DOI, but often do not support the concept of domain specific repositories. Before adding your data to a general repository, look for a domain specific one.
+
+### Repository types
+
+There are 3 types of repositories based on  specific curation efforts:
+
+1. Domain specific repository
+2. Institutional repositories
+3. General repositories
+
+Repository types range from general repositories, which curate heterogeneous types of data, to Institutional repositories who are more familiar with the research at the institution to domain specific repositories.
+
+**Domain specific repositories** combine scientific knowledge with information management skills, work closely with their research communities to apply quality controls, create and curate robust discovery- and use-level metadata, and document provenance, thereby increasing data reusability.
+
+In addition, they apply harmonization techniques to data and metadata that increase interoperability across scientific domains.
+
+They employ persistent identifiers for metadata and related information, and standardized formats for representing metadata and data; they facilitate the application of appropriate licenses and make connections to qualified external resources for additional interpretation and context for reuse.&#x20;
+
+![Increased curation efforts done by domain specific repositories lead to F.A.I.R data](../.gitbook/assets/image.png)
+
+### Repository Certification
+
+A plethora of repositories are currently available and the [Re3data.org](https://www.re3data.org) registry can facilitate finding them. Nevertheless, it is often difficult to determine which repositories are capable of fully implementing the FAIR Principles.
+
+This poses problems for data stakeholders seeking a suitable repository for sharing data, and ensuring its access and reuse. Repository certification such as [CoreTrustSeal](https://www.coretrustseal.org) can demonstrate robust capability and services.&#x20;
+
 ## Data types served by BCO-DMO
 
 BCO-DMO is a **domain specific repository,** which means we curate specific data to be able to combine scientific knowledge and information management skills. We work closely with  research communities to apply quality controls, create and curate robust discovery- and use-level metadata, and document provenance, thereby increasing data reusability.
@@ -34,36 +68,4 @@ Not all NSF funded projects are supported free of charge by BCO-DMO. Some other 
 
 **OCB research community:** Guidance to OCB scientists who are uncertain where to submit or propose to submit their data is available from the [OCB website.](https://www.us-ocb.org/science-support/data-management-and-archival/)
 
-## Choosing a repository for your data
-
-A registry for repositories such as [Re3data.org](https://www.re3data.org)(Registry of Research Data Repositories) can help locate suitable repositories for sharing your data.
-
-Yet the ultimate decision to find a repository for your data depends on the following elements:
-
-1. **Funder requirements**: Does your organization and/or funding agency have specific repository requirements?
-2. **Type of data**: Is there a domain repository that your community always uses?
-3. **Publisher specifications**: Publishers will often request your data to have a DOI, but often do not support the concept of domain specific repositories. Before adding your data to a general repository, look for a domain specific one.
-
-### Repository types
-
-There are 3 types of repositories based on  specific curation efforts:
-
-1. Domain specific repository
-2. Institutional repositories
-3. General repositories
-
-Repository types range from general repositories, which curate heterogeneous types of data, to Institutional repositories who are more familiar with the research at the institution to domain specific repositories.
-
-**Domain specific repositories** combine scientific knowledge with information management skills, work closely with their research communities to apply quality controls, create and curate robust discovery- and use-level metadata, and document provenance, thereby increasing data reusability.
-
-In addition, they apply harmonization techniques to data and metadata that increase interoperability across scientific domains.
-
-They employ persistent identifiers for metadata and related information, and standardized formats for representing metadata and data; they facilitate the application of appropriate licenses and make connections to qualified external resources for additional interpretation and context for reuse.&#x20;
-
-![Increased curation efforts done by domain specific repositories lead to F.A.I.R data](../.gitbook/assets/image.png)
-
-### Repository Certification
-
-A plethora of repositories are currently available and the [Re3data.org](https://www.re3data.org) registry can facilitate finding them. Nevertheless, it is often difficult to determine which repositories are capable of fully implementing the FAIR Principles.
-
-This poses problems for data stakeholders seeking a suitable repository for sharing data, and ensuring its access and reuse. Repository certification such as [CoreTrustSeal](https://www.coretrustseal.org) can demonstrate robust capability and services.&#x20;
+###
