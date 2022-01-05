@@ -4,19 +4,19 @@ description: Organize data within a spreadsheet for inclusion in the BCO-DMO dat
 
 # Organizing Data Tables
 
-This page makes some suggestions on how to organize data within a spreadsheet for inclusion in the BCO-DMO data system. We will accept your data in whatever form and format you provide.&#x20;
+This page makes some suggestions on how to organize data within a spreadsheet for inclusion in the BCO-DMO data system. We will accept your data in whatever format you provide, but these formatting suggestions will help us understand and process your data.&#x20;
 
-BCO-DMO wants to make it as easy as possible for researchers to submit their data so others can use them for further studies. There are ways of setting up the spreadsheet and entering the data that can make it significantly easier to serve. If possible, please try to follow as many of these guidelines as you can.
+BCO-DMO wants to make it as easy as possible for researchers to submit their data so others can use them for further studies. There are ways of setting up a spreadsheet and entering the data that can make it significantly easier for us to process and publish. If possible, please try to follow as many of these guidelines as you can.
 
-## What information should a data table contain
+## What information should a data table contain?
 
-### Position data
+### Position (location) data
 
-Most of the time, data will need to be accompanied by position information so that others can put the data in a geographical context and compare them to other data.&#x20;
+Whenever possible, data should be accompanied by position information so others can put the data in a geographical context and compare them to other data. Ideally, every sample will have a corresponding location from which it was collected.&#x20;
 
-It is most convenient if the latitude and longitude values are submitted as **decimal degrees with south latitude and west longitude entered as negative numbers.** However, providing the position information as degrees and minutes is also okay. Please don’t include the degree, minute or seconds symbols, however.
+It is most convenient if the latitude and longitude values are submitted as **decimal degrees with south latitude and west longitude entered as negative numbers.** These should be provided in separate columns. If you prefer to provide position information as degrees and decimal minutes or degrees, minutes, seconds, we can accept that as well. Please make separate columns for degrees, minutes, and seconds. Please don’t include the degree, minute, and seconds symbols within the data columns.
 
-### Date & Time information
+### Dates and times
 
 Entering date and time information is as important as entering the position information. While arguments still persist as to how date and time should be displayed, consistency is the overriding rule of thumb. If you have a choice, it would be best to provide date and time as UTC (some refer to this as GMT) \[See Note 1]. The values can be entered in separate columns, as year, month, day, and time, or as a single long entry like mm-dd-yyyy hh:mm:ss where mm is the month (January is 01), dd is the day of the month, yyyy is the four digit year, hh is the hour (13 is 1:00pm), mm is minutes, and ss is seconds. The order isn’t important, just be consistent. If you have time zone (or time difference) information, please provide that too, either as a number or abbreviation (e.g. time zone of -8 is UTC - 8 for Pacific Standard Time \[PST] and time zone of -7 is UTC -7 for Pacific Daylight Time \[PDT].) Some like to provide date and time information as a single value, starting at some arbitrary point in time or at the beginning of the year, so that 1.5 would represent January 1 at 12:00pm. Others start counting with 0, so that 1.5 is January 2 at 1200. We can deal with almost any format, but as mentioned above, please be consistent and describe the format you are using.  If you provide date and time as a single value, please don’t forget to include the year information in a separate column or in the header or in a separate document.
 
