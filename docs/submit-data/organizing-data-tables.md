@@ -12,18 +12,18 @@ BCO-DMO wants to make it as easy as possible for researchers to submit their dat
 
 ### Position (location) data
 
-BCO-DMO serves latitude and longitude data as decimal degrees. North latitude and east longitude are represented by positive values, and south latitude and west longitude are represented by negative values. We will convert any latitude and longitude format to decimal degrees
+BCO-DMO serves latitude and longitude data as decimal degrees. North latitude and east longitude are represented by positive values, and south latitude and west longitude are represented by negative values. We will convert any latitude and longitude format to decimal degrees.
 
 **Quick guide for submitters**
 
 * Use constant latitude and longitude formats
-* Do not use degree, minute or second symbols in cell values
+* Do not use degree, minute, or second symbols in cell values
 
 ****
 
 **Background**
 
-Most of the time, data will need to be accompanied by position information so that others can put the data in a geographical context and compare them to other data. Position information can be detailed at the dataset level (referred to as the geospatial extent of a dataset), and at the observation level (per each row) within a data table. The geospatial extent of a dataset is derived from observation level lat/long details.&#x20;
+Whenever possible, data should be accompanied by position information so that others can put the data in a geographical context and compare them to other data. Position information can be detailed at the dataset level (referred to as the geospatial extent of a dataset), and at the observation level (per each row) within a data table. The geospatial extent of a dataset is derived from observation level lat/long details.&#x20;
 
 
 
