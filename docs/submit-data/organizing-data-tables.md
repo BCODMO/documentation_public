@@ -19,7 +19,7 @@ BCO-DMO serves latitude and longitude data as decimal degrees. North latitude an
 * Use consistent latitude and longitude formats
 * Do not use degree, minute, or second symbols in cell values
 
-****
+
 
 **Background**
 
