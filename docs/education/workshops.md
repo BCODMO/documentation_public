@@ -2,7 +2,7 @@
 description: A summary of useful tutorials and workshops for the BCO-DMO user community.
 ---
 
-# Carpentries Style Workshops
+# BCO-DMO Workshops
 
 ## Carpentries style workshop and training
 
@@ -20,13 +20,7 @@ Intro to APIs: Case study to match taxonomic names in Python \[in progress]
 
 [Data Management in (Ocean Sciences) - Interactive class](https://hdl.handle.net/1912/25970) \[50 min class for high school students] Soenen, Karen, Harden, Benjamin E., “Data Management in (Ocean) Sciences – Interactive Class”, Presented at Sea Education Association, Woods Hole, MA, February 26, 2020, DOI:10.1575/1912/25970, [https://hdl.handle.net/1912/25970](https://hdl.handle.net/1912/25970)
 
-## ESIP Data Management Short Course <a href="#page-title" id="page-title"></a>
-
-The Federation of Earth Science Information Partners ([ESIP](http://www.esipfed.org)), in cooperation with NOAA and the Data Conservancy, has developed a "Data Management Short Course", made up of a series of modules that seek to improve the understanding of scientific data management among scientists, emerging scientists, and data professionals of all sorts.
-
-The short course modules cover a range of topics including preparing a Data Management Plan, file naming best practices, backing-up data, data formats, documentation, data sharing, and many others.
-
-The ESIP Data Management Short Course is freely available on the ESIP Commons website: [http://commons.esipfed.org/datamanagementshortcourse](http://commons.esipfed.org/datamanagementshortcourse)
+## &#x20;<a href="#page-title" id="page-title"></a>
 
 ## BCO-DMO tutorials
 
