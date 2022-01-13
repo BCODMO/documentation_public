@@ -12,7 +12,7 @@ description: >-
 
 1. Register your data in the [DOoR portal](https://geotraces-portal.sedoo.fr/pi/) and download the Excel data template(s).
 2. Fill in the template with your data. Do not alter the column headings / parameter names.
-3. Fill out a [BCO-DMO Dataset Metadata Form](https://www.bco-dmo.org/files/bcodmo/DATASET.rtf) (PDF). Include detailed information on data acquisition, processing, and instruments, as well as column descriptions, units of measurement, detection limits, and quality flags.
+3. Fill out a [BCO-DMO Dataset Metadata Form](https://www.bco-dmo.org/files/bcodmo/DATASET.rtf) (rtf). Include detailed information on data acquisition, processing, and instruments, as well as column descriptions, units of measurement, detection limits, and quality flags.
 4. Submit the metadata form and Excel data file to [info@bco-dmo.org](mailto:info@bco-dmo.org)
 
 #### More details
