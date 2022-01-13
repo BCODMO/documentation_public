@@ -20,8 +20,6 @@ Intro to APIs: Case study to match taxonomic names in Python \[in progress]
 
 [Data Management in (Ocean Sciences) - Interactive class](https://hdl.handle.net/1912/25970) \[50 min class for high school students] Soenen, Karen, Harden, Benjamin E., “Data Management in (Ocean) Sciences – Interactive Class”, Presented at Sea Education Association, Woods Hole, MA, February 26, 2020, DOI:10.1575/1912/25970, [https://hdl.handle.net/1912/25970](https://hdl.handle.net/1912/25970)
 
-## &#x20;<a href="#page-title" id="page-title"></a>
-
 ## BCO-DMO tutorials
 
 Data access tutorial: [https://www.bco-dmo.org/files/bcodmo/BCO-DMO\_Tutorial.pdf](https://www.bco-dmo.org/files/bcodmo/BCO-DMO\_Tutorial.pdf)&#x20;

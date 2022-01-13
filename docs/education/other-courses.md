@@ -1,3 +1,7 @@
+---
+description: Links to other data management education materials
+---
+
 # Other Courses
 
 ## ESIP Data Management Short Course <a href="#page-title" id="page-title"></a>
