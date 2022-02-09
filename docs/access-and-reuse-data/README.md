@@ -16,9 +16,15 @@ The BCO-DMO [**ERDDAP server**](erddap.md) provides access to downloadable subse
 
 ### BCO-DMO API
 
+Snippet needs to be provided by Adam
+
 ### Ocean Data Ontology
 
+Snippet needs to be provided by Adam
+
 ## Data Download
+
+Future development: Data Shopping Cart. Snippet needs to be provided by Adam&#x20;
 
 ## Data Usage & Citation
 
