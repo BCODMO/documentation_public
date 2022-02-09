@@ -6,13 +6,13 @@ BCO-DMO develops and adopts software, APIs, onthologies and other services to en
 
 ## Data Access
 
-### Data Exlorer
+### Data Explorer
 
-NOAA OneStop can be used to search for any NOAA data with a metadata record. It is an interoperable tool designed to explore data from across scientific disciplines, formats, time periods, and locations. OneStop’s wide range of filtering options can pinpoint specific collections or granules that may not be discoverable in other mediums.
+Our [**database explorer**](database-search.md) can be used to find data and metadata records acroos our whole system. It is desigd to explore data from across scientific disciplines, formats, standard vocabularies, time periods, and locations and map search possibilities as well.&#x20;
 
 ### ERDDAP
 
-The [**ERDDAP**](https://oceanobservatories.org/erddap-server/) **** (National Ocean and Atmospheric Administration’s Environmental Research Division’s Data Access Program) Server provides access to downloadable subsets of OOI datasets in common file formats, such as Python, R, Javascript, and MATLAB, with the capability of creating graphs and maps.
+The BCO-DMO [**ERDDAP server**](erddap.md) provides access to downloadable subsets of our datasets in common file formats, such as Python, R, Javascript, and MATLAB, with the capability of creating graphs and maps.
 
 ### BCO-DMO API
 
@@ -20,9 +20,9 @@ The [**ERDDAP**](https://oceanobservatories.org/erddap-server/) **** (National O
 
 ## Data Download
 
-## Data Attribution
+## Data Usage & Citation
 
-
+All our datasets are freely available. Data may be used in proposals, other scientific investigations. The only requirement is appropriate acknowledgement of the data submitters and the license. Guidelines for how to cite BCO-DMO data can be found [**here**](attribution.md)**.**&#x20;
 
 
 
