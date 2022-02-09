@@ -22,7 +22,9 @@ The BCO-DMO [**ERDDAP server**](erddap.md) provides access to downloadable subse
 
 ## Data Usage & Citation
 
-All our datasets are freely available. Data may be used in proposals, other scientific investigations. The only requirement is appropriate acknowledgement of the data submitters and the license. Guidelines for how to cite BCO-DMO data can be found [**here**](attribution.md)**.**&#x20;
+All our datasets are freely available and may be used in proposals, other scientific analysis and projects. The requirements are giving appropriate credit, provide a link to the license, and indicate if changes were made. You can't apply measures that restrict others from doing anything the license permits.&#x20;
+
+Guidelines for how to use and cite BCO-DMO data can be found [**here**](attribution.md)**.**&#x20;
 
 
 
