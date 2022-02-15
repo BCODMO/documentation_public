@@ -14,25 +14,39 @@ If your proposal is being submitted to OCE's Biological or Chemical Oceanography
 
 ## How can BCO-DMO help?
 
-BCO-DMO has developed a Data Management Plan template to assist investigators in writing plans that meet the requirements of the OCE Sample and Data Policy. The template can be found and completed on the DMPTool website, [dmptool.org](https://dmptool.org).&#x20;
+BCO-DMO has developed a Data Management Plan template to assist investigators in writing plans that meet the requirements of the OCE Sample and Data Policy. This template is available online through the DMPTool.&#x20;
 
-## About DMPTool
-
-[![DMPTool Logo](https://datadocs.bco-dmo.org/d3/data\_docs/DMPTool\_logo\_blue.png)](https://dmptool.org)&#x20;
-
-
+![](https://datadocs.bco-dmo.org/d3/data\_docs/DMPTool\_logo\_blue.png)
 
 [DMPTool](https://dmptool.org) is a free, open-source, online application that helps researchers create data management plans. The DMPTool provides detailed guidance and links to informational resources and it walks researchers through the process of generating comprehensive plans tailored to specific DMP requirements, in this case, the NSF OCE requirements.
 
-## How to find the BCO-DMO Template on DMPTool
+## How to find and use the BCO-DMO Template on DMPTool
+
+After going to [dmptool.org](https://dmptool.org), click on the "Get Started" button and then choose a sign-in option.
+
+![These are the three sign-in options for DMPTool.](<../.gitbook/assets/image (1).png>)
 
 If you are a researcher from one of the [DMPTool participating institutions](https://dmptool.org/public\_orgs), you can log in using your institutional credentials. By being affiliated with your institution, you may be presented with institution-specific guidance (displayed as instructions and/or resource web links) to help you complete your plan. If your institution does not participate, you can create your own account with an email address and password.
 
-Once logged-in to [DMPTool](https://dmptool.org), select “Create Plan” from the “My Dashboard” display. Then, follow the wizard to input (1) the title of your research project, (2) your institutional affiliation (optional), and (3) your funder (in this case NSF), and then select the template titled “**BCO-DMO NSF OCE: Biological and Chemical Oceanography**”.&#x20;
+Once you're logged-in, select “Create Plan” from the “My Dashboard” display. Then, follow the wizard to input (1) the title of your research project, (2) your institutional affiliation (optional), and (3) your funder (in this case NSF), and then select the template titled “**BCO-DMO NSF OCE: Biological and Chemical Oceanography**”.&#x20;
 
-From there, you will be guided through a series of tabs where you can create the plan. On the first tab, you can enter additional "Project details" such as an abstract, PI or data contact details, etc. The next tab provides an overview of all the questions that you should address in the plan. The next "Write plan" tab contains the questions with text fields to enter your answers, accompanied by example answers and/or a detailed description of information you should provide to meet the specific OCE Sample and Data Policy requirement. Each question may also have additional guidance in the right side panel containing links to relevant external websites or guidance material.&#x20;
+![Click "Create plan" to start a new DMP.](<../.gitbook/assets/image (8).png>)
 
-You can save your plan and return to it at any point. The "Share" tab enables you to invite collaborators as co-authors. You can download the completed plan in .pdf, .docx, .txt, and other formats to include in your NSF proposal. We suggest after downloading a file you adjust the font and margins to meet NSF proposal formatting requirements.&#x20;
+![After you choose "NSF" as the funding organization, you can choose the BCO-DMO template.](<../.gitbook/assets/image (7).png>)
+
+From there, you will be guided through a series of tabs where you can create the plan. On the first tab, you can enter additional "Project details" such as an abstract, start and end dates, and funding numbers.
+
+![Screenshot of the DMPTool interface. Note the tabs along the top, which guide you through the process.](<../.gitbook/assets/image (6).png>)
+
+The next tab allows you to add collaborators. The "Write Plan" tab is where you enter the bulk of your DMP content. Each section contains questions/prompts and text fields where you enter your answers. Example answers are also provided. Each question may also have additional guidance in the right side panel containing links to relevant external websites or guidance material.
+
+![These are the sections within the "Write Plan" part of the tool.](<../.gitbook/assets/image (9).png>)
+
+![Each section contains a question or prompt, guidance for how to answer, and an example.](<../.gitbook/assets/image (10).png>)
+
+You can save your plan and return to it at any point in the process. Once complete, you can download the completed plan in .pdf, .docx, .txt, and other formats to include in your NSF proposal.&#x20;
+
+![Options for downloading your DMP.](../.gitbook/assets/image.png)
 
 A summary of these instructions, including screenshots, is available in the [DMPTool Quick Start Guide](https://dmptool.org/help). You can also download the template as a .pdf or .docx file from the [DMPTool Funder Requirements page](https://dmptool.org/public\_templates) and use it to complete your plan in your preferred word processing program.
 

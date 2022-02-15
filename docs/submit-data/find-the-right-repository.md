@@ -26,7 +26,7 @@ In addition, they apply harmonization techniques to data and metadata that incre
 
 They employ persistent identifiers for metadata and related information, and standardized formats for representing metadata and data; they facilitate the application of appropriate licenses and make connections to qualified external resources for additional interpretation and context for reuse.&#x20;
 
-![Increased curation efforts done by domain specific repositories lead to F.A.I.R data](../.gitbook/assets/image.png)
+![Increased curation efforts done by domain specific repositories lead to F.A.I.R data](<../.gitbook/assets/image (5).png>)
 
 ### Repository Certification
 
