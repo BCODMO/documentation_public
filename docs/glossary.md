@@ -20,7 +20,7 @@ description: Definitions of frequently used terms and acronym
 
 **Dataset:**
 
-**Dataset Landing Page** (or: Metadata Page?, Metadata Landing Page?):
+**Dataset Metadata Page**: **** A BCO-DMO Dataset Metadata Page (sometimes referred to as a "Dataset Landing Page") displays all of the descriptive metadata associated with a dataset, such as title, PIs, methods, instruments, and parameter definitions. The Metadata Page also provides access to data files and any associated supplemental files.&#x20;
 
 **Deployments:**
 
@@ -32,9 +32,7 @@ description: Definitions of frequently used terms and acronym
 
 **Metadata**:&#x20;
 
-**Metadata Forms: ("offline metadata form"?)**
-
-**Metadata Landing Page**:
+**Metadata Forms (.rtf):** Metadata Forms in .rtf format are available as an alternative to our Submission Tool. These forms are downloadable and fillable offline. The Dataset Metadata Form should be filled out when submitting data. The Project Metadata Form should be filled out when registering a project.&#x20;
 
 **Parameters:**
 
@@ -42,7 +40,7 @@ Platforms:
 
 Program:
 
-Project Page (or Project Landing Page?)
+**Project Page:** A BCO-DMO Project Page (sometimes referred to as a "Project Landing Page") displays all of the descriptive metadata associated with a project, such as the start and end dates, project summary, and funding awards. The Project Page also provides access to the Dataset Metadata Pages of those datasets associated with the project.
 
 Project Registration:
 
@@ -61,10 +59,6 @@ Submission Status:
 **Version Numbe**r:
 
 **Version Date**: The date when the dataset version number is assigned in format YYYY-MM-DD.&#x20;
-
-
-
-****
 
 ## **Acronyms**
 
