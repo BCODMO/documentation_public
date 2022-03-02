@@ -6,21 +6,35 @@ description: A summary of useful tutorials and workshops for the BCO-DMO user co
 
 ## BCO-DMO tutorials
 
-Data access tutorial: [https://www.bco-dmo.org/files/bcodmo/BCO-DMO\_Tutorial.pdf](https://www.bco-dmo.org/files/bcodmo/BCO-DMO\_Tutorial.pdf)&#x20;
-
-[BCO-DMO Youtube Channel ](https://www.youtube.com/user/BCODMO)
-
 Quick tutorial GIFs could be useful here once the new website is live (for quick how-to's). Example here: [https://dataexplorer.oceanobservatories.org/help/how-to/ooi/metadata/deployment-level-metadata.html#find-serial-numbers](https://dataexplorer.oceanobservatories.org/help/how-to/ooi/metadata/deployment-level-metadata.html#find-serial-numbers)&#x20;
 
 
 
 ![Gif demonstration](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
+### Text -Tutorials
+
+Data access tutorial: [https://www.bco-dmo.org/files/bcodmo/BCO-DMO\_Tutorial.pdf](https://www.bco-dmo.org/files/bcodmo/BCO-DMO\_Tutorial.pdf)&#x20;
+
+### Video Tutorials
+
+**BCO-DMO Data Access Demo**
+
+{% embed url="https://youtu.be/FhSj_mSxY_k" %}
+
+**Introduction to BCO-DMO**
+
+{% embed url="https://youtu.be/QwtNllN5d_c" %}
+
+**Laminar: a data processing and provenance tool**
+
+{% embed url="https://youtu.be/x8F3Xksy4Fw" %}
 
 
-## Carpentries style workshop and training
 
-Here is a list of workshops staff members of BCO-DMO have taught in the past. All of the workshops are data related and could potentially be useful for the community that BCO-DMO is serving.&#x20;
+## **Data-related** workshops and training
+
+Here is a list of workshops staff members of BCO-DMO have taught in the past. All of the workshops are data-related and could potentially be useful for the community that BCO-DMO serves
 
 When teaching workshops, we mostly follow the carpentries style workshops (Instructors are trained in pedagogy and focus on creating a motivating and engaging environment for learners).
 
@@ -39,6 +53,4 @@ Intro to APIs: Case study to match taxonomic names in Python \[in progress]
 
 
 
-
-![](<../.gitbook/assets/image (2) (1) (44) (1).png>)
 
