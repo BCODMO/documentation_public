@@ -18,7 +18,9 @@ description: Definitions of frequently used terms and acronym
 
 **Data Package**:
 
-**Dataset:**
+**Dataset:** "Dataset" can mean different things in different contexts, but in the context of a BCO-DMO dataset submission, or a dataset associated with a metadata landing page, a dataset is a singular collection of observation level data. In the case of tabular or spreadsheet data, this would be one data table in a single spreadsheet. Contrastly, multiple spreadsheet tabs in an Excel file would consitute multiple data tables (unless they could be merged). In the case of images...
+
+**Dataset Authors:** individuals who have contributed to the dataset and will be included in the citation for the dataset
 
 **Dataset Metadata Page**: **** A BCO-DMO Dataset Metadata Page (sometimes referred to as a "Dataset Landing Page") displays all of the descriptive metadata associated with a dataset, such as title, PIs, methods, instruments, and parameter definitions. The Metadata Page also provides access to data files and any associated supplemental files.&#x20;
 
@@ -28,7 +30,7 @@ description: Definitions of frequently used terms and acronym
 
 **ERDDAP**: ERDDAP is a data server that provides a simple, consistent way to download subsets of scientific datasets in common file formats. Many different organizations and data repositories use ERDDAP to distribute data. BCO-DMO's ERDDAP can be found at [https://erddap.bco-dmo.org/erddap/index.html](https://erddap.bco-dmo.org/erddap/index.html).&#x20;
 
-**FAIR Data Principles:**
+**FAIR Data Principles:** Guiding principles for making digital assets Findable, Accessible, Interoperable, and Reusable. Find more information [here](education/open-fair-data.md).
 
 **Metadata**:&#x20;
 
@@ -43,6 +45,8 @@ Program:
 **Project Page:** A BCO-DMO Project Page (sometimes referred to as a "Project Landing Page") displays all of the descriptive metadata associated with a project, such as the start and end dates, project summary, and funding awards. The Project Page also provides access to the Dataset Metadata Pages of those datasets associated with the project.
 
 Project Registration:
+
+**.rtf:** a file extension for rich text format files. By default, your system may open an .rtf file in a plain text editor. If that is the case, you can right click to open the file in Microsoft Word, which may enable you to see and edit the formatting of this file more easily.
 
 **Restricted**: BCO-DMO's dataset landing pages display a "Restricted" field denoting the availability of the dataset. "No" means the data are or will be publicly available. "Yes" means the data are restricted and will not be published or shared publicly before the release date specified by the data submitter. The term "embargoed data" is often used interchangeably with "restricted data".&#x20;
 
