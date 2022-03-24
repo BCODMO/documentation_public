@@ -1,19 +1,33 @@
 # Submit Data
 
-## Requirements
+## The process
 
-* NSF funded
-* Project is registered
+We provide **data management and curation services** free of charge to investigators funded through OCE BIO and CHEM divisions and Polar Programs. For those funded outside of these divisions, we determine if the data would be of value to the BCO-DMO user community and negotiate a 'fee per dataset' data management strategy. Find out **the appropriate repository for your data** [here](finding-an-appropriate-repository.md).
+
+Before submitting data to BCO-DMO, make sure to **register your award and related project**. To do so, you can use our online submission tool.&#x20;
+
+Submitting data to BCO-DMO can be done using the online **Submission Tool**. Please make sure to have the following at the ready:&#x20;
+
+1. A dataset needs to be accompanied by [**metadata**](submit-metadata.md) for new users to be able to understand and re-use the datasets that we hold.&#x20;
+2. The **organization of the data** itself that needs to be served is based on the data type. There is a distinction between [data tables](organizing-data-tables.md), [genetic accessions](genetic-accessions.md), [GEOTRACES](geotraces.md) and [Models & Code](software-and-code.md).
+
+Once you have submitted data, expect to receive a reply within 48-hours.&#x20;
 
 
 
-## The BCO-DMO Data Package
 
-### Metadata:
 
-* Parameters
-* Methods
-* People: Please indicate all the people that you want to attribute to the dataset and its citation. We have the ability to add people with the following roles: PI, co-PI, Scientist, Student, Long term contact, Technician and Data Manager.&#x20;
+
+
+
+
+
+
+
+
+
+
+## &#x20;
 
 
 
