@@ -6,7 +6,7 @@
   * [Project Registration](data-planning/project-registration.md)
   * [Program Registration](data-planning/program-registration.md)
 * [Submit Data](submit-data/README.md)
-  * [Find the Right Repository](submit-data/find-the-right-repository.md)
+  * [Finding an Appropriate Repository](submit-data/finding-an-appropriate-repository.md)
   * [Submit Metadata](submit-data/submit-metadata.md)
   * [Organizing Data Tables](submit-data/organizing-data-tables.md)
   * [Genetic accession (Omics)](submit-data/genetic-accessions.md)
