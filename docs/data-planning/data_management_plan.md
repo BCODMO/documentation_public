@@ -40,9 +40,9 @@ From there, you will be guided through a series of tabs where you can create the
 
 The next tab allows you to add collaborators. The "Write Plan" tab is where you enter the bulk of your DMP content. Each section contains questions/prompts and text fields where you enter your answers. Example answers are also provided. Each question may also have additional guidance in the right side panel containing links to relevant external websites or guidance material.
 
-![These are the sections within the "Write Plan" part of the tool.](<../.gitbook/assets/image (9).png>)
+![These are the sections within the "Write Plan" part of the tool.](<../.gitbook/assets/image (9) (1).png>)
 
-![Each section contains a question or prompt, guidance for how to answer, and an example.](<../.gitbook/assets/image (10).png>)
+![Each section contains a question or prompt, guidance for how to answer, and an example.](<../.gitbook/assets/image (10) (1).png>)
 
 You can save your plan and return to it at any point in the process. Once complete, you can download the completed plan in .pdf, .docx, .txt, and other formats to include in your NSF proposal.&#x20;
 

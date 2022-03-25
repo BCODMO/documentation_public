@@ -4,9 +4,9 @@ description: Metadata that BCO-DMO uses for data curation.
 
 # Metadata for datasets
 
-Each dataset needs to have its own specific metadata description. It can be part of a bigger&#x20;
+A dataset is each own entity and needs to be accompanied by metadata in order for a user to understand and reuse that data. Therefore, each dataset needs to have its own specific metadata description. Even if the data is part of a bigger experiment or sampling cruise, specific data is necessary. Below is a description of all the metadata that is necessary for a dataset.
 
-Gathering the necessary metadata for a specific dataset can seem cumbersome, but a robust data management plan at the start of the project can help alleviate the burden.&#x20;
+Gathering the necessary metadata for a specific dataset can seem cumbersome, but a robust [data management plan](../data-planning/data\_management\_plan.md) at the start of the project can help alleviate the burden.&#x20;
 
 ### Project and Funding
 
@@ -40,8 +40,29 @@ We also require a dataset specific paragraph on how the data was processed.&#x20
 
 Additionally, we can link out to an article describing the methods in depth.
 
+### Deployment
+
+When adding a deployment we need the following information for each deployment that needs to be added to the dataset.&#x20;
+
+* Name of the deployment. Typically follows the ID assigned by ship operator.
+* Start and end date of the deployment
+* Chief Scientists of the deploymentt
+* The name the platform&#x20;
+* General location of the deployment (Optional)
+* Any additional description to better describe or understand of the deployment (Optional)
+
+### Instruments
+
+Name and description of sampling equipment and instrumentation. Include equipment/instrument manufacturer names and model numbers where relevant and calibration information for individual sensors.
+
 ### Parameters
 
-### Related&#x20;
+Parameter names are the column headers. Please provide a description for each paramter , its units and missing data identifier
+
+![Example of parameter descriptions needed to complete the dataset metadata.](<../.gitbook/assets/image (10).png>)
+
+### Related items
+
+Is the data part of a bigger experiment and&#x20;
 
 &#x20;
