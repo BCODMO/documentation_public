@@ -7,7 +7,7 @@
   * [Program Registration](data-planning/program-registration.md)
 * [Submit Data](submit-data/README.md)
   * [Finding an Appropriate Repository](submit-data/finding-an-appropriate-repository.md)
-  * [Submit Metadata](submit-data/submit-metadata.md)
+  * [Metadata for datasets](submit-data/metadata-for-datasets.md)
   * [Organizing Data Tables](submit-data/organizing-data-tables.md)
   * [Genetic accession (Omics)](submit-data/genetic-accessions.md)
   * [GEOTRACES Data](submit-data/geotraces.md)

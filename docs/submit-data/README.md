@@ -26,7 +26,7 @@ Find out how to [register your project](../data-planning/project-registration.md
 
 Submitting data to BCO-DMO can also be done using the online **Submission Tool**. Please make sure to have prepared the following:
 
-1. A dataset needs to be accompanied by [**metadata**](submit-metadata.md) for new users to be able to understand and re-use the datasets that we hold.&#x20;
+1. A dataset needs to be accompanied by [**metadata**](metadata-for-datasets.md) for new users to be able to understand and re-use the datasets that we hold.&#x20;
 2. The **organization of the data** itself that needs to be served is based on the data type. There is a distinction between [data tables](organizing-data-tables.md), [genetic accessions](genetic-accessions.md), [GEOTRACES](geotraces.md) and [Models & Code](software-and-code.md).
 
 Once you have submitted data, expect to receive a reply within 48-hours.&#x20;
