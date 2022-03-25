@@ -47,19 +47,19 @@ BCO-DMO is funded by the US National Science Foundation to provide data manageme
 * The NSF Division of Polar Programs' Antarctic Organisms & Ecosystems Program (**OPP;** formerly PLR)
 * NSF Ocean Acidification program (**CRI-OA)**. Certain awards represent collaborations between OCE and other NSF divisions, eg., Division of Environmental Biology (DEB). **NOTE:** this is a legacy program that has sunset.
 * NSF\*\* FSML\*\*: Biological Field Stations and Marine Laboratories (part of Division of Biological Infrastructure, DBI).
-* Long Term Ecological Research (**LTER**): LTER is a cross cutting program at the Directorate/Division level (for example BIO/DEB, GEO/OPP, GEO/OCE), but funds oceanographic sites (GEO/OCE). BCO-DMO accepts ancillary or complimentary research output conducted at an LTER site. Core LTER research data can be directed to the Environmental Data Initiative (EDI) repository.
+* Long Term Ecological Research (**LTER**): LTER is a cross cutting program at the Directorate/Division level (for example BIO/DEB, GEO/OPP, GEO/OCE, SBE/BCS) that funds research at oceanographic sites (GEO/OCE). BCO-DMO accepts ancillary or complimentary research output conducted at these site. Core LTER research data can be directed to the Environmental Data Initiative (EDI) repository.
 
-BCO-DMO staff members work with researchers funded by these NSF programs to ensure that data and metadata contributed to BCO-DMO are in compliance with the current [NSF OCE Sample and Data Policy](https://nsf.gov/pubs/2017/nsf17037/nsf17037.jsp?org=NSF) (NSF 17-037).&#x20;
+BCO-DMO staff members work with researchers funded by these NSF programs to ensure that their research output is in compliance with the current [NSF OCE Sample and Data Policy](https://nsf.gov/pubs/2017/nsf17037/nsf17037.jsp?org=NSF) (NSF 17-037).&#x20;
 
-If your project is not funded by an NSF section that BCO-DMO serves, we have compiled a list of recommended data centers below.&#x20;
+However, If your project is not funded by an NSF program that BCO-DMO serves, there are additional repositories in the compiled a list of recommended data centers below.&#x20;
 
-However, if your data fits our domain, there are occasions where we are able to provide services to non-OCE projects, but they typically get prioritized after OCE's data needs and come with an additional cost. Such datasets are decided after review of the data, please contact info@bco-dmo.org.
+If your data fits within BCO-DMO's disciplinary scope, it may be possible to to obtain data management services for non-OCE projects. These are typically prioritized after NSF OCE data and are on a fee for service basis. Costs are decided after review of the data. Please contact info@bco-dmo.org for more information.
 
 ## Other recommended domain-specific repositories
 
-Not all NSF funded projects are supported free of charge by BCO-DMO. Some other recommended data centers include:
+Not all NSF funded projects are supported by BCO-DMO. Additional recommended data centers include:
 
-* For NSF-sponsored Physical Oceanography projects, investigators are encouraged to contact the [CLIVAR and Carbon Hydrographic Data Office](https://cchdo.ucsd.edu) [(CCHDO)](https://cchdo.ucsd.edu) or archive their data directly with the [National Centers for Environmental Information](http://www.ncei.noaa.gov) [(NCEI)](http://www.ncei.noaa.gov).&#x20;
+* For NSF OCE-sponsored Physical Oceanography projects, investigators are encouraged to contact the [CLIVAR and Carbon Hydrographic Data Office](https://cchdo.ucsd.edu) [(CCHDO)](https://cchdo.ucsd.edu) or archive their data directly with the [National Centers for Environmental Information](http://www.ncei.noaa.gov) [(NCEI)](http://www.ncei.noaa.gov).&#x20;
 * For marine geology, contact the [Interdisciplinary Earth Data Alliance](http://www.iedadata.org)  (IEDA) group hosted at Lamont-Doherty Earth Observatory, Columbia University.
 * For projects supported by NSF Arctic Sciences Program (ARC) investigators, the [Arctic Data Center](https://arcticdata.io) which succeeds the [Advanced Cooperative Arctic Data and Information Service](http://nsidc.org/acadis/) (ACADIS), should be contacted. The Arctic Data Center is supported by NSF and is led by the [National Center for Ecological Analysis and Synthesis (NCEAS)](https://www.nceas.ucsb.edu) at the University of California Santa Barbara, to develop and curate the NSF [Arctic Data Center](https://arcticdata.io), an archive for Arctic scientific data as well as other related research documents.
 * Gulf of Mexico Research Initiative (GoMRI) funded projects can submit data to their regional GoMRI location. See [https://data.gulfresearchinitiative.org/about](https://data.gulfresearchinitiative.org/about) for additional information including their data management plan under the "Design and Management" menu option.
