@@ -1,8 +1,14 @@
+---
+description: >-
+  Information on how to submit data to BCo-DMO, how to use our online tool to do
+  so and what to do once the submission has been accepted.
+---
+
 # Submit Data
 
 ## The Submission Process
 
-**Check you domain specific repository**
+**Check your domain specific repository**
 
 We provide **data management and curation services** free of charge to investigators funded through OCE BIO and CHEM divisions and Polar Programs, see the [complete list for supported programs](finding-an-appropriate-repository.md#programs-supported-by-bco-dmo). For those funded outside of these divisions, we determine if the data would be of value to the BCO-DMO user community and negotiate a 'fee per dataset' data management strategy. Find out **the appropriate repository for your data** [here](finding-an-appropriate-repository.md).
 
@@ -55,6 +61,3 @@ Once your datasets are online, you’ll be asked to review the data and metadata
 
 ****
 
-## &#x20;<a href="#page-title" id="page-title"></a>
-
-By submitting data and information, the submitter grants BCO-DMO the rights needed to copy, store, redistribute, and share data, metadata, and any other content. By validating and making their data publicly available, submitters grant BCO-DMO and any other users the right to reuse their data according to the terms of the CC BY 4 license.
