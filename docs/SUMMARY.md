@@ -21,7 +21,7 @@
 * [Data Package](data-package/README.md)
   * [Metadata Page](data-package/metadata-page.md)
   * [Data View](data-package/data-view.md)
-  * [BCO-DMO Onthology](data-package/bco-dmo-onthology.md)
+  * [BCO-DMO Ontology](data-package/bco-dmo-ontology.md)
   * [BCO-DMO API](data-package/bco-dmo-api.md)
 * [Education](education/README.md)
   * [What is Open & F.A.I.R Data?](education/open-fair-data.md)
