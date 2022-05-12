@@ -1,10 +1,8 @@
 ---
-description: >-
-  Information on how to submit data to BCO-DMO, how to use our online tool to do
-  so, and what to do once the submission has been accepted.
+description: Information on how to prepare data and metadata for submission to BCO-DMO.
 ---
 
-# Submit Data
+# Preparing Data for Submission
 
 ## The Submission Process
 
