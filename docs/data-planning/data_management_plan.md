@@ -42,7 +42,7 @@ The next tab allows you to add collaborators. The "Write Plan" tab is where you 
 
 ![These are the sections within the "Write Plan" part of the tool.](<../.gitbook/assets/image (9) (1).png>)
 
-![Each section contains a question or prompt, guidance for how to answer, and an example.](<../.gitbook/assets/image (10) (1) (1).png>)
+![Each section contains a question or prompt, guidance for how to answer, and an example.](<../.gitbook/assets/image (10) (1) (1) (1).png>)
 
 You can save your plan and return to it at any point in the process. Once complete, you can download the completed plan in .pdf, .docx, .txt, and other formats to include in your NSF proposal.&#x20;
 

@@ -59,7 +59,7 @@ Name and description of sampling equipment and instrumentation. Include equipmen
 
 Parameter names are the column headers. Please provide a description for each paramter , its units and missing data identifier
 
-![Example of parameter descriptions needed to complete the dataset metadata.](<../.gitbook/assets/image (10) (1).png>)
+![Example of parameter descriptions needed to complete the dataset metadata.](<../.gitbook/assets/image (10) (1) (1).png>)
 
 ### Related items
 
