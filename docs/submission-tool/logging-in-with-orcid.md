@@ -12,13 +12,13 @@ ORCID provides a unique identifier for researchers. Many journals and funders re
 
 After clicking the "Sign in with ORCID" button, you'll see the following screen:
 
-![ORCID Login Screen](<../.gitbook/assets/image (5).png>)
+![ORCID Login Screen](<../.gitbook/assets/image (5) (1).png>)
 
 From here, you can choose whichever log-in option you prefer. For more information, see "[Different ways to sign into ORCID](https://support.orcid.org/hc/en-us/articles/360006972693)".
 
 Once you're signed in, you'll see a dashboard similar to this:
 
-![BCO-DMO Submisison Tool](<../.gitbook/assets/image (10).png>)
+![BCO-DMO Submisison Tool](<../.gitbook/assets/image (11).png>)
 
 Under "Your Datasets", you'll see any datasets previously submitted to BCO-DMO on which you're a contributor. If you're a contributor on any projects, you'll see them listed under "Your Projects". (Note that the datasets and projects displayed here are only those which were submitted using the Submission Tool. Datasets and projects submitted by email in the past are not shown here.)
 

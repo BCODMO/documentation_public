@@ -24,23 +24,23 @@ BCO-DMO has developed a Data Management Plan template to assist investigators in
 
 After going to [dmptool.org](https://dmptool.org/), click on the "Get Started" button and then choose a sign-in option.
 
-![These are the three sign-in options for DMPTool.](<../.gitbook/assets/image (1).png>)
+![These are the three sign-in options for DMPTool.](<../.gitbook/assets/image (1) (1).png>)
 
 If you are a researcher from one of the [DMPTool participating institutions](https://dmptool.org/public\_orgs), you can log in using your institutional credentials. By being affiliated with your institution, you may be presented with institution-specific guidance (displayed as instructions and/or resource web links) to help you complete your plan. If your institution does not participate, you can create your own account with an email address and password.
 
 Once you're logged-in, select “Create Plan” from the “My Dashboard” display. Then, follow the wizard to input (1) the title of your research project, (2) your institutional affiliation (optional), and (3) your funder (in this case NSF), and then select the template titled “**BCO-DMO NSF OCE: Biological and Chemical Oceanography**”.&#x20;
 
-![Click "Create plan" to start a new DMP.](<../.gitbook/assets/image (8).png>)
+![Click "Create plan" to start a new DMP.](<../.gitbook/assets/image (8) (1).png>)
 
-![After you choose "NSF" as the funding organization, you can choose the BCO-DMO template.](<../.gitbook/assets/image (7).png>)
+![After you choose "NSF" as the funding organization, you can choose the BCO-DMO template.](<../.gitbook/assets/image (7) (1).png>)
 
 From there, you will be guided through a series of tabs where you can create the plan. On the first tab, you can enter additional "Project details" such as an abstract, start and end dates, and funding numbers.
 
-![Screenshot of the DMPTool interface. Note the tabs along the top, which guide you through the process.](<../.gitbook/assets/image (6).png>)
+![Screenshot of the DMPTool interface. Note the tabs along the top, which guide you through the process.](<../.gitbook/assets/image (6) (1).png>)
 
 The next tab allows you to add collaborators. The "Write Plan" tab is where you enter the bulk of your DMP content. Each section contains questions/prompts and text fields where you enter your answers. Example answers are also provided. Each question may also have additional guidance in the right side panel containing links to relevant external websites or guidance material.
 
-![These are the sections within the "Write Plan" part of the tool.](<../.gitbook/assets/image (9) (1).png>)
+![These are the sections within the "Write Plan" part of the tool.](<../.gitbook/assets/image (9) (1) (1).png>)
 
 ![Each section contains a question or prompt, guidance for how to answer, and an example.](<../.gitbook/assets/image (10) (1) (1) (1).png>)
 
