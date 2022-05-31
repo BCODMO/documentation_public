@@ -14,7 +14,7 @@ After clicking the "Sign in with ORCID" button, you'll see the following screen:
 
 ![ORCID Login Screen](<../.gitbook/assets/image (5) (1).png>)
 
-From here, you can choose whichever log-in option you prefer. For more information, see "[Different ways to sign into ORCID](https://support.orcid.org/hc/en-us/articles/360006972693)".
+From here, you can choose whichever log-in option you prefer. Note: if you sign in with email, this needs to be the email address associated with your ORCID. For more information, see "[Different ways to sign into ORCID](https://support.orcid.org/hc/en-us/articles/360006972693)".
 
 Once you're signed in, you'll see a dashboard similar to this:
 
