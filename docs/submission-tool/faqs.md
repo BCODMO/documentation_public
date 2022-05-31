@@ -55,3 +55,13 @@ If you can't submit your data using the submission tool, please submit your data
   * Please fill out a copy of this form for each project you would like to register with us.
 * [DATASET.rtf](https://www.bco-dmo.org/files/bcodmo/DATASET.rtf) metadata form
   * Please fill out a copy of this metadata form for each Dataset you are submitting.
+
+## Will submissions need to be restarted if I can't complete a submission in one session or if I lose wifi?
+
+Your submission will be saved as a draft each time you save and continue to the next section of the form. You can also save your submission as a draft if you click on the 4. Submit Tab and select the "Save as a draft" button.&#x20;
+
+## Who can edit a submissions saved as drafts or submitted?
+
+When a project or dataset submission is saved as a draft, submitters, and other collaborators listed in the People section of the form will be able to view and edit submissions if logged in to the Submission Tool.&#x20;
+
+After a project is submitted, no further edits can be made. If you realize your submission needs edits, email info@bco-dmo.org.&#x20;
