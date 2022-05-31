@@ -54,7 +54,7 @@ Tabular Data (or Data Tables?)
 
 Submission Status:
 
-**Submission Tool:** BCO-DMO's Submission Tool, found at [https://submit.bco-dmo.org/](https://submit.bco-dmo.org), is an online tool that allows users to submit datasets to and register projects with BCO-DMO. If you'd prefer to email your submission to BCO-DMO, use our downloadable Metadata Forms (.rtf) instead. The downloadable, fillable forms can be found on our website at [https://www.bco-dmo.org/how-get-started](https://www.bco-dmo.org/how-get-started).&#x20;
+**Submission Tool:** BCO-DMO's Submission Tool, found at [https://submit.bco-dmo.org/](https://submit.bco-dmo.org/), is an online tool that allows users to submit datasets to and register projects with BCO-DMO. If you'd prefer to email your submission to BCO-DMO, use our downloadable Metadata Forms (.rtf) instead. The downloadable, fillable forms can be found on our website at [https://www.bco-dmo.org/how-get-started](https://www.bco-dmo.org/how-get-started).&#x20;
 
 **Validated**: BCO-DMO's dataset landing pages display a "Validated" field denoting the validation status of the dataset. "Yes" means the data submitter has reviewed and approved the data and metadata. "No" means BCO-DMO has not received the final approval from the data submitter.
 
@@ -84,6 +84,6 @@ Submission Status:
 
 **ORCID**: ORCID, which stands for Open Researcher and Contributor ID, **** is a global, not-for-profit organization that provides a unique, persistent identifier for individuals. An **ORCID iD** is an identifier assigned to an individual. At BCO-DMO, you'll need to have an ORCID iD to use our online submission tool. To learn more about the benefits of having an ORCID iD, visit [https://info.orcid.org/benefits-for-researchers/](https://info.orcid.org/benefits-for-researchers/).&#x20;
 
-**R2R**: Rolling Deck to Repository ([https://www.rvdata.us/](https://www.rvdata.us)). R2R provides preservation and distribution of the environmental sensor data routinely acquired on expeditions of the U.S. academic research fleet.
+**R2R**: Rolling Deck to Repository ([https://www.rvdata.us/](https://www.rvdata.us/)). R2R provides preservation and distribution of the environmental sensor data routinely acquired on expeditions of the U.S. academic research fleet.
 
-**WHOAS**: Woods Hole Open Access Server ([https://darchive.mblwhoilibrary.org/](https://darchive.mblwhoilibrary.org)). WHOAS is a repository that accepts hundreds of different data types from researchers based in the Woods Hole research community and provides access based on the FAIR data principles. BCO-DMO archives its data holdings in WHOAS. BCO-DMO's WHOAS records can be found at [https://darchive.mblwhoilibrary.org/handle/1912/4135](https://darchive.mblwhoilibrary.org/handle/1912/4135).&#x20;
+**WHOAS**: Woods Hole Open Access Server ([https://darchive.mblwhoilibrary.org/](https://darchive.mblwhoilibrary.org/)). WHOAS is a repository that accepts hundreds of different data types from researchers based in the Woods Hole research community and provides access based on the FAIR data principles. BCO-DMO archives its data holdings in WHOAS. BCO-DMO's WHOAS records can be found at [https://darchive.mblwhoilibrary.org/handle/1912/4135](https://darchive.mblwhoilibrary.org/handle/1912/4135).&#x20;

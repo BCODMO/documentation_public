@@ -2,7 +2,7 @@
 
 ## Determining an appropriate repository for your research output
 
-Data and related information generated from federally-funded research are expected to be shared publicly in a manner that enables reuse. Many digital data repositories exist throughout the world to steward and provision research output. They can be highly specialized, focusing on a particular type of data or scientific discipline, or they can be more general, accepting a wide variety of research output from literature to data and software from any discipline. Curated registries of research repositories such as the Registry of Research Data Repositories ([Re3data.org](https://www.re3data.org)) and [FAIRsharing.org](https://fairsharing.org) can help determine a suitable repository for sharing your data and software.
+Data and related information generated from federally-funded research are expected to be shared publicly in a manner that enables reuse. Many digital data repositories exist throughout the world to steward and provision research output. They can be highly specialized, focusing on a particular type of data or scientific discipline, or they can be more general, accepting a wide variety of research output from literature to data and software from any discipline. Curated registries of research repositories such as the Registry of Research Data Repositories ([Re3data.org](https://www.re3data.org/)) and [FAIRsharing.org](https://fairsharing.org/) can help determine a suitable repository for sharing your data and software.
 
 ### Repository types
 
@@ -18,7 +18,7 @@ Repositories are often categorized into three basic types based upon curation ef
 
 
 
-![Increased curation activities performed by domain specific repositories lead to F.A.I.R data](<../.gitbook/assets/image (5).png>)
+![Increased curation activities performed by domain specific repositories lead to F.A.I.R data](<../.gitbook/assets/image (5) (1).png>)
 
 ~~~~
 
@@ -29,7 +29,7 @@ When considering possible repositories, you may want to include the following cr
 1. **Funder requirements**: Does your funding organization or agency have specific repository requirements?
 2. **Type of data**: Is there a domain repository that your research community uses for the type of data your project has produced?
 3. **Publisher requirements**: Scholarly publishers now require data to cited with a DOI and may have a preferred repository list for author use. It is important to be aware of any journal-specific requirements for data deposition and citation _prior to submitting manuscripts_. If a journal is flexible, look for a domain repository that provides robust curation necessary for peer review, before seeking a more general one.&#x20;
-4. **Repository certification**: The shear number of research data repositories coupled with high variability in curation services can make it difficult to select an appropriate facility. Third party assessment of repository capabilities and services can assist in the process. A repository that has successfully completed a certification process such as [CoreTrustSeal](https://www.coretrustseal.org), is known to employ trustworthy data curation practices.
+4. **Repository certification**: The shear number of research data repositories coupled with high variability in curation services can make it difficult to select an appropriate facility. Third party assessment of repository capabilities and services can assist in the process. A repository that has successfully completed a certification process such as [CoreTrustSeal](https://www.coretrustseal.org/), is known to employ trustworthy data curation practices.
 
 ## Data types served by BCO-DMO
 
@@ -59,9 +59,9 @@ If your data fits within BCO-DMO's disciplinary scope, it may be possible to to 
 
 Not all NSF funded projects are supported by BCO-DMO. Additional recommended data centers include:
 
-* For NSF OCE-sponsored **physical oceanography** projects, investigators are encouraged to contact the [CLIVAR and Carbon Hydrographic Data Office](https://cchdo.ucsd.edu) [(CCHDO)](https://cchdo.ucsd.edu) or archive their data directly with the [National Centers for Environmental Information](http://www.ncei.noaa.gov) [(NCEI)](http://www.ncei.noaa.gov).&#x20;
-* For **marine geology**, contact the [Interdisciplinary Earth Data Alliance](http://www.iedadata.org)  (IEDA) group hosted at Lamont-Doherty Earth Observatory, Columbia University.
-* For projects supported by **NSF Arctic Sciences Program** (ARC) investigators, the [Arctic Data Center](https://arcticdata.io) which succeeds the [Advanced Cooperative Arctic Data and Information Service](http://nsidc.org/acadis/) (ACADIS), should be contacted. The Arctic Data Center is supported by NSF and is led by the [National Center for Ecological Analysis and Synthesis (NCEAS)](https://www.nceas.ucsb.edu) at the University of California Santa Barbara, to develop and curate the NSF [Arctic Data Center](https://arcticdata.io), an archive for Arctic scientific data as well as other related research documents.
+* For NSF OCE-sponsored **physical oceanography** projects, investigators are encouraged to contact the [CLIVAR and Carbon Hydrographic Data Office](https://cchdo.ucsd.edu/) [(CCHDO)](https://cchdo.ucsd.edu/) or archive their data directly with the [National Centers for Environmental Information](http://www.ncei.noaa.gov/) [(NCEI)](http://www.ncei.noaa.gov/).&#x20;
+* For **marine geology**, contact the [Interdisciplinary Earth Data Alliance](http://www.iedadata.org/)  (IEDA) group hosted at Lamont-Doherty Earth Observatory, Columbia University.
+* For projects supported by **NSF Arctic Sciences Program** (ARC) investigators, the [Arctic Data Center](https://arcticdata.io/) which succeeds the [Advanced Cooperative Arctic Data and Information Service](http://nsidc.org/acadis/) (ACADIS), should be contacted. The Arctic Data Center is supported by NSF and is led by the [National Center for Ecological Analysis and Synthesis (NCEAS)](https://www.nceas.ucsb.edu/) at the University of California Santa Barbara, to develop and curate the NSF [Arctic Data Center](https://arcticdata.io/), an archive for Arctic scientific data as well as other related research documents.
 * **Gulf of Mexico Research Initiative** (GoMRI) funded projects can submit data to their regional GoMRI location. See [https://data.gulfresearchinitiative.org/about](https://data.gulfresearchinitiative.org/about) for additional information including their data management plan under the "Design and Management" menu option.
 * **Ocean Carbon and Biogeochemistry (OCB) research community:** Guidance to OCB scientists who are uncertain where to submit or propose to submit their data is available from the [OCB website.](https://www.us-ocb.org/science-support/data-management-and-archival/)
 

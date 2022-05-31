@@ -18,11 +18,11 @@ BCO-DMO has developed a Data Management Plan template to assist investigators in
 
 ![](https://datadocs.bco-dmo.org/d3/data\_docs/DMPTool\_logo\_blue.png)
 
-[DMPTool](https://dmptool.org) is a free, open-source, online application that helps researchers create data management plans. The DMPTool provides detailed guidance and links to informational resources and it walks researchers through the process of generating comprehensive plans tailored to specific DMP requirements, in this case, the NSF OCE requirements.
+[DMPTool](https://dmptool.org/) is a free, open-source, online application that helps researchers create data management plans. The DMPTool provides detailed guidance and links to informational resources and it walks researchers through the process of generating comprehensive plans tailored to specific DMP requirements, in this case, the NSF OCE requirements.
 
 ## How to find and use the BCO-DMO Template on DMPTool
 
-After going to [dmptool.org](https://dmptool.org), click on the "Get Started" button and then choose a sign-in option.
+After going to [dmptool.org](https://dmptool.org/), click on the "Get Started" button and then choose a sign-in option.
 
 ![These are the three sign-in options for DMPTool.](<../.gitbook/assets/image (1).png>)
 
@@ -42,7 +42,7 @@ The next tab allows you to add collaborators. The "Write Plan" tab is where you 
 
 ![These are the sections within the "Write Plan" part of the tool.](<../.gitbook/assets/image (9) (1).png>)
 
-![Each section contains a question or prompt, guidance for how to answer, and an example.](<../.gitbook/assets/image (10) (1).png>)
+![Each section contains a question or prompt, guidance for how to answer, and an example.](<../.gitbook/assets/image (10) (1) (1).png>)
 
 You can save your plan and return to it at any point in the process. Once complete, you can download the completed plan in .pdf, .docx, .txt, and other formats to include in your NSF proposal.&#x20;
 
