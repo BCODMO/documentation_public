@@ -10,6 +10,7 @@
   * [Metadata for datasets](preparing-data-for-submission/metadata-for-datasets.md)
   * [Organizing Data Tables](preparing-data-for-submission/organizing-data-tables.md)
   * [Genetic accession (Omics)](preparing-data-for-submission/genetic-accessions.md)
+  * [Image Classification Data](preparing-data-for-submission/image-classification-data.md)
   * [GEOTRACES Data](preparing-data-for-submission/geotraces.md)
   * [Models, Software, and Code](preparing-data-for-submission/software-and-code.md)
   * [Large Data Files](preparing-data-for-submission/large-data-files.md)
