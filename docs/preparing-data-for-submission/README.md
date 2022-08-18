@@ -22,7 +22,7 @@ Find out how to [register your project](../data-planning/project-registration.md
 
 **Submit your data and metadata**
 
-Submitting data to BCO-DMO can also be done using the online **Submission Tool**. Please make sure to have prepared the following:
+Submitting data to BCO-DMO can also be done using the online **Submission Tool** ([https://submit.bco-dmo.org/](https://submit.bco-dmo.org/)). Please make sure to have prepared the following:
 
 1. **Descriptive Metadata:** A dataset needs to be accompanied by [**metadata**](metadata-for-datasets.md) for new users to be able to understand and reuse the datasets we hold.&#x20;
 2. **Data Files:** The **organization of the data** could vary depending on the data type. There is a distinction between [data tables](organizing-data-tables.md), [genetic accessions](genetic-accessions.md), and [Models & Code](software-and-code.md). We also have specific guidance for certain research programs or projects, such as [GEOTRACES](geotraces.md).
@@ -43,7 +43,7 @@ After we receive your data and metadata, a data manager will begin the process o
 
 Once your datasets are online, you’ll be asked to review the data and metadata for completeness and accuracy. This validation stage is the final step in the process, and it is necessary for the assignment of DOIs and for long-term archiving. Once datasets are reviewed and approved by the contributor, BCO-DMO ensures the data are archived properly at the appropriate National Data Center (e.g. National Centers for Environmental Information, NCEI).
 
-## Online Submission Tool
+
 
 
 
