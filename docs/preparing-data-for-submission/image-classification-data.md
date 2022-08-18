@@ -10,6 +10,10 @@ These recommendations are an effort to consolidate (meta)data requirements from 
 
 ## Data requirements
 
+Every output file has specific data, however there are some parameters and variables that can overlap between all instruments. Please describe the following:&#x20;
+
+
+
 
 
 Documents used for these recommendations are:&#x20;
