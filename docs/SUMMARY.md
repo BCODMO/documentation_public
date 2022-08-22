@@ -6,6 +6,7 @@
   * [Project Registration](data-planning/project-registration.md)
   * [Program Registration](data-planning/program-registration.md)
   * [What is a dataset?](data-planning/what-is-a-dataset.md)
+  * [What is a project?](data-planning/what-is-a-project.md)
 * [Preparing Data for Submission](preparing-data-for-submission/README.md)
   * [Finding an Appropriate Repository](preparing-data-for-submission/finding-an-appropriate-repository.md)
   * [Metadata for datasets](preparing-data-for-submission/metadata-for-datasets.md)
