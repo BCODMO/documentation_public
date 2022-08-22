@@ -2,6 +2,7 @@
 
 * [Welcome!](README.md)
 * [Data Planning](data-planning/README.md)
+  * [What is a dataset?](data-planning/what-is-a-dataset.md)
   * [Data Management Plan](data-planning/data\_management\_plan.md)
   * [Project Registration](data-planning/project-registration.md)
   * [Program Registration](data-planning/program-registration.md)
