@@ -8,7 +8,7 @@
   * [Program Registration](data-planning/program-registration.md)
   * [What is a Dataset?](data-planning/what-is-a-dataset.md)
 * [Data Submission](data-submission/README.md)
-  * [Metadata for datasets](data-submission/metadata-for-datasets.md)
+  * [Metadata for Datasets](data-submission/metadata-for-datasets.md)
   * [Organizing Data Tables](data-submission/organizing-data-tables.md)
   * [Genetic Accessions (Omics)](data-submission/genetic-accessions.md)
   * [Image Classification Data](data-submission/image-classification-data.md)
