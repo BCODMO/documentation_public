@@ -7,7 +7,7 @@
   * [Program Registration](data-planning/program-registration.md)
   * [What is a Dataset?](data-planning/what-is-a-dataset.md)
 * [Data Submission](data-submission/README.md)
-  * [Find an Appropriate Repository](data-submission/find-an-appropriate-repository.md)
+  * [Find a Fitting Repository](data-submission/find-a-fitting-repository.md)
   * [Metadata for datasets](data-submission/metadata-for-datasets.md)
   * [Organizing Data Tables](data-submission/organizing-data-tables.md)
   * [Genetic accessions (Omics)](data-submission/genetic-accessions.md)
