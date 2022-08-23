@@ -35,5 +35,5 @@ If you do not yet know the NSF award number (e.g. **if your proposal has been re
 * investigator contact information, and&#x20;
 * proposal number.
 
-## Using Submission Tool
+
 
