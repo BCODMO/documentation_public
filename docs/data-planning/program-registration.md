@@ -1,4 +1,4 @@
 # Program Registration
 
-## Using email
+Will be updated soon! (Aug 23, 2022)
 
