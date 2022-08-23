@@ -36,13 +36,13 @@ BCO-DMO manages a wide variety of data types and formats. Contents of the datase
 * Date,  time  and timezone
 * Location data (latitude and longitude)&#x20;
 
-**Tabular data** with biological and chemical oceanographic data from in-situ measurements during cruises or field sampling, sediment samples, lab experiments, etc. make up the bulk of the BCO-DMO data holdings. Details on supported format and lay-outs of tabular data can be found [here](../preparing-data-for-submission/organizing-data-tables.md).  &#x20;
+**Tabular data** with biological and chemical oceanographic data from in-situ measurements during cruises or field sampling, sediment samples, lab experiments, etc. make up the bulk of the BCO-DMO data holdings. Details on supported format and lay-outs of tabular data can be found [here](../data-submission/organizing-data-tables.md).  &#x20;
 
-**Models, Software & Code** are a rapidly emerging data type, with little community templates or structures. Guidelines that BCO-DMO is using to standardize these data submissions can be found [here](../preparing-data-for-submission/software-and-code.md).
+**Models, Software & Code** are a rapidly emerging data type, with little community templates or structures. Guidelines that BCO-DMO is using to standardize these data submissions can be found [here](../data-submission/software-and-code.md).
 
-**GEOTRACES data** that is submitted to BCO-DMO need to follow a program specific template. Details on data submission complying with the programs needs can be found [here](../preparing-data-for-submission/geotraces.md).&#x20;
+**GEOTRACES data** that is submitted to BCO-DMO need to follow a program specific template. Details on data submission complying with the programs needs can be found [here](../data-submission/geotraces.md).&#x20;
 
-**Genetic Accessions**: Genetic accession are mainly curated in the domain specific repository NCBI. However, BCO-DMO serves the metadata related to these genetic accession data, using the specific identifier as a way to related the data in NCBI and BCO-DMO. Specific information on this data type can be found [here](../preparing-data-for-submission/genetic-accessions.md).&#x20;
+**Genetic Accessions**: Genetic accession are mainly curated in the domain specific repository NCBI. However, BCO-DMO serves the metadata related to these genetic accession data, using the specific identifier as a way to related the data in NCBI and BCO-DMO. Specific information on this data type can be found [here](../data-submission/genetic-accessions.md).&#x20;
 
 **Image Classification Data**
 
@@ -52,5 +52,5 @@ A dataset is each own entity and needs to be accompanied by metadata in order fo
 
 Gathering the necessary metadata for a specific dataset can seem cumbersome, but a robust [data management plan](data\_management\_plan.md) at the start of the project can help alleviate the burden.&#x20;
 
-Metadata consists of both an acquisition and processing description, parameter descriptions, funding description, as well as links to related datasets and publications. [Here](../preparing-data-for-submission/metadata-for-datasets.md) is the full list of the necessary metadata of a BCO-DMO dataset.&#x20;
+Metadata consists of both an acquisition and processing description, parameter descriptions, funding description, as well as links to related datasets and publications. [Here](../data-submission/metadata-for-datasets.md) is the full list of the necessary metadata of a BCO-DMO dataset.&#x20;
 

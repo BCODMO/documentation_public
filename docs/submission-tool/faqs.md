@@ -8,7 +8,7 @@ description: Frequently Asked Questions about the Submission Tool
 
 Our online Submission Tool allows you to submit data to and register projects with BCO-DMO. \
 \
-Guidance about preparing your data and metadata for submission and registering projects can be found in the [Preparing Data for Submission](../preparing-data-for-submission/) section.
+Guidance about preparing your data and metadata for submission and registering projects can be found in the [Preparing Data for Submission](../data-submission/) section.
 
 After your data are submitted and served at BCO-DMO, they will have Dataset and Project Landing Pages like these examples below:
 

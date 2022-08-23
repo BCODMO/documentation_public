@@ -2,4 +2,4 @@
 
 Will be updated soon! (August 23, 2022)
 
-[Necessary metadata](../preparing-data-for-submission/metadata-for-datasets.md) to submit dataset
+[Necessary metadata](../data-submission/metadata-for-datasets.md) to submit dataset
