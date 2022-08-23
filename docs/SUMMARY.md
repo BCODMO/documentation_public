@@ -5,7 +5,7 @@
   * [Data Management Plan](data-planning/data\_management\_plan.md)
   * [Project Registration](data-planning/project-registration.md)
   * [Program Registration](data-planning/program-registration.md)
-  * [What is a dataset?](data-planning/what-is-a-dataset.md)
+  * [What is a Dataset?](data-planning/what-is-a-dataset.md)
   * [What is a project?](data-planning/what-is-a-project.md)
 * [Preparing Data for Submission](preparing-data-for-submission/README.md)
   * [Finding an Appropriate Repository](preparing-data-for-submission/finding-an-appropriate-repository.md)
