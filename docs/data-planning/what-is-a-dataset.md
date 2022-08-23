@@ -46,3 +46,11 @@ BCO-DMO manages a wide variety of data types and formats. Contents of the datase
 
 **Image Classification Data**
 
+## Metadata
+
+A dataset is each own entity and needs to be accompanied by metadata in order for a user to understand and reuse that data. Therefore, each dataset needs to have its own specific metadata description. Even if the data is part of a bigger experiment or sampling cruise, specific data is necessary.&#x20;
+
+Gathering the necessary metadata for a specific dataset can seem cumbersome, but a robust [data management plan](data\_management\_plan.md) at the start of the project can help alleviate the burden.&#x20;
+
+Metadata consists of both an acquisition and processing description, parameter descriptions, funding description, as well as links to related datasets and publications. Here is a list describing the necessary metadata of a BCO-DMO dataset.&#x20;
+
