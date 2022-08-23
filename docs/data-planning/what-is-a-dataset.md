@@ -4,7 +4,7 @@ description: Description of a BCO-DMO dataset and specific data types.
 
 # What is a dataset?
 
-## What is a BCO-DMO Dataset?
+## The BCO-DMO Dataset
 
 Describing a BCO-DMO dataset is based on the data type and format.&#x20;
 
