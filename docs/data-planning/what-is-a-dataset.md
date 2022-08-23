@@ -2,7 +2,7 @@
 description: Description of a BCO-DMO dataset and specific data types.
 ---
 
-# What is a dataset?
+# What is a Dataset?
 
 ## The BCO-DMO Dataset
 
@@ -36,7 +36,7 @@ BCO-DMO manages a wide variety of data types and formats. Contents of the datase
 * Date,  time  and timezone
 * Location data (latitude and longitude)&#x20;
 
-**Tabular data** with biochemical and chemical oceanographic data from in-situ measurements during cruises or field sampling, sediment samples, lab experiments, etc. make up the bulk of the BCO-DMO data holdings. Details on supported format and lay-outs of tabular data can be found [here](../preparing-data-for-submission/organizing-data-tables.md).  &#x20;
+**Tabular data** with biological and chemical oceanographic data from in-situ measurements during cruises or field sampling, sediment samples, lab experiments, etc. make up the bulk of the BCO-DMO data holdings. Details on supported format and lay-outs of tabular data can be found [here](../preparing-data-for-submission/organizing-data-tables.md).  &#x20;
 
 **Models, Software & Code** are a rapidly emerging data type, with little community templates or structures. Guidelines that BCO-DMO is using to standardize these data submissions can be found [here](../preparing-data-for-submission/software-and-code.md).
 
