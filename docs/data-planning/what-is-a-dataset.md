@@ -2,7 +2,7 @@
 
 ## What is a Dataset?
 
-Because BCO-DMO manages a wide variety of data types and formats, it can be difficult to describe what exactly a "dataset" is.
+Describing a BCO-DMO dataset is based on the data type and format.&#x20;
 
 Most often, a dataset is a logical collection of information organized into columns and rows. Usually, one dataset will have been produced as a result of a specific sampling event or series of events, from a particular instrument or group of instruments.
 
@@ -37,7 +37,7 @@ BCO-DMO manages a wide variety of data types and formats. Contents of the datase
 
 **GEOTRACES data** that is submitted to BCO-DMO need to follow a program specific template. Details on data submission complying with the programs needs can be found [here](../preparing-data-for-submission/geotraces.md).&#x20;
 
-**Genetic Accessions**: We&#x20;
+**Genetic Accessions**: Genetic accession are mainly curated in the domain specific repository NCBI. However, BCO-DMO serves the metadata related to these genetic accession data, using the specific identifier as a way to related the data in NCBI and BCO-DMO. Specific information on this data type can be found [here](../preparing-data-for-submission/genetic-accessions.md).&#x20;
 
 **Image Classification Data**
 
