@@ -1,4 +1,4 @@
-# Finding an Appropriate Repository
+# Find a Fitting Repository
 
 ## Determining an appropriate repository for your research output
 
