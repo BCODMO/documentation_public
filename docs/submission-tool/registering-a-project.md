@@ -118,3 +118,7 @@ If your project was submitted successfully, you'll see the following screen:
 ![Thank you screen displayed after Project Registration is successfully submitted.](<../.gitbook/assets/image (6).png>)
 
 After submitting your project, you'll receive an email from BCO-DMO with questions or with a link to your Project Landing Page. If you have data to submit from this project, click the "Create a new dataset" button at the bottom of the confirmation page.
+
+### Video walk-through
+
+{% embed url="https://youtu.be/LWt1U6wbXaI" %}
