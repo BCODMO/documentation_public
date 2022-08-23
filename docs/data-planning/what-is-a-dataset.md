@@ -1,12 +1,18 @@
+---
+description: Description of a BCO-DMO dataset and specific data types.
+---
+
 # What is a dataset?
 
-## What is a Dataset?
+## What is a BCO-DMO Dataset?
 
 Describing a BCO-DMO dataset is based on the data type and format.&#x20;
 
-Most often, a dataset is a logical collection of information organized into columns and rows. Usually, one dataset will have been produced as a result of a specific sampling event or series of events, from a particular instrument or group of instruments.
+Most often, a dataset is a logical collection of information organized into columns and rows. Usually, one dataset will have been produced as a result of a specific sampling event or series of events, from a particular instrument or group of instruments.&#x20;
 
-For example, a dataset may be:
+A BCO-DMO dataset contains one data table (example formats: csv, Excel, tsv) or a collection of files that contain the same type of data, like a collection of model output files in .netcdf format or a collection of coral quadrat photos.
+
+Examples of datasets:
 
 * CTD data from one cruise;
 * CTD data from several cruises that have been processed and analyzed in the same way;
@@ -15,8 +21,7 @@ For example, a dataset may be:
 * Trace metal concentrations in water samples collected by Niskin bottles, McLane pumps, and ice corers deployed during a cruise;
 * Water biogeochemistry determined using several instruments from samples collected at sea, along with NCBI accession numbers of sequences obtained from biological samples collected at those same locations during the cruise;
 * Carbonate system parameters and oyster growth measurements resulting from a laboratory experiment on ocean acidification.
-
-Some types of datasets we receive might not exactly fit the description above but are datasets nonetheless. For example, a collection of images resulting from a model, along with the input files, and model code would constitute a BCO-DMO dataset.
+* A collection of images resulting from a model, along with the input files, and model code would constitute a BCO-DMO dataset.
 
 **One dataset does not necessarily equate to one data file**. A dataset may be made up of multiple data tables with the same organizational structure that are combined into one by the data table manager.
 
@@ -26,10 +31,10 @@ A single dataset is described by metadata presented within one BCO-DMO Dataset l
 
 ## Dataset Types
 
-BCO-DMO manages a wide variety of data types and formats. Contents of the datasets change depending on the subject, but what we require for all datasets if this is available is the following information:
+BCO-DMO manages a wide variety of data types and formats. Contents of the datasets change depending on the subject, but the following information is required for every dataset for improved reusability of that dataset:&#x20;
 
-* Date , time (+timezone)
-* Location data (latitude + longitude)&#x20;
+* Date,  time  and timezone
+* Location data (latitude and longitude)&#x20;
 
 **Tabular data** with biochemical and chemical oceanographic data from in-situ measurements during cruises or field sampling, sediment samples, lab experiments, etc. make up the bulk of the BCO-DMO data holdings. Details on supported format and lay-outs of tabular data can be found [here](../preparing-data-for-submission/organizing-data-tables.md).  &#x20;
 
