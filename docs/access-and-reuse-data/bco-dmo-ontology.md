@@ -1,3 +1,2 @@
-# BCO-DMO Ontology
+# BCO-DMO Onthology
 
-Will be updated soon! (Aug 23, 2022)
