@@ -52,5 +52,5 @@ A dataset is each own entity and needs to be accompanied by metadata in order fo
 
 Gathering the necessary metadata for a specific dataset can seem cumbersome, but a robust [data management plan](data\_management\_plan.md) at the start of the project can help alleviate the burden.&#x20;
 
-Metadata consists of both an acquisition and processing description, parameter descriptions, funding description, as well as links to related datasets and publications. [Here](../preparing-data-for-submission/metadata-for-datasets.md) is a list describing the necessary metadata of a BCO-DMO dataset.&#x20;
+Metadata consists of both an acquisition and processing description, parameter descriptions, funding description, as well as links to related datasets and publications. [Here](../preparing-data-for-submission/metadata-for-datasets.md) is the full list of the necessary metadata of a BCO-DMO dataset.&#x20;
 
