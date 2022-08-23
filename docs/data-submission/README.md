@@ -8,7 +8,7 @@ description: Information on how to prepare data and metadata for submission to B
 
 **Determine your domain-specific repository**
 
-We provide **data management and curation services** free of charge to investigators funded through the NSF OCE Biological and Chemical Oceanography programs and NSF Division of Polar Programs. See the [complete list of programs](find-an-appropriate-repository.md#programs-supported-by-bco-dmo) supported by BCO-DMO. For those funded outside of these programs, we determine if the data would be of value to the BCO-DMO user community and negotiate a 'fee per dataset' data management strategy. Find out **the appropriate repository for your data** [here](find-an-appropriate-repository.md).
+We provide **data management and curation services** free of charge to investigators funded through the NSF OCE Biological and Chemical Oceanography programs and NSF Division of Polar Programs. See the [complete list of programs](../data-planning/find-a-fitting-repository.md#programs-supported-by-bco-dmo) supported by BCO-DMO. For those funded outside of these programs, we determine if the data would be of value to the BCO-DMO user community and negotiate a 'fee per dataset' data management strategy. Find out **the appropriate repository for your data** [here](../data-planning/find-a-fitting-repository.md).
 
 
 
