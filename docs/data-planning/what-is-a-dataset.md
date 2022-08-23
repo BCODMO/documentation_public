@@ -25,3 +25,19 @@ Some types of datasets we receive might not exactly fit the description above bu
 A single dataset is described by metadata presented within one BCO-DMO Dataset landing page. Therefore, submissions that describe different types of acquisition methods, processing methods, or parameters, or that were produced by different projects/awards would likely not be a single BCO-DMO dataset.
 
 ## Dataset Types
+
+BCO-DMO manages a wide variety of data types and formats. Contents of the datasets change depending on the subject, but what we require for all datasets if this is available is the following information:
+
+* Date , time (+timezone)
+* Location data (latitude + longitude)&#x20;
+
+**Tabular data** with biochemical and chemical oceanographic data from in-situ measurements during cruises or field sampling, sediment samples, lab experiments, etc. make up the bulk of the BCO-DMO data holdings. Details on supported format and lay-outs of tabular data can be found [here](../preparing-data-for-submission/organizing-data-tables.md).  &#x20;
+
+**Models, Software & Code** are a rapidly emerging data type, with little community templates or structures. Guidelines that BCO-DMO is using to standardize these data submissions can be found [here](../preparing-data-for-submission/software-and-code.md).
+
+**GEOTRACES data** that is submitted to BCO-DMO need to follow a program specific template. Details on data submission complying with the programs needs can be found [here](../preparing-data-for-submission/geotraces.md).&#x20;
+
+**Genetic Accessions**: We&#x20;
+
+**Image Classification Data**
+
