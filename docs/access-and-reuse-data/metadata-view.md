@@ -1,3 +1,2 @@
-# Metadata View
+# Metadata Page
 
-Will be updated soon! (Aug 23, 2022)
