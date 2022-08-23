@@ -21,7 +21,7 @@ description: How to register a project at BCO-DMO
 * [**Project Metadata Form**](https://www.bco-dmo.org/objectserver/602052e395a3676313bf7277f6ff1fd7/PROJECT.rtf?url=http%3A%2F%2Fwww.bco-dmo.org%2Ffiles%2Fbcodmo%2FPROJECT.rtf\&f=3837363762316263306364353835313433353064633965333238386331653533687474703a2f2f7777772e62636f2d646d6f2e6f72672f66696c65732f62636f646d6f2f50524f4a4543542e727466)**:** Complete this form, if your project is a collaborative award (= 1 project funded by multiple awards), please provide all the awards of the entire project and indicate the lead award.
 * [**NSF Data Management Plan**](http://www.bco-dmo.org/nsf-two-page-data-management-plan#DMP\_Template)**:** Provide a copy of the Data Management Plan that has been submitted to NSF with your proposal.
 
-**3. Submit** the data using our online submission tool. How to use the tool for project registration can be found [here](../submission-tool/registering-a-project.md). You can expect to receive a reply within 48 hours (business days). You can always contact us at **info@bco-dmo.org** with questions.&#x20;
+**3. Submit** the files described above to **info@bco-dmo.org**. You can expect to receive a reply within 48 hours (business days).&#x20;
 
 When all info necessary for your project registration has been submitted to BCO-DMO, you will receive a project link that can be used in future reporting.
 
@@ -35,5 +35,5 @@ If you do not yet know the NSF award number (e.g. **if your proposal has been re
 * investigator contact information, and&#x20;
 * proposal number.
 
-
+## Using Submission Tool
 
