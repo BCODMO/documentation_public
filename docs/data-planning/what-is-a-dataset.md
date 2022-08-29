@@ -31,7 +31,7 @@ A single dataset is described by metadata presented within one BCO-DMO Dataset L
 
 BCO-DMO manages a wide variety of data types and formats. Contents of the datasets change depending on the subject, but the following information is required for every dataset for improved reusability of that dataset:&#x20;
 
-* Dates,  times, and timezone
+* Dates, times, and timezone
 * Location information (latitude and longitude)&#x20;
 
 **Tabular data** with biological and chemical oceanographic data from in-situ measurements during cruises or field sampling, sediment samples, lab experiments, etc. make up the bulk of the BCO-DMO data holdings. Details on the supported format and organiztion of tabular data can be found [here](../data-submission/organizing-data-tables.md).  &#x20;
@@ -46,7 +46,7 @@ BCO-DMO manages a wide variety of data types and formats. Contents of the datase
 
 ## Metadata
 
-Each dataset needs to be accompanied by metadata in order for a user to understand and effectively reuse the data. Therefore, each dataset needs to have its own metadata page, specifically describing how the data were generated.
+Each dataset needs to be accompanied by metadata (information describing the data) in order for a user to understand and effectively reuse the data. Therefore, each dataset needs to have its own metadata page, specifically describing how the data were generated.
 
 Gathering the necessary metadata for a specific dataset can feel cumbersome, but a robust [data management plan](data\_management\_plan.md) at the start of the project can help alleviate the burden.&#x20;
 
