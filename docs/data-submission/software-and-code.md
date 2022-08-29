@@ -1,5 +1,5 @@
 ---
-description: Instructions on contributing model outptut, software, and code to BCO-DMO
+description: Instructions on contributing model output, software, and code to BCO-DMO
 ---
 
 # Models, Software, and Code
