@@ -30,7 +30,7 @@ If you are a researcher from one of the [DMPTool participating institutions](htt
 
 Once you're logged-in, select “Create Plan” from the “My Dashboard” display. Then, follow the wizard to input (1) the title of your research project, (2) your institutional affiliation (optional), and (3) your funder (in this case NSF), and then select the template titled “**BCO-DMO NSF OCE: Biological and Chemical Oceanography**”.&#x20;
 
-![Click "Create plan" to start a new DMP.](<../.gitbook/assets/image (8) (1) (1).png>)
+![Click "Create plan" to start a new DMP.](<../.gitbook/assets/image (8) (1).png>)
 
 ![After you choose "NSF" as the funding organization, you can choose the BCO-DMO template.](<../.gitbook/assets/image (7) (1).png>)
 

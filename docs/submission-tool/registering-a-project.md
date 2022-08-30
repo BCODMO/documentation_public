@@ -139,7 +139,7 @@ If your project was submitted successfully, you'll see the following screen:
 
 <figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>confirmation page after succesfully submitting a project registration</p></figcaption></figure>
 
-After submitting your project, you'll receive an email from BCO-DMO with questions or with a link to your Project Landing Page. If you have data to submit from this project, click the "Create a new dataset" button at the bottom of the confirmation page.&#x20;
+After submitting your project, you'll receive an automated email confirming your registration is under review by a data manager. You'll then receive another email within two business days from a BCO-DMO data manager with questions or with a link to your Project Landing Page. If you have data to submit from this project, click the "Create a new dataset" button at the bottom of the confirmation page.&#x20;
 
 Note that you will be unable to edit your registration while it's under review by a data manager. You can always email [info@bco-dmo.org](mailto:info@bco-dmo.org) if you'd like to make changes.
 

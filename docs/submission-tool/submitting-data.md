@@ -16,7 +16,7 @@ At the top of the "Overview" section, you'll see a checkbox where you can indica
 
 Please be aware of your funder policies about data sharing and any policies established by journals you plan to publish in. The [NSF OCE Data Policy](https://www.nsf.gov/pubs/2017/nsf17037/nsf17037.jsp), for example, requires data to be made publicly available no later than two years after collection. Certain journals may also require your data to be publicly available for the peer-review process.&#x20;
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>screenshot of the restricted data and release date options</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>screenshot of the restricted data and release date options</p></figcaption></figure>
 
 ### Dataset Name <a href="#dataset-name" id="dataset-name"></a>
 
@@ -86,7 +86,7 @@ To add additional people, click "+ Add person" and then click "Edit". Use the "O
 
 Note that we do not publish your email or phone number. They are for internal BCO-DMO use only.
 
-<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption><p>The edit screen for adding people to a project. Note the ORCID search button at the top.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>The edit screen for adding people to a project. Note the ORCID search button at the top.</p></figcaption></figure>
 
 Any required information that's missing will be displayed in red:
 
@@ -249,11 +249,11 @@ To upload a file, click the "+ Add File" button and then select the file you wan
 
 Once you confirm the correct file has been selected and you've entered a description, click the blue-green "Upload" button to upload that file. A progress bar will be displayed as it uploads and then the file name, size, and date will be displayed:
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>screenshot of a successfully uploaded data file</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (2).png" alt=""><figcaption><p>screenshot of a successfully uploaded data file</p></figcaption></figure>
 
 If you have several files within a folder that you'd like to upload, you can use the "+ Add folder" option instead of adding one file at a time. After clicking "+ Add folder", select the folder you want to upload. You'll see a pop-up message asking you to confirm you want to add ALL the files from the folder. If yes, click the blue "Upload" button.
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>pop-up messages asking you to confirm the folder upload</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>pop-up messages asking you to confirm the folder upload</p></figcaption></figure>
 
 You will then see multiple file names displayed. You can enter one description for all of them, like this:
 
@@ -277,7 +277,7 @@ If you need to remove a file for any reason, you can click the red trash can ico
 
 ****
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>screenshot of the Submit page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>screenshot of the Submit page</p></figcaption></figure>
 
 If you'd like to save the draft to work on later, click "Save as draft". Your draft will show up on your submission tool dashboard ([https://submit.bco-dmo.org/](https://submit.bco-dmo.org/)). BCO-DMO will not review your submission until "Submit dataset" is selected.
 
@@ -285,7 +285,7 @@ If you'd like to save the draft to work on later, click "Save as draft". Your dr
 
 If your dataset was submitted successfully, you'll see the following screen:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>submission confirmation page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>submission confirmation page</p></figcaption></figure>
 
 After submitting your dataset, you'll receive an auomated email stating that your submission has been received and is under review by a data manager. Within two business days, you'll then receive another email from a BCO-DMO data manager confirming receipt of your submission and asking any additional questions we have. Please be sure to check your spam folders.
 
