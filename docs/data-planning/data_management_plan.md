@@ -46,7 +46,7 @@ The next tab allows you to add collaborators. The "Write Plan" tab is where you 
 
 You can save your plan and return to it at any point in the process. Once complete, you can download the completed plan in .pdf, .docx, .txt, and other formats to include in your NSF proposal.&#x20;
 
-![Options for downloading your DMP.](../.gitbook/assets/image.png)
+![Options for downloading your DMP.](<../.gitbook/assets/image (8).png>)
 
 A summary of these instructions, including screenshots, is available in the [DMPTool Quick Start Guide](https://dmptool.org/help). You can also download the template as a .pdf or .docx file from the [DMPTool Funder Requirements page](https://dmptool.org/public\_templates) and use it to complete your plan in your preferred word processing program.
 
