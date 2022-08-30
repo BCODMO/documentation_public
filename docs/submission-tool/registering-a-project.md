@@ -84,7 +84,7 @@ Please fill in the project description or abstract and the dates (if known).
 
 ### People
 
-**Instructions:** Identify all people associated with this project. The name and ORCID iD you used to log in will be displayed already. Click on "Edit" below your name and then fill in the required fields, which are indicated by an asterisk (email address, roles, and affiliation at the time the award was granted). Select your role(s) on this dataset from the drop-down list.&#x20;
+**Instructions:** Identify all people associated with this project. The name and ORCID iD you used to log in will be displayed already. Click on "Edit" below your name and then fill in the required fields, which are indicated by an asterisk (email address, roles, and affiliation at the time the award was granted). Select your role(s) on this project from the drop-down list.&#x20;
 
 Note that we do not publish your email or phone number. They are for internal BCO-DMO use only.
 
