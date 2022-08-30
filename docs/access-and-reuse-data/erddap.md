@@ -10,4 +10,4 @@ All information about every ERDAPP request is contained in the URL of each reque
 
 ### Dataset Buttons
 
-![](<../.gitbook/assets/image (6) (1) (1).png>)
+![](<../.gitbook/assets/image (6) (1) (1) (1).png>)

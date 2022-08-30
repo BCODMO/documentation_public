@@ -4,7 +4,7 @@ description: How to submit data to BCO-DMO using the online Submission Tool.
 
 # Submitting Data
 
-Note this page is still under construction.
+**This page is still under construction.**
 
 ## How to Submit Data
 
@@ -143,7 +143,7 @@ ISO8601 format is preferred (YYYY-MM-DD). If you only know the year and month, t
 
 **Example**:
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Example of temporal bounds</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (4).png" alt=""><figcaption><p>Example of temporal bounds</p></figcaption></figure>
 
 #### After filling in **all of the information in the Location section**, click "Save and continue" at the top of the page to move to the Methods section.
 
@@ -240,3 +240,33 @@ If you'd prefer to provide your parameter descriptions in a separate file, pleas
 ### **Files**
 
 **Instructions:** Upload all files related to this submission (data files and supporting information, such as images, statistical tables, or instrument calibration reports). If you need help submitting a large dataset, please email [info@bco-dmo.org](mailto:info@bco-dmo.org) to coordinate your file transfer.
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>screenshot of the Files section</p></figcaption></figure>
+
+To upload a file, click the "+ Add File" button and then select the file you want to upload. After you select a file, its name will be displayed and you can enter an optional (but recommended) description of what the file is. This description will help your data manager understand your files.
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>screenshot of file upload</p></figcaption></figure>
+
+Once you confirm the correct file has been selected and you've entered a description, click the blue-green "Upload" button to upload that file. A progress bar will be displayed as it uploads and then the file name, size, and date will be displayed:
+
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>screenshot of a successfully uploaded data file</p></figcaption></figure>
+
+If you have several files within a folder that you'd like to upload, you can use the "+ Add folder" option instead of adding one file at a time. After clicking "+ Add folder", select the folder you want to upload. You'll see a pop-up message asking you to confirm you want to add ALL the files from the folder. If yes, click the blue "Upload" button.
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>pop-up messages asking you to confirm the folder upload</p></figcaption></figure>
+
+You will then see multiple file names displayed. You can enter one description for all of them, like this:
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>example of folder upload and providing one description</p></figcaption></figure>
+
+Or, if you prefer, you can select the "Multiple descriptions" checkbox to provide a unique description for each file, like this:
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>example of folder upload providing multiple descriptions</p></figcaption></figure>
+
+Once the files have been selected and the descriptions have been entered, click the blue-green "Upload" button to upload those files. A progress bar will be displayed as it uploads and then the file name, size, and date will be displayed:
+
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>screenshot showing multiple files that have been uploaded successfully</p></figcaption></figure>
+
+If you need to remove a file for any reason, you can click the red trash can icon to the right of that file name to delete it.
+
+**After uploading all data files and any other related files, click "Save and continue" at the top of the page to move to the Submit section.**&#x20;

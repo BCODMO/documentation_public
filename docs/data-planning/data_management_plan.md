@@ -36,7 +36,7 @@ Once you're logged-in, select “Create Plan” from the “My Dashboard” disp
 
 From there, you will be guided through a series of tabs where you can create the plan. On the first tab, you can enter additional "Project details" such as an abstract, start and end dates, and funding numbers.
 
-![Screenshot of the DMPTool interface. Note the tabs along the top, which guide you through the process.](<../.gitbook/assets/image (6) (1).png>)
+![Screenshot of the DMPTool interface. Note the tabs along the top, which guide you through the process.](<../.gitbook/assets/image (6) (1) (1).png>)
 
 The next tab allows you to add collaborators. The "Write Plan" tab is where you enter the bulk of your DMP content. Each section contains questions/prompts and text fields where you enter your answers. Example answers are also provided. Each question may also have additional guidance in the right side panel containing links to relevant external websites or guidance material.
 
