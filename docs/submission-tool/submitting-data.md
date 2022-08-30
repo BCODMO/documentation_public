@@ -4,8 +4,6 @@ description: How to submit data to BCO-DMO using the online Submission Tool.
 
 # Submitting Data
 
-**This page is still under construction.**
-
 ## How to Submit Data
 
 After clicking the "Submit a new dataset" button from the [Submission Tool dashboard](https://submit.bco-dmo.org/), you'll be taken to a series of forms where you'll enter your metadata and then upload data files. Each field has instructions and examples. Below is further information about how to complete each field.
