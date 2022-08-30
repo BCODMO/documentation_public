@@ -74,7 +74,7 @@ Please fill in the project description or abstract and the dates (if known).
 
 **Instructions:** Identify all people associated with this project. The name and ORCID iD you used to log **** in will be displayed. Click on "Edit" below your name and then fill in the required fields, which are indicated by an asterisk (email address, roles, and affiliation at the time the award was granted).&#x20;
 
-To add additional people, click "+ Add person" and then click "Edit". Use the "ORCID Search" at the top of the edit window to search by name or ORCID iD and then fill in the rest of their information and roles on the project, and, once complete, click "Update" at the bottom of the screen. If the person doesn't have an ORCID iD, we suggest they create one, but it is not required. Anyone added here with an ORCiD will be able to access and edit this submission, even when in draft state.
+To add additional people, click "+ Add person" and then click "Edit". Use the "ORCID Search" at the top of the edit window to search by name or ORCID iD and then fill in the rest of their information and roles on the project, and, once complete, click "Update" at the bottom of the screen. If the person doesn't have an ORCID iD, we suggest they create one, but it is not required. Anyone added here with an ORCiD will be able to view the submission and will be able to edit it when in draft state.
 
 ![The edit screen for adding people to a project. Note the ORCID search button at the top.](<../.gitbook/assets/image (5).png>)
 
