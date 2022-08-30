@@ -24,7 +24,7 @@ BCO-DMO has developed a Data Management Plan template to assist investigators in
 
 After going to [dmptool.org](https://dmptool.org/), click on the "Get Started" button and then choose a sign-in option.
 
-![These are the three sign-in options for DMPTool.](<../.gitbook/assets/image (1) (1).png>)
+![These are the three sign-in options for DMPTool.](<../.gitbook/assets/image (1) (1) (1).png>)
 
 If you are a researcher from one of the [DMPTool participating institutions](https://dmptool.org/public\_orgs), you can log in using your institutional credentials. By being affiliated with your institution, you may be presented with institution-specific guidance (displayed as instructions and/or resource web links) to help you complete your plan. If your institution does not participate, you can create your own account with an email address and password.
 

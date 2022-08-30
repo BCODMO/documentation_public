@@ -109,11 +109,11 @@ Any required information that's missing will be displayed in red:\
 
 Select the file you want to upload. The file name will then be displayed.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>screenshot showing the name of the file that will be uploaded</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>screenshot showing the name of the file that will be uploaded</p></figcaption></figure>
 
 Once you confirm the correct file has been selected, click the blue-green "Upload" button to upload that file. A progress bar will be displayed as it uploads and then the file name, size, and date will be displayed:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>screenshot showing a successful upload of a DMP</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>screenshot showing a successful upload of a DMP</p></figcaption></figure>
 
 If you need to remove that file for any reason, you can click the red trash can icon to delete it.
 
