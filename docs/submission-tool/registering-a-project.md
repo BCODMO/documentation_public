@@ -90,7 +90,7 @@ Note that we do not publish your email or phone number. They are for internal BC
 
 To add additional people, click "+ Add person" and then click "Edit". Use the "ORCID Search" at the top of the edit window to search by name or ORCID iD and then fill in the rest of their information and roles on the project, and, once complete, click "Update" at the bottom of the screen. If the person doesn't have an ORCID iD, we suggest they create one, but it is not required. Anyone added here with an ORCiD will be able to view the submission and will be able to edit it when in draft state.
 
-![The edit screen for adding people to a project. Note the ORCID search button at the top.](<../.gitbook/assets/image (5).png>)
+![The edit screen for adding people to a project. Note the ORCID search button at the top.](<../.gitbook/assets/image (5) (1).png>)
 
 Please be sure to add all of the project's PIs and Co-PIs. If your project is an NSF Collaborative Research project, assign the designated Lead PI the role of "Lead PI". To select multiple roles for one person (e.g. PI and Long-Term Contact), hold down the CTRL button and click (for Windows users).&#x20;
 
@@ -109,7 +109,7 @@ Any required information that's missing will be displayed in red:\
 
 Select the file you want to upload. The file name will then be displayed.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>screenshot showing the name of the file that will be uploaded</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>screenshot showing the name of the file that will be uploaded</p></figcaption></figure>
 
 Once you confirm the correct file has been selected, click the blue-green "Upload" button to upload that file. A progress bar will be displayed as it uploads and then the file name, size, and date will be displayed:
 
@@ -137,7 +137,7 @@ If you'd like to save the draft to work on later, click "Save as draft". Your dr
 
 If your project was submitted successfully, you'll see the following screen:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>confirmation page after succesfully submitting a project registration</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>confirmation page after succesfully submitting a project registration</p></figcaption></figure>
 
 After submitting your project, you'll receive an email from BCO-DMO with questions or with a link to your Project Landing Page. If you have data to submit from this project, click the "Create a new dataset" button at the bottom of the confirmation page.&#x20;
 

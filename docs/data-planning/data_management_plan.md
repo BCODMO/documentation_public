@@ -24,7 +24,7 @@ BCO-DMO has developed a Data Management Plan template to assist investigators in
 
 After going to [dmptool.org](https://dmptool.org/), click on the "Get Started" button and then choose a sign-in option.
 
-![These are the three sign-in options for DMPTool.](<../.gitbook/assets/image (1) (1) (1).png>)
+![These are the three sign-in options for DMPTool.](<../.gitbook/assets/image (1) (1) (2).png>)
 
 If you are a researcher from one of the [DMPTool participating institutions](https://dmptool.org/public\_orgs), you can log in using your institutional credentials. By being affiliated with your institution, you may be presented with institution-specific guidance (displayed as instructions and/or resource web links) to help you complete your plan. If your institution does not participate, you can create your own account with an email address and password.
 
@@ -46,7 +46,7 @@ The next tab allows you to add collaborators. The "Write Plan" tab is where you 
 
 You can save your plan and return to it at any point in the process. Once complete, you can download the completed plan in .pdf, .docx, .txt, and other formats to include in your NSF proposal.&#x20;
 
-![Options for downloading your DMP.](<../.gitbook/assets/image (8).png>)
+![Options for downloading your DMP.](<../.gitbook/assets/image (8) (3).png>)
 
 A summary of these instructions, including screenshots, is available in the [DMPTool Quick Start Guide](https://dmptool.org/help). You can also download the template as a .pdf or .docx file from the [DMPTool Funder Requirements page](https://dmptool.org/public\_templates) and use it to complete your plan in your preferred word processing program.
 

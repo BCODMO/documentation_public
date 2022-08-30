@@ -18,7 +18,7 @@ Repositories are often categorized into three basic types based upon curation ef
 
 
 
-![Increased curation activities performed by domain specific repositories lead to F.A.I.R data](<../.gitbook/assets/image (5) (1) (1).png>)
+![Increased curation activities performed by domain specific repositories lead to F.A.I.R data](<../.gitbook/assets/image (5) (1) (1) (2).png>)
 
 ~~~~
 
