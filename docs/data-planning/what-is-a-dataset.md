@@ -50,5 +50,5 @@ Each dataset needs information providing sufficient **context for peer review an
 
 Metadata consists of detailed acquisition and processing descriptions, including a description of all instruments used, parameter descriptions, funding, investigator names and contact information, as well as links to related datasets and publications. [Here](../data-submission/metadata-for-datasets.md) is the full list of the necessary metadata for a BCO-DMO dataset.&#x20;
 
-Gathering the necessary metadata for a specific dataset can feel cumbersome, but a robust [data management plan](data\_management\_plan.md) at the start of the project can help alleviate the burden.&#x20;
+Important aspects of research data should be documented as it's collected and analyzed making it easier to provide the necessary metadata. A robust [data management plan](data\_management\_plan.md) at the start of the project can mapping this information.&#x20;
 
