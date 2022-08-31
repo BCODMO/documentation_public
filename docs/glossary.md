@@ -4,6 +4,8 @@ description: Definitions of frequently used terms and acronym
 
 # Glossary
 
+_**This page is still under construction!**_
+
 ## **Terminology**
 
 **Current State**: BCO-DMO's dataset landing pages display a "Current State" field denoting the status of the dataset. The Current States are defined as:
