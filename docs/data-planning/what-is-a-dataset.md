@@ -16,6 +16,7 @@ Examples of datasets:
 
 * CTD data from one cruise or CTD data from several cruises that have been processed and analyzed in the same way.
 * A collection of images resulting from a model, along with the input files, and model code would constitute a BCO-DMO dataset.
+* Images and ancillary data from imagery instruments.&#x20;
 * Water quality parameters collected by hand using a multimeter, handheld fluorometer, and nitrate sensor from the same location, such as a pier, over a period of time.
 * Water biogeochemistry determined using several instruments from samples collected at sea, along with NCBI accession numbers of sequences obtained from biological samples collected at those same locations during the cruise.
 * Species names, sampling locations and dates, and specimen size and sex determined using a microscope from samples collected by various nets during several cruises pertaining to a research project.
@@ -43,7 +44,7 @@ BCO-DMO manages a wide variety of data types and formats. Contents of the datase
 
 **Genetic Accessions**: Genetic data are primarily curated in the domain-specific repository NCBI ([https://ncbi.nlm.nih.gov/](https://ncbi.nlm.nih.gov/)). However, BCO-DMO serves the metadata related to the genetic accessions, using the specific identifier as a way to relate the data in NCBI and BCO-DMO. Specific information on this data type can be found on the "[Genetic Accesions](../data-submission/genetic-accessions.md)" page.&#x20;
 
-**Image Classification Data**
+**Image Classification Data:** Images and ancillary data from imagery instruments. Our "[Image Classification](../data-submission/image-classification-data.md)" data page is still being finished.&#x20;
 
 ## Metadata
 

@@ -37,7 +37,9 @@ Image Sample Metadata for ZooSCAN images collected during R/V Atlantic Explorer 
 * Time (local) in time zone AST (UTC-4)/ADT (UTC-3) in format hh:mm:ss&#x20;
 * ISO\_DateTime\_UTC,Datetime in timezone UTC in ISO 8601 format YYYY-MM-DDThh:mm:ssZ
 
+Example dataset: Image classification data [https://www.bco-dmo.org/dataset/860725](https://www.bco-dmo.org/dataset/860725)&#x20;
 
+Zooscan data: [https://www.bco-dmo.org/dataset/853440](https://www.bco-dmo.org/dataset/853440)
 
 
 
