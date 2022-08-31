@@ -46,9 +46,9 @@ BCO-DMO manages a wide variety of data types and formats. Contents of the datase
 
 ## Metadata
 
-Each dataset needs to be accompanied by metadata (information describing the data) in order for a user to understand and effectively reuse the data. Therefore, each dataset needs to have its own metadata page, specifically describing how the data were generated.
-
-Gathering the necessary metadata for a specific dataset can feel cumbersome, but a robust [data management plan](data\_management\_plan.md) at the start of the project can help alleviate the burden.&#x20;
+Each dataset needs information providing sufficient **context for peer review and reuse of** **the data.** Therefore, each dataset needs to have its own **metadata page, describing the who/what/where/how** information about the data. ****&#x20;
 
 Metadata consists of detailed acquisition and processing descriptions, including a description of all instruments used, parameter descriptions, funding, investigator names and contact information, as well as links to related datasets and publications. [Here](../data-submission/metadata-for-datasets.md) is the full list of the necessary metadata for a BCO-DMO dataset.&#x20;
+
+Gathering the necessary metadata for a specific dataset can feel cumbersome, but a robust [data management plan](data\_management\_plan.md) at the start of the project can help alleviate the burden.&#x20;
 
