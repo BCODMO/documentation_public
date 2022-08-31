@@ -34,13 +34,13 @@ BCO-DMO manages a wide variety of data types and formats. Contents of the datase
 * Dates, times, and timezone
 * Location information (latitude and longitude)&#x20;
 
-**Tabular data** with biological and chemical oceanographic data from in-situ measurements during cruises or field sampling, sediment samples, lab experiments, etc. make up the bulk of the BCO-DMO data holdings. Details on the supported format and organization of tabular data can be found [here](../data-submission/organizing-data-tables.md).  &#x20;
+**Tabular data** with biological and chemical oceanographic data from in-situ measurements during cruises or field sampling, sediment samples, lab experiments, etc. make up the bulk of the BCO-DMO data holdings. See the "[Organizing Data Tables](../data-submission/organizing-data-tables.md)" page for more details on the supported format and organization of tabular data.&#x20;
 
-**Models, Software, & Code** are rapidly emerging data types, with few community templates or formalized structures. Guidelines that BCO-DMO is using to standardize these data submissions can be found [here](../data-submission/software-and-code.md).
+**Models, Software, & Code** are rapidly emerging data types, with few community templates or formalized structures. See the [Models, software & code](../data-submission/software-and-code.md) guidelines pages that BCO-DMO is using to standardize these data submissions.&#x20;
 
-**GEOTRACES data** submitted to BCO-DMO need to follow a program-specific template. Details on data submission complying with the requirements of the GEOTRACES program can be found [here](../data-submission/geotraces.md).&#x20;
+**GEOTRACES data** submitted to BCO-DMO need to follow a program-specific template. See the "[GEOTRACES](../data-submission/geotraces.md)" page for details on data submission complying with the requirements of the this program.&#x20;
 
-**Genetic Accessions**: Genetic data are primarily curated in the domain-specific repository NCBI ([https://ncbi.nlm.nih.gov/](https://ncbi.nlm.nih.gov/)). However, BCO-DMO serves the metadata related to the genetic accessions, using the specific identifier as a way to relate the data in NCBI and BCO-DMO. Specific information on this data type can be found [here](../data-submission/genetic-accessions.md).&#x20;
+**Genetic Accessions**: Genetic data are primarily curated in the domain-specific repository NCBI ([https://ncbi.nlm.nih.gov/](https://ncbi.nlm.nih.gov/)). However, BCO-DMO serves the metadata related to the genetic accessions, using the specific identifier as a way to relate the data in NCBI and BCO-DMO. Specific information on this data type can be found on the "[Genetic Accesions](../data-submission/genetic-accessions.md)" page.&#x20;
 
 **Image Classification Data**
 
