@@ -6,20 +6,21 @@ description: Description of a BCO-DMO dataset and specific data types.
 
 ## The BCO-DMO Dataset
 
-At BCO-DMO, a dataset is thought of as a logical collection of information. Most often, data are organized into columns and rows in a spreadsheet or table. However, a dataset could also be a collection of images or modeling input and code. Usually, one dataset will have been produced as a result of a specific sampling event or series of events, from a particular instrument or group of instruments.&#x20;
+As a federally-funded data repository, BCO-DMO aligns with the U.S. Office of Science and Technology Policy (OSTP) concept of data as outlined in its 2022 Memorandum "Ensuring Free, Immediate, and Equitable Access to Federally Funded Research" where: “scientific data” include the **recorded factual material** commonly accepted in the scientific community as of **sufficient quality to validate and replicate research findings.**
 
-A BCO-DMO dataset usually contains one data table (example formats: csv, Excel, tsv) or a collection of files that contain the same type of data, like a collection of model output files in .netcdf format or a collection of coral quadrat photos.
+Such scientific data do not include laboratory notebooks, preliminary analyses, case report forms, drafts of scientific papers, plans for future research, peer-reviews, communications with colleagues, or physical objects and materials, such as laboratory specimens, artifacts, or field notes.
+
+A BCO-DMO dataset usually **consists of a file containing a single** **data table** (example formats: csv, Excel, tsv) **or a collection of files that contain the same type of data**, like a collection of model output files in .netcdf format or a collection of coral quadrat photos.
 
 Examples of datasets:
 
-* CTD data from one cruise;
-* CTD data from several cruises that have been processed and analyzed in the same way;
-* Water quality parameters collected by hand using a multimeter, handheld fluorometer, and nitrate sensor from the same location, such as a pier, over a period of time;
-* Species names, sampling locations and dates, and specimen size and sex determined using a microscope from samples collected by various nets during several cruises pertaining to a research project;
-* Trace metal concentrations in water samples collected by Niskin bottles, McLane pumps, and ice corers deployed during a cruise;
-* Water biogeochemistry determined using several instruments from samples collected at sea, along with NCBI accession numbers of sequences obtained from biological samples collected at those same locations during the cruise;
-* Carbonate system parameters and oyster growth measurements resulting from a laboratory experiment on ocean acidification.
+* CTD data from one cruise or CTD data from several cruises that have been processed and analyzed in the same way.
 * A collection of images resulting from a model, along with the input files, and model code would constitute a BCO-DMO dataset.
+* Water quality parameters collected by hand using a multimeter, handheld fluorometer, and nitrate sensor from the same location, such as a pier, over a period of time.
+* Water biogeochemistry determined using several instruments from samples collected at sea, along with NCBI accession numbers of sequences obtained from biological samples collected at those same locations during the cruise.
+* Species names, sampling locations and dates, and specimen size and sex determined using a microscope from samples collected by various nets during several cruises pertaining to a research project.
+* Trace metal concentrations in water samples collected by Niskin bottles, McLane pumps, and ice corers deployed during a cruise.
+* Carbonate system parameters and oyster growth measurements resulting from a laboratory experiment on ocean acidification.
 
 **One dataset does not necessarily equate to one data file**. A dataset may be made up of multiple data tables with the same organizational structure that are combined into one by the data table manager.
 
