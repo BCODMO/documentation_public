@@ -4,6 +4,8 @@ description: (Meta)data requirements for image classification data.
 
 # Image Classification Data
 
+_**This page is still under construction!**_
+
 These recommendations are an effort to consolidate (meta)data requirements from taxonomic and morphological and ancillary information acquired from imagery of zooplankton, phytoplankton and other particles. These are often collected by imaging instruments such as Imaging FlowCytobot (IFCB), FlowCam and ZooScan.
 
 ## Metadata requirements
