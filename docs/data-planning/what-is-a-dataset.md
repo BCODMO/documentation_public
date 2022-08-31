@@ -14,13 +14,13 @@ A BCO-DMO dataset usually **consists of a file containing a single** **data tabl
 
 Examples of datasets:
 
-* CTD data from one cruise or CTD data from several cruises that have been processed and analyzed in the same way.
+* CTD data from [one cruise](https://www.bco-dmo.org/dataset/3101) or CTD data from [several cruises](https://www.bco-dmo.org/dataset/837256) that have been processed and analyzed in the same way.
 * A collection of images resulting from a model, along with the input files, and model code would constitute a BCO-DMO dataset.
-* Images and ancillary data from imagery instruments.&#x20;
-* Water quality parameters collected by hand using a multimeter, handheld fluorometer, and nitrate sensor from the same location, such as a pier, over a period of time.
-* Water biogeochemistry determined using several instruments from samples collected at sea, along with NCBI accession numbers of sequences obtained from biological samples collected at those same locations during the cruise.
+* [Images and ancillary data from imagery instruments](https://www.bco-dmo.org/dataset/853440).&#x20;
+* [Water quality parameters](https://www.bco-dmo.org/dataset/821061) collected by hand using a multimeter, handheld fluorometer, and nitrate sensor from the same location, such as a pier, over a period of time.
+* Water biogeochemistry determined using several instruments from samples collected at sea, along with [NCBI accession numbers](https://www.bco-dmo.org/dataset/542665) of sequences obtained from biological samples collected at those same locations during the cruise.
 * Species names, sampling locations and dates, and specimen size and sex determined using a microscope from samples collected by various nets during several cruises pertaining to a research project.
-* Trace metal concentrations in water samples collected by Niskin bottles, McLane pumps, and ice corers deployed during a cruise.
+* [Trace metal concentrations](https://www.bco-dmo.org/dataset/869683) in water samples collected by Niskin bottles, McLane pumps, and ice corers deployed during a cruise.
 * Carbonate system parameters and oyster growth measurements resulting from a laboratory experiment on ocean acidification.
 
 **One dataset does not necessarily equate to one data file**. A dataset may be made up of multiple data tables with the same organizational structure that are combined into one by the data table manager.
