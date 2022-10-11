@@ -58,32 +58,28 @@ Correct any typos in taxonomic names before submitting to BCO-DMO. You can also 
 
 ## Plankton/Particle Imaging Data
 
-These recommendations are an effort to consolidate (meta)data requirements from taxonomic and morphological and ancillary information acquired from imagery of zooplankton, phytoplankton and other particles. These are often collected by imaging instruments such as Imaging FlowCytobot (IFCB), FlowCam, ZooScan, UVP, and LISST-Holo.
+These recommendations are an effort to consolidate (meta)data requirements from taxonomic, morphological, and ancillary information acquired from imagery of zooplankton, phytoplankton, and other particles. These data are often collected by imaging instruments such as Imaging FlowCytobot (IFCB), FlowCam, ZooScan, UVP, and LISST-Holo.
 
-Include whatever data is needed for reuse by your community. Data managers are available to discuss your submission with you to decide together what would be best to publish (email info@bco-dmo.org).
+Include whatever data is needed for reuse by your community. BCO-DMO data managers are available to discuss your submission with you to decide together what would be best to publish (email [info@bco-dmo.org](mailto:info@bco-dmo.org)).
 
 Resources for particle and plankton best practices:&#x20;
 
 * Neeley, A., Beaulieu, S., Proctor, C., Cetinić, I., Futrelle, J., Soto Ramos, I., Sosik, H., Devred, E., Karp-Boss, L., Picheral, M., Poulton, N., Roesler, C., and Shepherd, A.. 2021: Standards and practices for reporting plankton and other particle observations from images. 38pp. [DOI: 10.1575/1912/27377](https://darchive.mblwhoilibrary.org/handle/1912/27377).
 
-
-
-
-
 ## Example Datasets
 
-Your images and related data may become one or more "Datasets" at BCO-DMO depending upon the kind of data and structure of it. \
+Your images and related data may become one or more "Datasets" at BCO-DMO depending upon the type of data and their structure.\
 \
-In some cases it makes sense to have a dedicated dataset metadata page for just the images themselves and file inventory/collection information which will have its own DOI. Then associated data is served from separate dataset metadata pages each page getting a DOI. A data manager can help decide how many dataset metadata pages make the most sense for your case when you submit your data or reach out to share details of what you have.
+In some cases, it makes sense to have a dedicated dataset metadata page for just the images themselves and a file inventory or collection information, which will have its own DOI. Then associated data is served from separate dataset metadata pages each page getting a DOI. A Data Manager can help decide how to organize your data into metadata landing pages when you submit your data or when you reach out in advance of your submission.
 
-ZooSCAN images and related data:
+**ZooSCAN images and related data:**
 
-* ZooSCAN images of zooplankton collected during BATS MOCNESS tows... [https://www.bco-dmo.org/dataset/853440](https://www.bco-dmo.org/dataset/853440)
-  * this contains the images and image collection metadata including mocness net id.
+* ZooSCAN images of zooplankton collected during BATS MOCNESS tows [https://www.bco-dmo.org/dataset/853440](https://www.bco-dmo.org/dataset/853440)
+  * this contains the images and image collection metadata including MOCNESS net id.
 * ZooSCAN output for the objects in the images [https://www.bco-dmo.org/dataset/857891](https://www.bco-dmo.org/dataset/857891)
 * Biovolume:biomass conversion provides validation for the analysis of the ZooScan images [https://www.bco-dmo.org/dataset/854077](https://www.bco-dmo.org/dataset/854077)
 
-Particles from sediment traps:
+**Particles from sediment traps:**
 
 * Images of particles collected in sediment traps for quantitative analysis from multiple platforms from 2016-2017 [https://www.bco-dmo.org/dataset/749412](https://www.bco-dmo.org/dataset/749412)
 * Images and associated metadata of individually classified particles imaged and quantified in sediment trap gel layers collected on four research cruises conducted between 2015 and 2018 [https://www.bco-dmo.org/dataset/860725](https://www.bco-dmo.org/dataset/860725)&#x20;
