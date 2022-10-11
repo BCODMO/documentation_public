@@ -12,7 +12,7 @@ If you already have your files in an online fileshare you can email us the link 
 \
 We can also send you a link to upload files to BCO-DMO's dropbox account if you request that.
 
-Typically BCO-DMO publishes your media (e.g. images/videos) by bundling them into file bundles (.zip with zip64 support, or .tar.gz).  We can preserve any folder hierarchy your data type requires.&#x20;
+IIf your data are not tabular (e.g. images, video, gridded data), typically BCO-DMO publishes your files by bundling them into file bundles (.zip with zip64 support, or .tar.gz).  We can preserve any folder hierarchy your data type requires.&#x20;
 
 {% hint style="warning" %}
 **Any critical metadata encoded in folder or file names should also be in a file inventory table or main data table**. For example, images stored in folders with names by year and site should also have data columns for "year" and "site" in a file inventory table or main data table.&#x20;
