@@ -34,6 +34,10 @@ _**This page is still under construction!**_
 
 **FAIR Data Principles:** Guiding principles for making digital assets Findable, Accessible, Interoperable, and Reusable. Find more information [here](education/open-fair-data.md).
 
+**File Format:** The structure of your file. Note that the extension may not completely describe the structure within your file. For example, a .txt file can contain any ASCII text whether it is a comma, tab, or space-delimited dataset.
+
+**File Group:** Multiple data files that comprise one dataset. The files contain the same type of data and are formatted the same. If applicable, these files can be combined into one data table after submission.
+
 **Metadata**:&#x20;
 
 **Metadata Forms (.rtf):** Metadata Forms in .rtf format are available as an alternative to our Submission Tool. These forms are downloadable and fillable offline. The Dataset Metadata Form should be filled out when submitting data. The Project Metadata Form should be filled out when registering a project.&#x20;
