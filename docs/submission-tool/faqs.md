@@ -60,10 +60,10 @@ If you can't submit your data using the submission tool, please submit your data
 
 ## Will submissions need to be restarted if I can't complete a submission in one session or if I lose wifi?
 
-Your submission will be saved as a draft each time you save and continue to the next section of the form. You can also save your submission as a draft if you click on the 4. Submit Tab and select the "Save as a draft" button.&#x20;
+Your submission will be saved as a draft each time you save and continue to the next section of the form. You can also save your submission as a draft if you click on the "Submit" tab and select the "Save as a draft" button.&#x20;
 
-## Who can edit a submissions saved as drafts or submitted?
+## Who can edit a submission?
 
-When a project or dataset submission is saved as a draft, submitters, and other collaborators listed in the People section of the form will be able to view and edit submissions if logged in to the Submission Tool.&#x20;
+When a project or dataset submission is saved as a draft, the submitters and any other collaborators listed in the People section of the form will be able to view and edit submissions if they are logged in to the Submission Tool.&#x20;
 
-After a project is submitted, no further edits can be made. If you realize your submission needs edits, email info@bco-dmo.org.&#x20;
+After a project is submitted, no further edits can be made unless it's in the state "Action Requested". In that state, any person listed in the People section of the form will be able to edit the submission after they log in to the tool. If you realize your submission needs edits and it's currently locked, email [info@bco-dmo.org.](mailto:info@bco-dmo.org)&#x20;
