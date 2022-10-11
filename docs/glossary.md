@@ -10,7 +10,7 @@ _**This page is still under construction!**_
 
 **Current State**: BCO-DMO's dataset landing pages display a "Current State" field denoting the status of the dataset. The Current States are defined as:
 
-* **Data not available yet** = Data have been submitted to BCO-DMO and they are currently being processed or awaiting final review by the data submitter.
+* **Data not available** = Data are either restricted or have been submitted to BCO-DMO and they are currently being processed or awaiting final review by the data submitter.
 * **Under Revision** = A change to the data, resulting in a version number change, has been received and we are currently processing the update or awaiting final review by the data submitter.
 * **Preliminary and in progress** = The data and metadata should be considered preliminary and may be incomplete. Please contact the dataset Contact or PI before using the data.
 * **Final no updates expected** = The data submitter has validated the data and metadata for the current version and no updates are expected.

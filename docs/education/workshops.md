@@ -6,6 +6,12 @@ description: A summary of useful tutorials and workshops for the BCO-DMO user co
 
 ## BCO-DMO tutorials
 
+Quick tutorial GIFs could be useful here once the new website is live (for quick how-to's). Example here: [https://dataexplorer.oceanobservatories.org/help/how-to/ooi/metadata/deployment-level-metadata.html#find-serial-numbers](https://dataexplorer.oceanobservatories.org/help/how-to/ooi/metadata/deployment-level-metadata.html#find-serial-numbers)&#x20;
+
+
+
+![Gif demonstration](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 ### Text -Tutorials
 
 Data access tutorial: [https://www.bco-dmo.org/files/bcodmo/BCO-DMO\_Tutorial.pdf](https://www.bco-dmo.org/files/bcodmo/BCO-DMO\_Tutorial.pdf)&#x20;
