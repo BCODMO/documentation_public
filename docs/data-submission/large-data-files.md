@@ -12,7 +12,9 @@ If you already have your files in an online fileshare you can email us the link 
 \
 We can also send you a link to upload files to BCO-DMO's dropbox account if you request that.
 
-If your data are not tabular (e.g. images, video, gridded data), typically BCO-DMO publishes your files by bundling them into file bundles (.zip with zip64 support, or .tar.gz).  We can preserve any folder hierarchy your data type requires.&#x20;
+If your data are not tabular (e.g. images, video, netcdf gridded data), typically BCO-DMO publishes your files by bundling them into file bundles (.zip with zip64 support, or .tar.gz).  We can preserve any folder hierarchy your data type requires.&#x20;
+
+If your data are in tables (e.g. tsv, csv, Excel), BCO-DMO will import them into our data system and then provide data access in a variety of interoperable formats.
 
 For datasets with many files we suggest making a file inventory table with the filename, and any relevant collection information:
 
