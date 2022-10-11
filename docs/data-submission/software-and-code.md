@@ -6,7 +6,7 @@ description: Instructions on contributing model output, software, and code to BC
 
 ## Submitting Models, Software, and Code <a href="#page-title" id="page-title"></a>
 
-If you have code or software you developed as part of your project, we can publish it from a supplemental files section of relevant Dataset Landing Pages. If your code has already been documented and archived (e.g. citable with a Zenodo DOI), we can link to it as a Related Publication from your Dataset Landing Page. &#x20;
+If you have code or software you developed as part of your project, we can publish it from a supplemental files section of relevant Dataset Metadata Pages. If your code has already been documented and archived (e.g. citable with a Zenodo DOI), we can link to it as a Related Publication from your Dataset Landing Page. &#x20;
 
 Check your funding agency's requirements for making your code public. If you were funded by NSF's OCE division you are required to make your code public within two years of developing it.
 
