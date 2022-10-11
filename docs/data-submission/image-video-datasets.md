@@ -1,10 +1,10 @@
 ---
-description: Guidance for submitting images and dataset derived from images.
+description: Guidance for submitting images and datasets derived from images.
 ---
 
 # Image/Video Datasets
 
-BCO-DMO can publish both your videos, images, and datasets derived from images (e.g. coral reef quadrat photos, and derived percent cover calculations).  What to include in data and metadata when you submit to us will vary depending upon the instrumentation, methods, and software that produced your data. &#x20;
+BCO-DMO can publish your videos and images as well as any datasets derived from those videos or images (e.g. coral reef quadrat photos and derived percent cover calculations). The information we ask you to include when you submit data to us will vary depending upon the instrumentation, methods, and software that produced your data. &#x20;
 
 ## Submitting image/video files
 
