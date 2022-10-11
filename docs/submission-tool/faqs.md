@@ -29,7 +29,7 @@ We may ask you to revise your metadata or resubmit files if there are any issues
 
 Once we have all the data and metadata we need, we will notify you that your submission is complete and is awaiting a data manager to serve your data at BCO-DMO.  We will also give you an estimate of how long our data-serving queue is at that time.
 
-### What does the submission status mean?
+## What does the submission status mean?
 
 The status of your submission will be displayed in the Submission Tool when you view your list of Datasets and Projects. Below are definitions of each status.
 
