@@ -8,7 +8,7 @@ BCO-DMO can publish both your videos, images, and datasets derived from images (
 
 ## Submitting image/video files
 
-Imaging datasets are often quite large.  If have or plan to acquire a dataset greater than 100GB please contact BCO-DMO in advance of your submission so we can help coordinate your submission (info@bco-dmo.org).
+Imaging datasets are often quite large.  If have or plan to acquire a dataset greater than 100GB please contact BCO-DMO in advance of your submission so we can help coordinate your file transfers (info@bco-dmo.org).
 
 You should create a "Data Submission" and complete all the metadata we require using our [Submission Tool](../submission-tool/submitting-data.md).  You can upload files in the Files section, or skip the files section, submit your metadata and email us to coordinate a large data transfer. &#x20;
 
