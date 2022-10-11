@@ -33,11 +33,13 @@ Once we have all the data and metadata we need, we will notify you that your sub
 
 The status of your submission will be displayed in the Submission Tool when you view your list of Datasets and Projects. Below are definitions of each status.
 
-* `Draft` = Your submission has been started as a draft and saved, but you need to finish uploading files and metadata and then submit it. Drafts will not be reviewed by BCO-DMO data managers.&#x20;
-* `Under Review` = Your submission has been received and is under review by BCO-DMO.
-* `Revision Requested` = Your submission has been reviewed and we need you to make revisions. A data manager will explain to you by email what changes need to be made. When the state is 'Revision Requested', you can go into the submission and make your edits, and then submit it again. Once you re-submit, the status will return to 'Under Review'.
-* `Submission Accepted`= Your submission has been accepted and will be processed by BCO-DMO. This means we have all the information and files we need to begin processing your data or creating your project page. A data manager will be assigned to your submission and will contact you with follow-up questions or links for you to review your BCO-DMO pages.
-* `Will Not Serve` = The submission won't be served at BCO-DMO.  A BCO-DMO data manager has had a conversation with you about the reason we cannot serve it as submitted.
+* `Draft` = Your submission has been started as a draft but you need to finish uploading files and metadata then submit it.
+* `Under Review` = Your submission has been received and is under review.
+* `Action Requested` = We need your input in order to publish your submission. Details of the request have been emailed to you from BCO-DMO.
+* `Submission Accepted`= You successfully submitted data or a project. BCO-DMO will contact you with any questions that arise or with a request to review your BCO-DMO pages.
+* `Processing` = Your submission is being prepared for publication. BCO-DMO will contact you with any questions that arise or with a request to review your BCO-DMO page.
+* `Will Not Publish` = Your submission can’t be published. BCO-DMO will contact you by email with the reason we cannot publish your submission. Please contact us with questions or concerns.
+* `Complete` = There are no further tasks for this submission. Your metadata page has been published. Any restricted data will be made public on the release date you provided.
 
 ## My data is already in an online file share system. Can I submit that to you? (e.g. Dropbox, Google Drive)
 
