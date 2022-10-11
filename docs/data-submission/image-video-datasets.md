@@ -8,52 +8,52 @@ BCO-DMO can publish your videos and images as well as any datasets derived from 
 
 ## Submitting image/video files
 
-Imaging datasets are often quite large.  If have or plan to acquire a dataset greater than 100GB please contact BCO-DMO in advance of your submission so we can help coordinate your file transfers (info@bco-dmo.org).
+Imaging datasets are often quite large. If you have or plan to acquire a dataset greater than 100GB, please contact BCO-DMO in advance of your submission so we can help coordinate your file transfers ([info@bco-dmo.org](mailto:info@bco-dmo.org)).
 
-You should create a "Data Submission" and complete all the metadata we require using our [Submission Tool](../submission-tool/submitting-data.md).  You can upload files in the Files section, or skip the files section, submit your metadata, and email us to coordinate a large data transfer. &#x20;
+You should create a "Data Submission" and complete all the metadata we require using our [Submission Tool](../submission-tool/submitting-data.md). You can upload files in the Files section or skip the Files section, submit your metadata, and email us to coordinate a large data transfer. &#x20;
 
 {% hint style="info" %}
 Note that you can upload entire folders of files to our Submission Tool's files section. However, we request that you limit the size of any individual file to 10GB.
 {% endhint %}
 
-If you already have your files in an online fileshare you can email us the link and we will copy the files and send you a file inventory of what we received so you can confirm we have everything you intended to submit.  \
+If you already have your files in an online fileshare, you can email us the link and we will copy the files and send you a file inventory of what we received so you can confirm we have everything you intended to submit.  \
 \
-We can also send you a link to upload files to BCO-DMO's dropbox account if you request that.
+We can also send you a link to upload files to BCO-DMO's Dropbox account if you request that.
 
-Typically BCO-DMO publishes your media (e.g. images/videos) by bundling them into file bundles (.zip with zip64 support, or .tar.gz).  We can preserve any folder hierarchy your data type requires.&#x20;
+Typically BCO-DMO publishes your media (e.g. images/videos) by bundling them into file bundles (.zip with zip64 support, or .tar.gz). We can preserve any folder hierarchy your data type requires.&#x20;
 
 {% hint style="warning" %}
-**Any critical metadata encoded in folder or file names should also be in a file inventory table or main data table**. For example, images stored in folders with names by year and site should also have data columns for "year" and "site" in a file inventory table or main data table.  (more on that below)
+**Any critical metadata encoded in folder or file names should also be in a file inventory table or main data table**. For example, images stored in folders with names by year and site should also have data columns for "year" and "site" in a file inventory table or main data table (more on that below).
 {% endhint %}
 
 ## Data and metadata to include along with images/video files
 
-Make sure you include the following parameters in a data table in your data submission.  They can be included in a file inventory, or incorporated into your main data table if you have one.
+Make sure you include the following parameters in a data table in your data submission. They can be included in a file inventory or incorporated into your main data table if you have one.
 
 ### Field collections
 
 If your images or samples were collected in the field, provide collection information for where and when the samples/images were acquired:
 
-* **date,time (or DateTime), depth, lat, lon.**  Don't forget the time zone! You can include it in your datetime values directly or describe your time zone in the description of the date/time column(s).
+* **date-time (or DateTime), depth, latitude, longitude.**  Don't forget the time zone! You can include it in your datetime values directly or describe your time zone in the description of the date/time column(s).
 * \[if applicable] cruise\_id, station, sampling metadata (e.g. cast, sample\_id, mocness net\_id)
 * \[if applicable] any other ancillary measurements taken concurrently with your samples (e.g. salinity, temperature, PAR)
 
 ### **Laboratory experiments**
 
-If your images or samples have no field locations, and are purely **laboratory-based,** we still suggest having date and time information in your dataset to provide context. However, if you only have elapsed time since start of an experiment, you should indicate in the metadata when the experiments took place.
+If your images or samples have no field locations and are purely **laboratory-based,** we still suggest including date and time information in your dataset to provide context. However, if you only have the elapsed time since the start of an experiment, you should indicate in the metadata when the experiments took place.
 
 ### **Identifications**
 
 **Check your taxonomic names** before submitting your dataset to make sure they are correct.
 
-If including taxonomic names, we suggest including the Lifescience Identifier (LSID) or a taxonomic identifier your community recommends (e.g. AphiaID, TSN, etc.).  Either directly in your main data table, or in a supplementary species list for your dataset.\
+If including taxonomic names, we suggest including the Lifescience Identifier (LSID) or a taxonomic identifier your community recommends (e.g. AphiaID, TSN, etc.). This can be included either directly in your main data table or in a supplementary species list for your dataset.\
 \
-If you used codes in your dataset instead of taxonomic names, please provide a supplementary species list with the code, and the taxonomic name.  We suggest including a taxonomic identifier in your species list.
+If you used codes in your dataset instead of taxonomic names, please provide a supplementary species list with the codes and the taxonomic names. We suggest including taxonomic identifiers in your species list.
 
 {% hint style="info" %}
-One way to check your taxonomic names for typos is to run your data table through the [World Register of Marine Species "Taxa Match"](https://marinespecies.org/aphia.php?p=match) tool (works with csv, tsv, Excel).  The match tool will also provide information about whether your name exactly matches a known name or not. \
+One way to check your taxonomic names for typos is to run your data table through the [World Register of Marine Species "Taxa Match"](https://marinespecies.org/aphia.php?p=match) tool (works with csv, tsv, Excel). The match tool will also provide information about whether your name exactly matches a known name or not. \
 \
-Correct any typos in taxonomic names before submitting to BCO-DMO.  You can also add a column to your dataset with the matched LSID, and/or AphiaID using this tool.
+Correct any typos in taxonomic names before submitting to BCO-DMO. You can also add a column to your dataset with the matched LSID, and/or AphiaID using this tool.
 {% endhint %}
 
 ## Plankton/Particle Imaging Data
