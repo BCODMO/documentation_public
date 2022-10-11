@@ -11,7 +11,7 @@
   * [Metadata for Datasets](data-submission/metadata-for-datasets.md)
   * [Organizing Data Tables](data-submission/organizing-data-tables.md)
   * [Genetic Accessions (Omics)](data-submission/genetic-accessions.md)
-  * [Image Classification Data](data-submission/image-classification-data.md)
+  * [Image/Video Datasets](data-submission/image-video-datasets.md)
   * [GEOTRACES Data](data-submission/geotraces.md)
   * [Models, Software, and Code](data-submission/software-and-code.md)
   * [Large Data Files](data-submission/large-data-files.md)

@@ -44,7 +44,7 @@ BCO-DMO manages a wide variety of data types and formats. Contents of the datase
 
 **Genetic Accessions**: Genetic data are primarily curated in the domain-specific repository NCBI ([https://ncbi.nlm.nih.gov/](https://ncbi.nlm.nih.gov/)). However, BCO-DMO serves the metadata related to the genetic accessions, using the specific identifier as a way to relate the data in NCBI and BCO-DMO. Specific information on this data type can be found on the "[Genetic Accesions](../data-submission/genetic-accessions.md)" page.&#x20;
 
-**Image Classification Data:** Images and ancillary data from imagery instruments. Our "[Image Classification](../data-submission/image-classification-data.md)" data page is still being finished.&#x20;
+**Image Classification Data:** Images and ancillary data from imagery instruments. Our "[Image Classification](../data-submission/image-video-datasets.md)" data page is still being finished.&#x20;
 
 ## Metadata
 

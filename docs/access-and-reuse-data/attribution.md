@@ -1,8 +1,6 @@
----
-description: 'From Website: https://www.bco-dmo.org/terms-use'
----
-
 # Attribution
+
+Also published at [https://www.bco-dmo.org/terms-use](https://www.bco-dmo.org/terms-use)
 
 ## License
 
