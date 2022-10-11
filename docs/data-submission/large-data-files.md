@@ -2,7 +2,7 @@
 
 If have or plan to acquire a dataset greater than 100GB please contact BCO-DMO in advance of your submission so we can help coordinate your file transfers (info@bco-dmo.org).
 
-You should create a "Data Submission" and complete all the metadata we require using our [Submission Tool](../submission-tool/submitting-data.md).  You can upload files in the Files section, or skip the files section, submit your metadata and email us to coordinate a large data transfer. &#x20;
+You should create a "Data Submission" and complete all the metadata we require using our [Submission Tool](../submission-tool/submitting-data.md).  You can upload files in the Files section, or skip the files section, submit your metadata, and email us to coordinate a large data transfer. &#x20;
 
 {% hint style="info" %}
 Note that you can upload entire folders of files to our Submission Tool's files section. However, we request that you limit the size of any individual file to 10GB.
