@@ -66,7 +66,7 @@ Submission Status:
 
 **Validation:** (or "Dataset Validation")
 
-**Version Numbe**r:
+**Version Numbe**r: This is the dataset version identifier.  When any data files are updated the dataset gets a new version number.
 
 **Version Date**: The date when the dataset version number is assigned in format YYYY-MM-DD.&#x20;
 
