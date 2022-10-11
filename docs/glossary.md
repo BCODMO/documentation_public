@@ -86,7 +86,11 @@ Submission Status:
 
 **NSF**: **** National Science Foundation
 
-**NSF OCE**: The National Science Foundation's Division of Ocean Sciences
+**OCE**: The National Science Foundation's Division of Ocean Sciences
+
+**OPP**:  The National Science Foundation's Office of Polar Programs
+
+* May also refer to the Ocean Protein Portal ([https://www.oceanproteinportal.org/](https://www.oceanproteinportal.org/))
 
 **ORCID**: ORCID, which stands for Open Researcher and Contributor ID, **** is a global, not-for-profit organization that provides a unique, persistent identifier for individuals. An **ORCID iD** is an identifier assigned to an individual. At BCO-DMO, you'll need to have an ORCID iD to use our online submission tool. To learn more about the benefits of having an ORCID iD, visit [https://info.orcid.org/benefits-for-researchers/](https://info.orcid.org/benefits-for-researchers/).&#x20;
 
