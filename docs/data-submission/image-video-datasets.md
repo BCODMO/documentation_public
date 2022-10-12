@@ -44,7 +44,7 @@ If your images or samples have no field locations and are purely **laboratory-ba
 
 ### **Identifications**
 
-\[required] **Check any taxonomic names** before submitting your dataset to make sure they are correct.
+**Check any taxonomic names** before submitting your dataset to make sure they are correct.
 
 \[optional] If including taxonomic names, we suggest including the Lifescience Identifier (LSID) or a taxonomic identifier your community recommends (e.g. AphiaID, TSN, etc.). This can be included either directly in your main data table or in a supplementary species list for your dataset.\
 \
