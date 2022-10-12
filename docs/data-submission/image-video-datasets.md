@@ -49,11 +49,13 @@ If your images or samples were collected in the field, provide collection inform
 
 If your images or samples have no field locations and are purely **laboratory-based,** we still suggest including date and time information in your dataset to provide context. However, if you only have the elapsed time since the start of an experiment, you should indicate in the metadata when the experiments took place.
 
+If your experimental design included treatments and controls, don't forget to add data column(s) to indicate which treatment the image or video was from.
+
 ### **Identifications**
 
 **Check any taxonomic names** before submitting your dataset to make sure they are correct.
 
-\[optional] If including taxonomic names, we suggest including the Lifescience Identifier (LSID) or a taxonomic identifier your community recommends (e.g. AphiaID, TSN, etc.). This can be included either directly in your main data table or in a supplementary species list for your dataset.\
+\[optional] If including taxonomic names, we suggest including the Life Science Identifier (LSID) or a taxonomic identifier your community recommends (e.g. AphiaID, TSN, etc.). This can be included either directly in your main data table or in a supplementary species list for your dataset.\
 \
 If you used codes in your dataset instead of taxonomic names, please provide a supplementary species list with the codes and the taxonomic names. We suggest including taxonomic identifiers in your species list.
 

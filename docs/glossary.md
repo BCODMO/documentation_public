@@ -56,9 +56,7 @@ Project Registration:
 
 **Restricted**: BCO-DMO's dataset landing pages display a "Restricted" field denoting the availability of the dataset. "No" means the data are or will be publicly available. "Yes" means the data are restricted and will not be published or shared publicly before the release date specified by the data submitter. The term "embargoed data" is often used interchangeably with "restricted data".&#x20;
 
-LSID: Life Sciences Identifier "persistent, location-independent, resource identifiers for uniquely naming biologically significant resources" from Object Management Group: Life Sciences Identifiers final adopted specification. [OMG Document dtc/04-05-01. 2004](https://www.omg.org/cgi-bin/doc?dtc/04-05-01)
-
-Tabular Data (or Data Tables)
+Tabular Data (or Data Tables?)
 
 Submission Status:
 
