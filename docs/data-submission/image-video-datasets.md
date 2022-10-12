@@ -28,7 +28,10 @@ Typically BCO-DMO publishes your media (e.g. images/videos) by bundling them int
 
 ## Data and metadata to include along with images/video files
 
-Make sure you include the following parameters in a data table in your data submission. They can be included in a file inventory or incorporated into your main data table if you have one.
+Make sure you include the following parameters in a table. They can be included in a file inventory table or incorporated into your main data table if you have one.
+
+* **Filename**, the full name of your file including the file extension (e.g. myimage.jpg, myvideo.mp4)
+* \[if applicable] **folder name(s)** if your files are stored in subfolders that you would like maintained when we publish your files.
 
 ### Field collections
 
