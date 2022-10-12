@@ -33,6 +33,10 @@ Make sure you include the following parameters in a table. They can be included 
 * **Filename**, the full name of your file including the file extension (e.g. myimage.jpg, myvideo.mp4)
 * \[if applicable] **folder name(s)** if your files are stored in subfolders that you would like maintained when we publish your files.
 
+{% hint style="info" %}
+If you need help making a file inventory, contact us at info@bco-dmo.org.  We can get you started with a basic file inventory table to which you can add other data columns to provide important context for your data described below.
+{% endhint %}
+
 ### Field collections
 
 If your images or samples were collected in the field, provide collection information for where and when the samples/images were acquired:
