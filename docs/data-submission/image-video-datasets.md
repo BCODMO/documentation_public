@@ -4,26 +4,37 @@ description: Guidance for submitting images and datasets derived from images.
 
 # Image/Video Datasets
 
-BCO-DMO can publish your videos and images as well as any datasets derived from those videos or images (e.g. coral reef quadrat photos and derived percent cover calculations). The information we ask you to include when you submit data to us will vary depending upon the instrumentation, methods, and software that produced your data. &#x20;
+You may be wondering if you need to share images or video produced through the course of your research.&#x20;
+
+BCO-DMO can publish your videos and images as well as data derived from those videos or images (e.g. coral reef quadrat photos and derived percent cover calculations). The information we ask you to include when you submit data will vary depending upon the instrumentation, methods, and software that produced your images and data. &#x20;
+
+
+
+> **Do I need to submit the images I used to generate my dataset?**If you have any questions about whether to publish your images/video, and what format to send to BCO-DMO, contact your program manager to clarify any expectations on what you should make public. &#x20;
+>
+> **The format of the images/video you submit to BCO-DMO should be the format with the most reuse potential.**  If your community would benefit from a raw form of images (this is often TIFF format), you can send us that or send us the raw form in addition to the processed format.
+>
+> For NSF-OCE funded projects, the Data Sharing Policy states:\
+> _The Division of Ocean Sciences requires that metadata files, full data sets, derived data products and physical collections must be made publicly accessible within two (2) years of collection._ [https://www.nsf.gov/pubs/2017/nsf17037/nsf17037.jsp](https://www.nsf.gov/pubs/2017/nsf17037/nsf17037.jsp)
+
+
 
 ## Submitting image/video files
 
-Imaging datasets are often quite large. If you have or plan to acquire a dataset greater than 100GB, please contact BCO-DMO in advance of your submission so we can help coordinate your file transfers ([info@bco-dmo.org](mailto:info@bco-dmo.org)).
-
-You should create a "Data Submission" and complete all the metadata we require using our [Submission Tool](../submission-tool/submitting-data.md). You can upload files in the Files section or skip the Files section, submit your metadata, and email us to coordinate a large data transfer. &#x20;
+You can create a "Data Submission" using our [Submission Tool](../submission-tool/submitting-data.md), completing all the required metadata fields and uploading files in the Files section as you would for a tabular data submission.&#x20;
 
 {% hint style="info" %}
 Note that you can upload entire folders of files to our Submission Tool's files section. However, we request that you limit the size of any individual file to 10GB.
 {% endhint %}
 
-If you already have your files in an online fileshare, you can email us the link and we will copy the files and send you a file inventory of what we received so you can confirm we have everything you intended to submit.  \
-\
-We can also send you a link to upload files to BCO-DMO's Dropbox account if you request that.
+However, we realize imaging datasets can be quite large. If you have, or plan to acquire, a dataset greater than 100GB, please contact BCO-DMO in advance of your submission so we can help coordinate your file transfers ([info@bco-dmo.org](mailto:info@bco-dmo.org)).  For large image file transfers while using our Submission Tool, you may skip the Files section, submit the appropriate metadata, and then follow previously determined instructions for the large data transfer. &#x20;
 
-Typically BCO-DMO publishes your media (e.g. images/videos) by bundling them into file bundles (.zip with zip64 support, or .tar.gz). We can preserve any folder hierarchy your data type requires.&#x20;
+If you already have your files in an online fileshare, you can email us the link (OR include the link in the notes section??) and we will copy the files and send you a file inventory of what we received so you can confirm we have everything you intended to submit.  Alternatively, we can send you a link to upload files to BCO-DMO's Dropbox account if you prefer this transfer method.
+
+Typically BCO-DMO publishes your media (e.g. images/videos) by bundling them using zip or tar protocols (.zip with zip64 support, or .tar.gz). We can preserve any folder hierarchy your data type requires.&#x20;
 
 {% hint style="warning" %}
-**Any critical metadata encoded in folder or file names should also be in a file inventory table or main data table**. For example, images stored in folders with names by year and site should also have data columns for "year" and "site" in a file inventory table or main data table (more on that below).
+**Note that any critical metadata encoded in folder or file names should (must?) also be in an accompanying file inventory table or in the main data table**. For example, images stored in folders with names by year and site, should also have an accompanying file inventory table with data columns for "year" and "site" or be present in the main data table (more detail below).
 {% endhint %}
 
 ## Data and metadata to include along with images/video files
@@ -31,15 +42,15 @@ Typically BCO-DMO publishes your media (e.g. images/videos) by bundling them int
 Make sure you include the following parameters in a table. They can be included in a file inventory table or incorporated into your main data table if you have one.
 
 * **Filename**, the full name of your file including the file extension (e.g. myimage.jpg, myvideo.mp4)
-* \[if applicable] **folder name(s)** if your files are stored in subfolders that you would like maintained when we publish your files.
+* \[if applicable] **folder name(s)** if your files are stored in subfolders that you would like preserved when we publish your files.
 
 {% hint style="info" %}
-If you need help making a file inventory, contact us at info@bco-dmo.org.  We can get you started with a basic file inventory table to which you can add other data columns to provide important context for your data described below.
+If you need help making a file inventory table, contact us at info@bco-dmo.org.  We can get you started with a basic file inventory table to which you can add other data columns (described in the following sections) to provide important context for your data.
 {% endhint %}
 
-### Field collections
+### Field observations
 
-If your images or samples were collected in the field, provide collection information for where and when the samples/images were acquired:
+If your images or samples were collected in the field, provide collection information for the location, date, and time the samples/images were acquired:
 
 * **date, time (or DateTime), depth, latitude, longitude.**  Don't forget the time zone! You can include it in your datetime values directly or describe your time zone in the description of the date/time column(s).
 * \[if applicable] cruise\_id, station, sampling metadata (e.g. cast, sample\_id, mocness net\_id)
@@ -47,20 +58,20 @@ If your images or samples were collected in the field, provide collection inform
 
 ### **Laboratory experiments**
 
-If your images or samples have no field locations and are purely **laboratory-based,** we still suggest including date and time information in your dataset to provide context. However, if you only have the elapsed time since the start of an experiment, you should indicate in the metadata when the experiments took place.
+If your images or samples have no field locations and are purely **laboratory-based,** we still recommend including date and time information in your dataset to provide context. However, if you only have the elapsed time since the start of an experiment, you should indicate in the metadata when the experiments took place.
 
-If your experimental design included treatments and controls, don't forget to add data column(s) to indicate which treatment the image or video was from.
+If your experimental design included treatments and controls, do not forget to add data column(s) to indicate which treatment the image or video was from.
 
 ### **Identifications**
 
 **Check any taxonomic names** before submitting your dataset to make sure they are correct.
 
-\[optional] If including taxonomic names, we suggest including the Life Science Identifier (LSID) or a taxonomic identifier your community recommends (e.g. AphiaID, TSN, etc.). This can be included either directly in your main data table or in a supplementary species list for your dataset.\
+\[optional] If including taxonomic names, we recommend including the Lifescience Identifier (LSID) or a taxonomic identifier familiar to your community (e.g. AphiaID, TSN, etc.). This can be included either directly as a column in your main data table or in a supplementary species list for your dataset.\
 \
-If you used codes in your dataset instead of taxonomic names, please provide a supplementary species list with the codes and the taxonomic names. We suggest including taxonomic identifiers in your species list.
+If you used codes in your dataset instead of taxonomic names, please provide a supplementary species list with the codes and the taxonomic names. We recommend including taxonomic identifiers in your species list.
 
 {% hint style="info" %}
-One way to check your taxonomic names for typos is to run your data table through the [World Register of Marine Species "Taxa Match"](https://marinespecies.org/aphia.php?p=match) tool (works with csv, tsv, Excel). The match tool will also provide information about whether your name exactly matches a known name or not. \
+One way to check your taxonomic names for typos is to run your data table through the [World Register of Marine Species "Taxa Match"](https://marinespecies.org/aphia.php?p=match) tool (which accepts csv, tsv, Excel). The match tool will also provide information about whether your name exactly matches a known name or not. \
 \
 Correct any typos in taxonomic names before submitting to BCO-DMO. You can also add a column to your dataset with the matched LSID, and/or AphiaID using this tool.
 {% endhint %}
@@ -69,9 +80,9 @@ Correct any typos in taxonomic names before submitting to BCO-DMO. You can also 
 
 These recommendations are an effort to consolidate (meta)data requirements from taxonomic, morphological, and ancillary information acquired from imagery of zooplankton, phytoplankton, and other particles. These data are often collected by imaging instruments such as Imaging FlowCytobot (IFCB), FlowCam, ZooScan, UVP, and LISST-Holo.
 
-Include whatever data is needed for reuse by your community. BCO-DMO data managers are available to discuss your submission with you to decide together what would be best to publish (email [info@bco-dmo.org](mailto:info@bco-dmo.org)).
+Include whatever data is needed for reuse by your community. BCO-DMO data managers are available to discuss your submission with you to decide together what would be best to publish (email [info@bco-dmo.org](mailto:info@bco-dmo.org)). BCO-DMO aligns with the best practices for reporting particle and plankton as presented in Neeley et al. (2021).&#x20;
 
-Resources for particle and plankton best practices:&#x20;
+**References:**
 
 * Neeley, A., Beaulieu, S., Proctor, C., Cetinić, I., Futrelle, J., Soto Ramos, I., Sosik, H., Devred, E., Karp-Boss, L., Picheral, M., Poulton, N., Roesler, C., and Shepherd, A.. 2021: Standards and practices for reporting plankton and other particle observations from images. 38pp. [DOI: 10.1575/1912/27377](https://darchive.mblwhoilibrary.org/handle/1912/27377).
 
