@@ -34,7 +34,7 @@ Make sure you include the following parameters in a data table in your data subm
 
 If your images or samples were collected in the field, provide collection information for where and when the samples/images were acquired:
 
-* **date-time (or DateTime), depth, latitude, longitude.**  Don't forget the time zone! You can include it in your datetime values directly or describe your time zone in the description of the date/time column(s).
+* **date, time (or DateTime), depth, latitude, longitude.**  Don't forget the time zone! You can include it in your datetime values directly or describe your time zone in the description of the date/time column(s).
 * \[if applicable] cruise\_id, station, sampling metadata (e.g. cast, sample\_id, mocness net\_id)
 * \[if applicable] any other ancillary measurements taken concurrently with your samples (e.g. salinity, temperature, PAR)
 
