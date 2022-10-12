@@ -139,6 +139,8 @@ Within the context of research data, statistics are summaries or calculated inte
 
 BCO-DMO can help you make graphs and images, available to others. There are different strategies we can use, depending on how your data tables and supplemental files are interrelated. We can accept images (and movies) in just about any common format, such as gif, tif, jpeg, mov, etc. Long (or short) descriptions are best provided separately, as part of the descriptions of how the data were collected or processed.
 
+See related guidance on page [Image/Video Datasets](image-video-datasets.md)
+
 ## Finding examples of well-formatted tables
 
 If you would like to see examples of well-formatted data tables, search for dataset types similar to yours within [BCO-DMO's dataset search](https://www.bco-dmo.org/search/dataset).
