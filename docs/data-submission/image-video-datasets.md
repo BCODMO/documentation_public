@@ -49,8 +49,6 @@ If your images or samples were collected in the field, provide collection inform
 
 If your images or samples have no field locations and are purely **laboratory-based,** we still suggest including date and time information in your dataset to provide context. However, if you only have the elapsed time since the start of an experiment, you should indicate in the metadata when the experiments took place.
 
-If your experimental design included treatments and controls, don't forget to add data column(s) to indicate which treatment the image or video was from.
-
 ### **Identifications**
 
 **Check any taxonomic names** before submitting your dataset to make sure they are correct.
