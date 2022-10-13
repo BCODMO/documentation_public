@@ -16,9 +16,11 @@ You can create a "Data Submission" using our [Submission Tool](../submission-too
 Note that you can upload entire folders of files to our Submission Tool's files section. However, we request that you limit the size of any individual file to 10GB.
 {% endhint %}
 
-However, we realize imaging datasets can be quite large. If you have, or plan to acquire, a dataset greater than 100GB, please contact BCO-DMO in advance of your submission so we can help coordinate your file transfers ([info@bco-dmo.org](mailto:info@bco-dmo.org)).  For large image file transfers while using our Submission Tool, you may skip the Files section, submit the appropriate metadata, and then follow previously determined instructions for the large data transfer. &#x20;
+We realize imaging datasets can be quite large. If you have, or plan to acquire, a dataset greater than 100GB, please contact BCO-DMO in advance of your submission so we can help coordinate your file transfers (info@bco-dmo.org).  \
+\
+When you are ready to submit data to us, proceed with filling in the appropriate metadata by creating a dataset submission in the [Submission Tool](../submission-tool/submitting-data.md).  You may skip the "Files" section of the form, and instead include a description of the data you have to send us in the comment box on the last page of the form ("Submit" page).   We will email you to coordinate the file transfer.
 
-If you already have your files in an online fileshare you can share the link with us.  We will copy the files and send you a file inventory of what we received so you can confirm we have everything you intended to submit.  Alternatively, we can send you a link to upload files to BCO-DMO's Dropbox account if you prefer this transfer method.
+If you already have your files in an online fileshare you can provide the link to us.  We will copy the files and send you a file inventory of what we downloaded so you can confirm we have everything you intended to submit.  Alternatively, we can send you a link to upload files to BCO-DMO's Dropbox account if you prefer this transfer method.
 
 Typically BCO-DMO publishes your media (e.g. images/videos) by bundling them using zip or tar protocols (.zip with zip64 support, or .tar.gz). We can preserve any folder hierarchy your data type requires.&#x20;
 
