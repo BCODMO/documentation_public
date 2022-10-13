@@ -18,12 +18,12 @@ Note that you can upload entire folders of files to our Submission Tool's files 
 
 However, we realize imaging datasets can be quite large. If you have, or plan to acquire, a dataset greater than 100GB, please contact BCO-DMO in advance of your submission so we can help coordinate your file transfers ([info@bco-dmo.org](mailto:info@bco-dmo.org)).  For large image file transfers while using our Submission Tool, you may skip the Files section, submit the appropriate metadata, and then follow previously determined instructions for the large data transfer. &#x20;
 
-If you already have your files in an online fileshare, you can email us the link (OR include the link in the notes section??) and we will copy the files and send you a file inventory of what we received so you can confirm we have everything you intended to submit.  Alternatively, we can send you a link to upload files to BCO-DMO's Dropbox account if you prefer this transfer method.
+If you already have your files in an online fileshare you can share the link with us.  We will copy the files and send you a file inventory of what we received so you can confirm we have everything you intended to submit.  Alternatively, we can send you a link to upload files to BCO-DMO's Dropbox account if you prefer this transfer method.
 
 Typically BCO-DMO publishes your media (e.g. images/videos) by bundling them using zip or tar protocols (.zip with zip64 support, or .tar.gz). We can preserve any folder hierarchy your data type requires.&#x20;
 
 {% hint style="warning" %}
-**Note that any critical metadata encoded in folder or file names should (must?) also be in an accompanying file inventory table or in the main data table**. For example, images stored in folders with names by year and site, should also have an accompanying file inventory table with data columns for "year" and "site" or be present in the main data table (more detail below).
+**Note that any critical metadata encoded in folder or file names must also be in an accompanying file inventory table or in the main data table**. For example, images stored in folders with names by year and site, should also have an accompanying file inventory table with data columns for "year" and "site" or be present in the main data table (more detail below).
 {% endhint %}
 
 ## Image and video file formats
