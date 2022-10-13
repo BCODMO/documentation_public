@@ -2,15 +2,17 @@
 
 If you have or plan to acquire a dataset greater than 100GB, please contact BCO-DMO in advance of your submission so we can help coordinate your file transfers ([info@bco-dmo.org](mailto:info@bco-dmo.org)).
 
-You should create a "Data Submission" and complete all the metadata we require using our [Submission Tool](../submission-tool/submitting-data.md). You can upload files in the Files section or skip the Files section, submit your metadata, and email us to coordinate a large data transfer. &#x20;
+When you are ready to submit data to us, create a "Data Submission" using our [Submission Tool](../submission-tool/submitting-data.md), completing all the required metadata fields and uploading files in the "Files" section.&#x20;
 
 {% hint style="info" %}
 Note that you can upload entire folders of files to our Submission Tool's files section. However, we request that you limit the size of any individual file to 10GB.
 {% endhint %}
 
-If you already have your files in an online fileshare, you can email us the link and we will copy the files and send you a file inventory of what we received so you can confirm we have everything you intended to submit.  \
+If your data are too large to upload using a web browser, we can coordinate a file transfer with you using a Dropbox file request from our account, or if you already have your files in an online fileshare (Google Drive, Globus, Box, etc.), you can provide the link.\
 \
-We can also send you a link to upload files to BCO-DMO's Dropbox account if you request that.
+If submitting files from an online fileshare, proceed with filling in the appropriate metadata by creating a dataset submission in the [Submission Tool](../submission-tool/submitting-data.md).  You may skip the "Files" section of the form, and instead include a description of the data you have to send us in the comment box on the last page of the form ("Submit" page).   We will email you to coordinate the file transfer.
+
+We will copy the files and send you a file inventory of what we downloaded so you can confirm we have everything you intended to submit.  Alternatively, we can send you a link to upload files to BCO-DMO's Dropbox account if you prefer this transfer method.
 
 If your data are not tabular (e.g. images, video, netcdf gridded data), typically BCO-DMO publishes your files by bundling them into file bundles (.zip with zip64 support, or .tar.gz). We can preserve any folder hierarchy your data type requires.&#x20;
 
