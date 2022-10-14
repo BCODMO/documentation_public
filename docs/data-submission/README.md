@@ -14,7 +14,7 @@ We provide **data management and curation services** free of charge to investiga
 
 **Register your award and related project**
 
-Before submitting data to BCO-DMO, make sure to register your award and related project, using our online submission tool. There is usually one project per NSF award with the exception of Collaborative Research awards where one project is funded by multiple award numbers.
+Before submitting data to BCO-DMO, make sure to register your award and related project using our online **Submission Tool**. There is usually one project per NSF award with the exception of Collaborative Research awards where one project is funded by multiple award numbers.
 
 Find out how to [register your project](../data-planning/project-registration.md) and what information is needed when you have been [recommended for funding.](../data-planning/project-registration.md)&#x20;
 
@@ -27,7 +27,7 @@ Submitting data to BCO-DMO can also be done using the online **Submission Tool**
 1. **Descriptive Metadata:** A dataset needs to be accompanied by [**metadata**](metadata-for-datasets.md) for new users to be able to understand and reuse the datasets we hold.&#x20;
 2. **Data Files:** The **organization of the data** could vary depending on the data type. There is a distinction between [data tables](organizing-data-tables.md), [genetic accessions](genetic-accessions.md), and [Models & Code](software-and-code.md). We also have specific guidance for certain research programs or projects, such as [GEOTRACES](geotraces.md).
 
-Once you have submitted data through the Submission Tool, expect to receive a reply within 48-hours.&#x20;
+Once you have submitted data through the Submission Tool, expect to receive a reply from a BCO-DMO Data Manager within 48-hours.&#x20;
 
 If you have any questions or need help during the submission process, you can always email us: [info@bco-dmo.org](mailto:info@bco-dmo.org),
 
@@ -42,20 +42,3 @@ After we receive your data and metadata, a data manager will begin the process o
 **Validate/Approve**
 
 Once your datasets are online, you’ll be asked to review the data and metadata for completeness and accuracy. This validation stage is the final step in the process, and it is necessary for the assignment of DOIs and for long-term archiving. Once datasets are reviewed and approved by the contributor, BCO-DMO ensures the data are archived properly at the appropriate National Data Center (e.g. National Centers for Environmental Information, NCEI).
-
-
-
-
-
-
-
-
-
-
-
-
-
-****
-
-****
-
