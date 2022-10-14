@@ -16,25 +16,25 @@ You can create a "Data Submission" using our [Submission Tool](../submission-too
 Note that you can upload entire folders of files to our Submission Tool's files section. However, we request that you limit the size of any individual file to 10GB.
 {% endhint %}
 
-We realize imaging datasets can be quite large. If your data are too large to upload using a web browser, we can coordinate a file transfer with your using a Dropbox file request from our account, or if you already have your files in an online fileshare (Google Drive, Globus, Box, etc.), you can provide the link.\
+We realize imaging datasets can be quite large. If your data are too large to upload using a web browser, we can coordinate a file transfer with you using a Dropbox file request from our account. Or, if you already have your files in an online fileshare (Google Drive, Globus, Box, etc.), you can share the link with us and we will retrieve the files.\
 \
-If submitting files from an online fileshare, proceed with filling in the appropriate metadata by creating a dataset submission in the [Submission Tool](../submission-tool/submitting-data.md).  You may skip the "Files" section of the form, and instead include a description of the data you have to send us in the comment box on the last page of the form ("Submit" page).   We will email you to coordinate the file transfer.
+If submitting files from an online fileshare, proceed with filling in the appropriate metadata by creating a dataset submission in the [Submission Tool](../submission-tool/submitting-data.md).  You may skip the "Files" section of the form, and instead include a description of the data you have to send us in the comment box on the last page of the form ("Submit" page). We will email you to coordinate the file transfer.
 
-We will copy the files and send you a file inventory of what we downloaded so you can confirm we have everything you intended to submit.  Alternatively, we can send you a link to upload files to BCO-DMO's Dropbox account if you prefer this transfer method.
+Once we retreive your files, we will send you a file inventory so you can confirm we have everything you intended to submit. Alternatively, we can send you a link to upload files to BCO-DMO's Dropbox account if you prefer this transfer method.
 
-Typically BCO-DMO publishes your media (e.g. images/videos) by bundling them using zip or tar protocols (.zip with zip64 support, or .tar.gz). We can preserve any folder hierarchy your data type requires.&#x20;
+Typically, BCO-DMO publishes your media (e.g. images/videos) by bundling them using zip or tar protocols (.zip with zip64 support, or .tar.gz). We can preserve any folder hierarchy your data type requires.&#x20;
 
 {% hint style="warning" %}
-**Note that any critical metadata encoded in folder or file names must also be in an accompanying file inventory table or in the main data table**. For example, images stored in folders with names by year and site, should also have an accompanying file inventory table with data columns for "year" and "site" or be present in the main data table (more detail below).
+**Note that any critical metadata encoded in folder or file names must also be in an accompanying file inventory table or in the main data table**. For example, images stored in folders with names by year and site should also have an accompanying file inventory table with data columns for "year" and "site", or this information must be present in the main data table (more detail below).
 {% endhint %}
 
 
 
 ## Image and video file formats
 
-**The format of the images/video you submit to BCO-DMO should be one with the most reuse potential.**  If your community would benefit from raw images (this is often TIFF format), you can submit them in this form, however in these cases, we recommend submitting raw in addition to any processed formats.
+**The format of the images/video you submit to BCO-DMO should be one with the most reuse potential.** If your community would benefit from raw images (this is often TIFF format), you can submit them in this form however, in these cases, we recommend submitting raw in addition to any processed formats.
 
-For NSF-OCE funded projects, the Data Sharing Policy states:\
+For NSF OCE-funded projects, the Data Sharing Policy states:\
 _The Division of Ocean Sciences requires that metadata files, full data sets, derived data products and physical collections must be made publicly accessible within two (2) years of collection._ [https://www.nsf.gov/pubs/2017/nsf17037/nsf17037.jsp](https://www.nsf.gov/pubs/2017/nsf17037/nsf17037.jsp)
 
 ## Data and metadata to include along with images/video files
@@ -45,7 +45,7 @@ Make sure you include the following parameters in a table. They can be included 
 * \[if applicable] **folder name(s)** if your files are stored in subfolders that you would like preserved when we publish your files.
 
 {% hint style="info" %}
-If you need help making a file inventory table, contact us at info@bco-dmo.org.  We can get you started with a basic file inventory table to which you can add other data columns (described in the following sections) to provide important context for your data.
+If you need help making a file inventory table, contact us at [info@bco-dmo.org](mailto:info@bco-dmo.org). We can get you started with a basic file inventory table to which you can add other data columns (described in the following sections) to provide important context for your data.
 {% endhint %}
 
 ### Field observations
@@ -90,7 +90,7 @@ Include whatever data is needed for reuse by your community. BCO-DMO data manage
 
 Your images and related data may become one or more "Datasets" at BCO-DMO depending upon the type of data and their structure.\
 \
-In some cases, it makes sense to have a dedicated dataset metadata page for just the images themselves and a file inventory or collection information, which will have its own DOI. Then associated data is served from separate dataset metadata pages each page getting a DOI. A Data Manager can help decide how to organize your data into metadata landing pages when you submit your data or when you reach out in advance of your submission.
+In some cases, it makes sense to have a dedicated dataset metadata page for the images themselves and a file inventory or collection information, which will have its own DOI. Associated data would be served from separate dataset metadata pages, each getting a DOI. A BCO-DMO Data Manager can help decide how to organize your data into metadata landing pages when you submit your data or when you reach out in advance of your submission.
 
 **ZooSCAN images and related data:**
 
