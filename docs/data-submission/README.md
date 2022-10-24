@@ -8,15 +8,13 @@ description: Information on how to prepare data and metadata for submission to B
 
 **Determine your domain-specific repository**
 
-We provide **data management and curation services** free of charge to investigators funded through the NSF OCE Biological and Chemical Oceanography programs and NSF Division of Polar Programs. See the [complete list of programs](../data-planning/find-a-fitting-repository.md#programs-supported-by-bco-dmo) supported by BCO-DMO. For those funded outside of these programs, we determine if the data would be of value to the BCO-DMO user community and negotiate a 'fee per dataset' data management strategy. Find out **the appropriate repository for your data** [here](../data-planning/find-a-fitting-repository.md).
+We provide **data management and curation services** free of charge to investigators funded through the NSF OCE Biological and Chemical Oceanography programs and NSF Division of Polar Programs. For those funded outside of these programs, we determine if the data would be of value to the BCO-DMO user community and negotiate a 'fee per dataset' data management strategy. See "[Find a Fitting Repository](../data-planning/find-a-fitting-repository.md)" for a complete list of programs supported by BCO-DMO and for help finding another repository if BCO-DMO is not appropriate.
 
 
 
 **Register your award and related project**
 
-Before submitting data to BCO-DMO, make sure to register your award and related project using our online **Submission Tool**. There is usually one project per NSF award with the exception of Collaborative Research awards where one project is funded by multiple award numbers.
-
-Find out how to [register your project](../data-planning/project-registration.md) and what information is needed when you have been [recommended for funding.](../data-planning/project-registration.md)&#x20;
+Before submitting data to BCO-DMO, make sure to register your award and related project using our online **Submission Tool**. Find out how to [register your project](../data-planning/project-registration.md) and what information is needed when you have been [recommended for funding.](../data-planning/project-registration.md)&#x20;
 
 
 
@@ -27,7 +25,7 @@ Submitting data to BCO-DMO can also be done using the online **Submission Tool**
 1. **Descriptive Metadata:** A dataset needs to be accompanied by [**metadata**](metadata-for-datasets.md) for new users to be able to understand and reuse the datasets we hold.&#x20;
 2. **Data Files:** The **organization of the data** could vary depending on the data type. There is a distinction between [data tables](organizing-data-tables.md), [genetic accessions](genetic-accessions.md), and [Models & Code](software-and-code.md). We also have specific guidance for certain research programs or projects, such as [GEOTRACES](geotraces.md).
 
-Once you have submitted data through the Submission Tool, expect to receive a reply from a BCO-DMO Data Manager within 48-hours.&#x20;
+Once you have submitted data through the Submission Tool, expect to receive a reply from a BCO-DMO Data Manager within two business days.&#x20;
 
 If you have any questions or need help during the submission process, you can always email us: [info@bco-dmo.org](mailto:info@bco-dmo.org),
 
@@ -37,7 +35,7 @@ We strongly encourage you to **submit data at least one month in advance of any 
 
 **Collaborate**&#x20;
 
-After we receive your data and metadata, a data manager will begin the process of making the data available online. We strive to develop robust metadata that will ensure the data are easily discoverable and reusable. Your Data Manager will contact you with follow-up questions or requests for more information to ensure the metadata is complete. This may be an iterative process, so your patience and cooperation are greatly appreciated.
+After we accept your data and metadata, a BCO-DMO Data Manager will begin the process of making the data available online. We strive to develop robust metadata that will ensure data are easily discoverable and reusable. Your Data Manager will contact you with follow-up questions or requests for more information to ensure the metadata is complete. This may be an iterative process, so your patience and cooperation are greatly appreciated.
 
 **Validate/Approve**
 
