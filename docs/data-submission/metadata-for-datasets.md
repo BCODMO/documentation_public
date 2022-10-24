@@ -42,7 +42,7 @@ We also require details on how the data were processed, if relevant. Again, we c
 
 Deployments refer to cruises, moorings, or other types of instruments/vessels involved in data collection. We need the following information for each deployment associated with a dataset:
 
-* Name or ID of the deployment. Typically follows the ID assigned by ship operator.
+* Name or ID of the deployment. Typically follows the ID assigned by the ship operator.
 * Start and end date of the deployment
 * Chief Scientists of the deployment
 * The name of the platform/vessel
@@ -56,12 +56,12 @@ Please include the name and a description of all sampling equipment and instrume
 
 ### Parameters
 
-Parameter names are the column headers in tabular data. Please provide a description for each parameter, unites of measurement, and missing data identifiers (e.g. NaN, nd)
+Parameter names are the column headers in tabular data. Please provide a description for each parameter, units of measurement, and missing data identifiers (e.g. NaN, nd)
 
 ![Example of parameter descriptions needed to complete the dataset metadata.](<../.gitbook/assets/image (10) (1) (1).png>)
 
 ### Related items
 
-Is the data part of a bigger experiment and&#x20;
+Please include the full citations of any related publications, references, or related datasets. If you have supplemental files to provide, such as instrument calibration documents or a manual of laboratory procedures, please include those, too, preferably in PDF format (or with the citation and DOI if one is available).
 
 &#x20;
