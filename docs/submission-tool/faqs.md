@@ -45,7 +45,7 @@ The status of your submission will be displayed in the Submission Tool when you 
 
 If you have a dataset to submit that is greater than 100GB in total, please contact BCO-DMO in advance of your submission so we can help coordinate your file transfers ([info@bco-dmo.org](mailto:info@bco-dmo.org)).&#x20;
 
-When uploading files to the submission tool, we request that you **limit the size of any individual file to 10GB**. If you use the "Add folder" option to select a whole folder of files to upload, we also ask that no individual file with that folder exceeds 10GB.&#x20;
+When uploading files to the submission tool, we request that you **limit the size of any individual file to 10GB**. If you use the "Add folder" option to select a whole folder of files to upload, we also ask that no individual file within that folder exceeds 10GB.&#x20;
 
 The time it takes to upload larger files will vary depending on your internet connection. If you encounter any issues on the upload step, you should save your draft and contact [info@bco-dmo.org](mailto:info@bco-dmo.org) so we can help troubleshoot or determine another way to obtain your files.&#x20;
 
