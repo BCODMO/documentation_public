@@ -12,7 +12,7 @@ BCO-DMO wants to make it as easy as possible for researchers to submit their dat
 
 ### Position (location) data
 
-BCO-DMO serves latitude and longitude data as decimal degrees. North latitude and east longitude are represented by positive values, and south latitude and west longitude are represented by negative values. We will convert any latitude and longitude format to decimal degrees.
+BCO-DMO publishes latitude and longitude data as decimal degrees. North latitude and east longitude are represented by positive values, and south latitude and west longitude are represented by negative values. We will convert any latitude and longitude format to decimal degrees.
 
 **Quick guide for submitters**
 
@@ -88,7 +88,7 @@ Blank cells and zeros (0) hold different meanings within a dataset. Blank cells 
 
 Missing data may also be represented by nd, NaN, NA, -999, or other data flags. Whatever you used to denote missing data, be sure to document this as part of the dataset's metadata.
 
-BCO-DMO will change any values that represent "no data" to "nd" (minus the quotation marks). This will allow all "no data" cells in a data table to appear as blanks in the final data product we serve.&#x20;
+BCO-DMO will change any values that represent "no data" to "nd" (minus the quotation marks). This will allow all "no data" cells in a data table to appear as blanks in the final data product we publish.&#x20;
 
 "Bdl" is often used to denote values that are below detection. If you use this notation, document what the detection limits are as part of the metadata.&#x20;
 
@@ -99,7 +99,7 @@ BCO-DMO will change any values that represent "no data" to "nd" (minus the quota
 
 ### Ranges
 
-It is difficult to serve ranges of values within a single cell. If there are ranges, it is better to have two separate columns, one for each end of the range, such as depth\_min and depth\_max. This is because the ranges are interpreted as text and therefore cannot be plotted or easily manipulated. BCO-DMO will split merged cells across multiple columns if any exist in a dataset - this includes ranges.&#x20;
+It is difficult to process ranges of values within a single cell. If there are ranges, it is better to have two separate columns, one for each end of the range, such as depth\_min and depth\_max. This is because the ranges are interpreted as text and therefore cannot be plotted or easily manipulated. BCO-DMO will split merged cells across multiple columns if any exist in a dataset - this includes ranges.&#x20;
 
 **Quick guide for submitters**
 
