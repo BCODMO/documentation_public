@@ -41,11 +41,19 @@ The status of your submission will be displayed in the Submission Tool when you 
 * `Will Not Publish` = Your submission can’t be published. BCO-DMO will contact you by email with the reason we cannot publish your submission. Please contact us with questions or concerns.
 * `Complete` = There are no further tasks for this submission. Your metadata page has been published. Any restricted data will be made public on the release date you provided.
 
+## Can I upload a large dataset to the submission tool?
+
+If you have a dataset to submit that is greater than 100GB in total, please contact BCO-DMO in advance of your submission so we can help coordinate your file transfers ([info@bco-dmo.org](mailto:info@bco-dmo.org)).&#x20;
+
+When uploading files to the submission tool, we request that you **limit the size of any individual file to 10GB**. If you use the "Add folder" option to select a whole folder of files to upload, we also ask that no individual file with that folder exceeds 10GB.&#x20;
+
+The time it takes to upload larger files will vary depending on your internet connection. If you encounter any issues on the upload step, you should save your draft and contact [info@bco-dmo.org](mailto:info@bco-dmo.org) so we can help troubleshoot or determine another way to obtain your files.&#x20;
+
 ## My data is already in an online file share system. Can I submit that to you? (e.g. Dropbox, Google Drive)
 
 Yes, please complete your metadata entry using the Submission Tool and submit it. Then, email [info@bco-dmo.org](mailto:info@bco-dmo.org) with the link to your files. We will coordinate the file transfer with you by email and confirm we received everything you intended to submit.\
 \
-If you have more than 1 GB of files to submit and don't already have them in a file share, we can send you a Dropbox File Request so you can upload them. You don't need a Dropbox account to do that, and it won't count toward your Dropbox quota if you do have a Dropbox account.
+If you have more than 100 GB of files to submit and don't already have them in a file share, we can send you a Dropbox File Request so you can upload them. You don't need a Dropbox account to do that, and it won't count toward your Dropbox quota if you do have a Dropbox account.
 
 ## What do I do if I need help?
 

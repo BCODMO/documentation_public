@@ -90,7 +90,7 @@ Include whatever data is needed for reuse by your community. BCO-DMO data manage
 
 Your images and related data may become one or more "Datasets" at BCO-DMO depending upon the type of data and their structure.\
 \
-In some cases, it makes sense to have a dedicated dataset metadata page for the images themselves and a file inventory or collection information, which will have its own DOI. Associated data would be served from separate dataset metadata pages, each getting a DOI. A BCO-DMO Data Manager can help decide how to organize your data into metadata landing pages when you submit your data or when you reach out in advance of your submission.
+In some cases, it makes sense to have a dedicated dataset metadata page for the images themselves and a file inventory or collection information, which will have its own DOI. Associated data would be published from separate dataset metadata pages, each getting a DOI. A BCO-DMO Data Manager can help decide how to organize your data into metadata landing pages when you submit your data or when you reach out in advance of your submission.
 
 **ZooSCAN images and related data:**
 
