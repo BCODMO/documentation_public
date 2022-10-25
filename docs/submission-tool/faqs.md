@@ -55,17 +55,6 @@ Yes, please complete your metadata entry using the Submission Tool and submit it
 \
 If you have more than 100 GB of files to submit and don't already have them in a file share, we can send you a Dropbox File Request so you can upload them. You don't need a Dropbox account to do that, and it won't count toward your Dropbox quota if you do have a Dropbox account.
 
-## What do I do if I need help?
-
-To contact us, please send an email to [info@bco-dmo.org](mailto:info@bco-dmo.org) with any questions.\
-\
-If you can't submit your data using the submission tool, please submit your data and metadata forms (below) as attachments to [info@bco-dmo.org](mailto:info@bco-dmo.org).&#x20;
-
-* [PROJECT.rtf](https://www.bco-dmo.org/files/bcodmo/PROJECT.rtf) metadata form
-  * Please fill out a copy of this form for each project you would like to register with us.
-* [DATASET.rtf](https://www.bco-dmo.org/files/bcodmo/DATASET.rtf) metadata form
-  * Please fill out a copy of this metadata form for each Dataset you are submitting.
-
 ## Will submissions need to be restarted if I can't complete a submission in one session or if I lose wi-fi?
 
 Your submission will be saved as a draft each time you save and continue to the next section of the form. You can also save your submission as a draft if you click on the "Submit" tab and select the "Save as a draft" button.&#x20;
@@ -75,3 +64,16 @@ Your submission will be saved as a draft each time you save and continue to the 
 When a project or dataset submission is saved as a draft, the submitters and any other collaborators listed in the People section of the form will be able to view and edit submissions if they are logged in to the Submission Tool.&#x20;
 
 After a project is submitted, no further edits can be made unless it's in the state "Action Requested". In that state, any person listed in the People section of the form will be able to edit the submission after they log in to the tool. If you realize your submission needs edits and it's currently locked, email [info@bco-dmo.org.](mailto:info@bco-dmo.org)&#x20;
+
+## Is there another way to submit data or projects if I can't use the online tool?
+
+If you can't submit your data using the online submission tool, please send your data and completed metadata forms (below) as attachments to [info@bco-dmo.org](mailto:info@bco-dmo.org).&#x20;
+
+* [PROJECT.rtf](https://www.bco-dmo.org/files/bcodmo/PROJECT.rtf) metadata form
+  * Please fill out a copy of this form for each project you would like to register with us.
+* [DATASET.rtf](https://www.bco-dmo.org/files/bcodmo/DATASET.rtf) metadata form
+  * Please fill out a copy of this metadata form for each Dataset you are submitting.
+
+## What do I do if I need more help?
+
+To contact us, please send an email to [info@bco-dmo.org](mailto:info@bco-dmo.org) with any questions.
