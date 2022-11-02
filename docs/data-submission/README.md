@@ -31,6 +31,8 @@ If you have any questions or need help during the submission process, you can al
 
 We strongly encourage you to **submit data at least one month in advance of any pressing deadlines** (e.g. NSF reports, manuscript publication) to provide adequate data processing time.
 
+If you have trouble with the Submission Tool or don't have an ORCiD, you can submit data by email by filling out the [**Dataset** **Metadata Form**](https://www.bco-dmo.org/files/bcodmo/DATASET.rtf) (.rtf). The form and your data files can then be emailed to [info@bco-dmo.org](mailto:info@bco-dmo.org).
+
 ## The Curation Process
 
 **Collaborate**&#x20;
