@@ -10,6 +10,7 @@
 * [Data Submission](data-submission/README.md)
   * [Metadata for Datasets](data-submission/metadata-for-datasets.md)
   * [Organizing Data Tables](data-submission/organizing-data-tables.md)
+  * [Updating a Dataset](data-submission/updating-a-dataset.md)
   * [Genetic Accessions (Omics)](data-submission/genetic-accessions.md)
   * [Image/Video Datasets](data-submission/image-video-datasets.md)
   * [GEOTRACES Data](data-submission/geotraces.md)
