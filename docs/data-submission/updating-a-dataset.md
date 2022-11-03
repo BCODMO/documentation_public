@@ -4,11 +4,9 @@ description: How to provide an update or correction to a BCO-DMO dataset
 
 # Updating a Dataset
 
-**Note: this page is still being developed. Check back for updates!**
+We are currently working on a feature to make it easier for you to submit updates within the Submission Tool. Until that feature is available, please follow these instructions.
 
-****
-
-If you are submitting an update of an existing dataset published at BCO-DMO please email [info@bco-dmo.org](mailto:info@bco-dmo.org?subject=Dataset%20update) with the following information:
+If you are submitting an update/revision of an existing dataset published at BCO-DMO please email [info@bco-dmo.org](mailto:info@bco-dmo.org?subject=Dataset%20update) with the following information:
 
 * Provide the **Dataset Landing Page link** for the dataset you would like to update. _e.g. "Pore water Geochemistry"_ [_https://www.bco-dmo.org/dataset/813166_](https://www.bco-dmo.org/dataset/813166)
 * Provide a **brief description of what you'd like to change** and we will help you from there:
