@@ -1,5 +1,5 @@
 ---
-description: How register a research program at BCO-DMO
+description: How to register a research program at BCO-DMO
 ---
 
 # Program Registration
@@ -11,5 +11,4 @@ We think of a "program" as a large, coordinated research effort that usually enc
 * [U.S. GEOTRACES](https://www.bco-dmo.org/program/2022)
 * [Center for Dark Energy Biosphere Investigations (C-DEBI)](https://www.bco-dmo.org/program/554979)
 
-If you'd like to register a Program with BCO-DMO, please contact us at [info@bco-dmo.org](mailto:info@bco-dmo.org) with a description of the program, including how it's funded, and a copy of the program's Data Management Plan.
-
+If you'd like to register a Program with BCO-DMO, please contact us at [info@bco-dmo.org](mailto:info@bco-dmo.org) with a description of the program, including how it's funded, and a copy of the program's Data Management Plan.&#x20;
