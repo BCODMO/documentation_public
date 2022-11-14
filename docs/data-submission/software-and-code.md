@@ -36,50 +36,7 @@ For more information and examples, you can refer to "How to Write Good Documenta
   * If it is related code used to analyze (or plot) your dataset for a subsequent journal publication, state what version of the code was used for the journal publication.
 * Supply the settings and configurations used to produce your dataset.
   * Where applicable include the versions of installed packages.\
-    &#x20;e.g. `R version 3.4.1 (2017-06-30), packages;`` `_`vegan v2.5.4 (Oksanen et al. 2019), ggplot2 v3.2.1 (Wickham 2016).`_ See more examples below.&#x20;
-
-#### Citing Packages and Sofware Versions
-
-Provide the exact package and software version numbers you used to generate your data.  Where possible also provide the recommended citation for your software.
-
-Example of citing the language version:
-
-> These data were produced using code run with **R version 3.4.1 (2017-06-30)**.
-
-Example of software cited in methodology text:
-
-> _To understand the variability in microbial communities over time at all sites, Bray-Curtis dissimilarity was calculated between each sample in the R package **vegan v2.5.4 (Oksanen et al. 2019)** and illustrated using non-metric multidimensional scaling (NMDS) in the R package, **ggplot2 v3.2.1 (Wickham 2016)**._
-
-* From the dataset "Tidal study of seawater microbial communities" [https://www.bco-dmo.org/dataset/783679](https://www.bco-dmo.org/dataset/783679) which lists the following references:
-
-> Wickham H (2016). ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York. ISBN 978-3-319-24277-4, https://ggplot2.tidyverse.org. [https://doi.org/10.1007/978-3-319-24277-4](https://doi.org/10.1007/978-3-319-24277-4)
->
-> Oksanen J, Blanchet FG, Friendly M, Kindt R, Legendre P, McGlinn D, Minchin PR, O’Hara RB, Simpson GL, Solymos P, Stevens HH, Szoecs E, Wagner H (2019) Vegan: Community Ecology Package. R package version 25-4. https://cran.r-project.org/package=vegan [https://cran.r-project.org/src/contrib/Archive/vegan/vegan\_2.5-4.tar.gz](https://cran.r-project.org/src/contrib/Archive/vegan/vegan\_2.5-4.tar.gz)
-
-{% hint style="info" %}
-Note that the reference for ggplot2 doesn't include the version.  But the methods text does include the exact version number that was used to produce the dataset.
-{% endhint %}
-
-#### Getting versions in python
-
-#### Getting versions in python
-
-#### Getting versions in matlab
-
-You can get the [version of matlab](https://www.mathworks.com/help/matlab/ref/version.html) you are using with the command:
-
-```matlab
-version
-```
-
-```
-ans = 
-'9.13.0.2049777 (R2022b)'
-```
-
-You can get the versions of your installed packages in your Matlab Library with:
-
-
+    &#x20;e.g. `R version 3.4.1 (2017-06-30), packages;`` `_`vegan v2.5.4 (Oksanen et al. 2019), ggplot2 v3.2.1 (Wickham 2016).`_&#x20;
 
 #### Making code citable
 
