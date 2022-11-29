@@ -243,7 +243,7 @@ If you'd prefer to provide your parameter descriptions in a separate file, pleas
 
 To upload a file, click the "+ Add File" button and then select the file you want to upload. After you select a file, its name will be displayed and you can enter an optional (but recommended) description of what the file is. This description will help your data manager understand your files.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>screenshot of file upload</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>screenshot of file upload</p></figcaption></figure>
 
 Once you confirm the correct file has been selected and you've entered a description, click the blue-green "Upload" button to upload that file. A progress bar will be displayed as it uploads and then the file name, size, and date will be displayed:
 
