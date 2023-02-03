@@ -23,7 +23,7 @@ description: How to register a project at BCO-DMO
 * All award numbers
 * If the project has been recommended for funding but is not yet funded, please also provide a project description or summary.
 
-3\. **Register** your project using our online submission tool ([submit.bco-dmo.org](https://submit.bco-dmo.org/)). Instructions for using the tool for project registration can be found in the "[Registering a Project](../submission-tool/registering-a-project.md)" section of the Submission Tool Guidance. You can expect to receive a reply within 48 hours (two business days). You can always contact us at [**info@bco-dmo.org**](mailto:info@bco-dmo.org) **** with questions.&#x20;
+3\. **Register** your project using our online submission tool ([submit.bco-dmo.org](https://submit.bco-dmo.org/)). Instructions for using the tool for project registration can be found in the "[Registering a Project](../contribute/registering-a-project.md)" section of the Submission Tool Guidance. You can expect to receive a reply within 48 hours (two business days). You can always contact us at [**info@bco-dmo.org**](mailto:info@bco-dmo.org) **** with questions.&#x20;
 
 If you have trouble with the Submission Tool or don't have an ORCiD, you can register your project by email by filling out the [**Project Metadata Form**](https://www.bco-dmo.org/objectserver/602052e395a3676313bf7277f6ff1fd7/PROJECT.rtf?url=http%3A%2F%2Fwww.bco-dmo.org%2Ffiles%2Fbcodmo%2FPROJECT.rtf\&f=3837363762316263306364353835313433353064633965333238386331653533687474703a2f2f7777772e62636f2d646d6f2e6f72672f66696c65732f62636f646d6f2f50524f4a4543542e727466) (.rtf). The form and your DMP can then be emailed to [info@bco-dmo.org](mailto:info@bco-dmo.org).
 
