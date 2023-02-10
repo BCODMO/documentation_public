@@ -15,7 +15,7 @@
   * [Large Data Files](data-guidance/large-data-files.md)
 * [Contribute](contribute/README.md)
   * [Program Registration](contribute/program-registration.md)
-  * [Project Registration](contribute/project-registration.md)
+  * [Project Registration (use for forms description)](contribute/project-registration-use-for-forms-description.md)
   * [Logging in with ORCiD](contribute/logging-in-with-orcid.md)
   * [Registering a Project](contribute/registering-a-project.md)
   * [Contributing Data via Submission Tool](contribute/contributing-data-via-submission-tool.md)
