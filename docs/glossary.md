@@ -32,7 +32,7 @@ _**This page is still under construction!**_
 
 **ERDDAP**: ERDDAP is a data server that provides a simple, consistent way to download subsets of scientific datasets in common file formats. Many different organizations and data repositories use ERDDAP to distribute data. BCO-DMO's ERDDAP can be found at [https://erddap.bco-dmo.org/erddap/index.html](https://erddap.bco-dmo.org/erddap/index.html).&#x20;
 
-**FAIR Data Principles:** Guiding principles for making digital assets Findable, Accessible, Interoperable, and Reusable. Find more information [here](education/open-fair-data.md).
+**FAIR Data Principles:** Guiding principles for making digital assets Findable, Accessible, Interoperable, and Reusable. Find more information [here](education-and-training/open-fair-data.md).
 
 **File Format:** The structure of your file. Note that the extension may not completely describe the structure within your file. For example, a .txt file can contain any ASCII text whether it is a comma, tab, or space-delimited dataset.
 
