@@ -2,7 +2,7 @@
 description: How to submit data to BCO-DMO using the online Submission Tool.
 ---
 
-# Submitting Data
+# Submitting Data with Submission Tool
 
 ## How to Submit Data
 

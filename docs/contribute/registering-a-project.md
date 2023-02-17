@@ -2,7 +2,7 @@
 description: How to register a project using the Submission Tool.
 ---
 
-# Registering a Project
+# Registering a Project with Submission Tool
 
 ## Video Demonstration
 

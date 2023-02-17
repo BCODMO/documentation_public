@@ -90,7 +90,8 @@ If you have a lot of installed packages you can supply a supplemental file with 
 To print the R version associated with a project in RStudio:
 
 <pre><code><strong>> R.version.string
-</strong>[1] "R version 4.1.0 (2021-05-18)"</code></pre>
+</strong>[1] "R version 4.1.0 (2021-05-18)"
+</code></pre>
 
 To get the version of a package you imported (dplyr is the name of an example package) :
 
@@ -115,7 +116,8 @@ askpass        1.1
 assertthat      0.2.1     
 backports      1.2.1     
 base64enc      0.1-3            
-BH   1.75.0-0</code></pre>
+BH   1.75.0-0
+</code></pre>
 
 To print all high-level system information in RStudio:
 
@@ -162,7 +164,8 @@ To get your python version using command line:
 </strong>Python 3.10.6
 <strong>or
 </strong><strong>$ python --version
-</strong><strong>Python 2.7.18</strong></code></pre>
+</strong><strong>Python 2.7.18
+</strong></code></pre>
 
 To get your python version from within a notebook (jupyter, colab, etc)<img src="../.gitbook/assets/image (3).png" alt="" data-size="original">
 
@@ -180,7 +183,8 @@ There are several ways to get all package versions in your environment.  See pip
 
 You can get the version of matlab and installed packages with [the command `ver`](https://www.mathworks.com/help/matlab/ref/ver.html):
 
-<pre class="language-matlab"><code class="lang-matlab"><strong>ver</strong></code></pre>
+<pre class="language-matlab"><code class="lang-matlab"><strong>ver
+</strong></code></pre>
 
 ```
 ans = 

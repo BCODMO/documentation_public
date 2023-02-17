@@ -2,7 +2,7 @@
 description: Organize data within a spreadsheet for inclusion in the BCO-DMO data system.
 ---
 
-# Organizing Data Tables
+# Data Tables Organization
 
 This page offers some suggestions on how to organize data within a spreadsheet for inclusion in the BCO-DMO data system. We will accept your data in whatever form and format you provide, but we may make requests related to how data tables are structured so data are compliant with our system and with FAIR data principles.&#x20;
 
