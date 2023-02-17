@@ -6,7 +6,7 @@ Sequence data are best served by a disciplinary repository, such as the [Nationa
 
 If you have metadata and additional data related to your genetic accessions (collection date, latitude, longitude, taxon names, treatment descriptions, environmental measurements, etc.), please submit them to us along with any relevant accession numbers (e.g. BioSample, SRA run id, etc). Note that submitting your accession numbers and related data in a tabular format (e.g. Excel, comma- or tab-delimited) will expedite our processing of your data. We will then create a Dataset Landing Page at BCO-DMO which is linked to your Project Page.
 
-To submit accessions and related data, use our online Submission Tool at [https://submit.bco-dmo.org/](https://submit.bco-dmo.org/) to enter your metadata and upload data files. See the "[Submitting Data](../contribute/contributing-data-via-submission-tool.md)" page for more information on using the Submission Tool.
+To submit accessions and related data, use our online Submission Tool at [https://submit.bco-dmo.org/](https://submit.bco-dmo.org/) to enter your metadata and upload data files. See the "[Submitting Data](../contribute/submitting-data-with-submission-tool.md)" page for more information on using the Submission Tool.
 
 (If you cannot use the online submission tool, you can complete the [DATASET.rtf](https://www.bco-dmo.org/files/bcodmo/DATASET.rtf) metadata form and send it to [info@bco-dmo.org](mailto:info@bco-dmo.org) along with any relevant data files.)
 

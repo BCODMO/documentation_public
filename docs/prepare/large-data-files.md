@@ -6,11 +6,11 @@ If you have or plan to acquire a dataset greater than 100GB, please contact BCO-
 Note that you can upload entire folders of files to our Submission Tool's files section. However, we request that you limit the size of any individual file to 10GB.
 {% endhint %}
 
-When you are ready to submit data to us, create a "Data Submission" using our [Submission Tool](../contribute/contributing-data-via-submission-tool.md), completing all the required metadata fields and uploading files in the "Files" section.&#x20;
+When you are ready to submit data to us, create a "Data Submission" using our [Submission Tool](../contribute/submitting-data-with-submission-tool.md), completing all the required metadata fields and uploading files in the "Files" section.&#x20;
 
 If your data are too large to upload using a web browser, we can coordinate a file transfer with you using a Dropbox file request from our account, or if you already have your files in an online fileshare (Google Drive, Globus, Box, etc.), you can provide the link.\
 \
-If submitting files from an online fileshare, proceed with filling in the appropriate metadata by creating a dataset submission in the [Submission Tool](../contribute/contributing-data-via-submission-tool.md).  You may skip the "Files" section of the form, and instead include a description of the data you have to send us in the comment box on the last page of the form ("Submit" page).   We will email you to coordinate the file transfer.
+If submitting files from an online fileshare, proceed with filling in the appropriate metadata by creating a dataset submission in the [Submission Tool](../contribute/submitting-data-with-submission-tool.md).  You may skip the "Files" section of the form, and instead include a description of the data you have to send us in the comment box on the last page of the form ("Submit" page).   We will email you to coordinate the file transfer.
 
 We will copy the files and send you a file inventory of what we downloaded so you can confirm we have everything you intended to submit.  Alternatively, we can send you a link to upload files to BCO-DMO's Dropbox account if you prefer this transfer method.
 

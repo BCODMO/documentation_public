@@ -1,35 +1,8 @@
-# Find a Fitting Repository
+---
+description: Is BCO-DMO the right repository for your data?
+---
 
-## Determining an appropriate repository for your research output
-
-Data and related information generated from federally-funded research are expected to be shared publicly in a manner that enables reuse. Many digital data repositories exist throughout the world to steward and provision research output. They can be highly specialized, focusing on a particular type of data or scientific discipline, or they can be more general, accepting a wide variety of research output from literature to data and software from any discipline. Curated registries of research repositories such as the Registry of Research Data Repositories ([Re3data.org](https://www.re3data.org/)) and [FAIRsharing.org](https://fairsharing.org/) can help determine a suitable repository for sharing your data and software.
-
-### Repository types
-
-Repositories are often categorized into three basic types based upon curation effort and disciplinary expertise:
-
-1. Domain-specific repository
-2. Institutional repositories
-3. General repositories
-
-**General repositories** typically curate data from a wide variety of disciplines to provide discovery and access to heterogeneous types of data. **Institutional repositories** are usually affiliated with a particular academic institution and may reside within the institutional library system. These repositories may be more familiar with the types of research conducted at an institution.
-
-**Domain-specific repositories** possess disciplinary knowledge along with information management skills and are often closely tied to their research community. They can apply quality controls, create robust metadata enabling discovery and reuse, document provenance, and apply harmonization techniques that improve data interoperability. Their curation activities collectively ensure that data are **F**indable, **A**ccessible, **R**eusable and **I**nteroperable, or **FAIR**.
-
-
-
-![Increased curation activities performed by domain specific repositories lead to F.A.I.R data](<../.gitbook/assets/image (5) (1) (1) (2).png>)
-
-~~~~
-
-
-
-When considering possible repositories, you may want to include the following criteria in your decision:&#x20;
-
-1. **Funder requirements**: Does your funding organization or agency have specific repository requirements?
-2. **Type of data**: Is there a domain repository that your research community uses for the type of data your project has produced?
-3. **Publisher requirements**: Scholarly publishers now require data to cited with a DOI and may have a preferred repository list for author use. It is important to be aware of any journal-specific requirements for data deposition and citation _prior to submitting manuscripts_. If a journal is flexible, look for a domain repository that provides robust curation necessary for peer review, before seeking a more general one.&#x20;
-4. **Repository certification**: The sheer number of research data repositories coupled with high variability in curation services can make it difficult to select an appropriate facility. Third-party assessment of repository capabilities and services can assist in the process. A repository that has successfully completed a certification process such as [CoreTrustSeal](https://www.coretrustseal.org/), is known to employ trustworthy data curation practices.
+# Can I Contribute?
 
 ## Data types served by BCO-DMO
 
