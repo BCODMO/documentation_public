@@ -5,7 +5,7 @@
   * [Data Management Plan](data-planning/data\_management\_plan.md)
   * [What is a Dataset?](data-planning/what-is-a-dataset.md)
   * [Metadata for Datasets](data-guidance/metadata-for-datasets.md)
-  * [Data Tables Organization](data-guidance/organizing-data-tables.md)
+  * [Data Table Organization](data-guidance/organizing-data-tables.md)
   * [Genetic Accessions (Omics)](data-guidance/genetic-accessions.md)
   * [Image/Video Datasets](data-guidance/image-video-datasets.md)
   * [GEOTRACES Data](data-guidance/geotraces.md)
