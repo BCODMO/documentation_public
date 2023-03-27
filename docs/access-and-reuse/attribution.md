@@ -1,3 +1,7 @@
+---
+description: BCO-DMO Data Citations, Ownership, and Terms and Conditions for Website Use
+---
+
 # Attribution
 
 Also published at [https://www.bco-dmo.org/terms-use](https://www.bco-dmo.org/terms-use)
