@@ -19,7 +19,7 @@ All datasets and associated information are licensed under a [Creative Commons A
 
 The licensor cannot revoke these freedoms as long as you follow the license terms.
 
-&#x20;**Under the following terms:**
+**Under the following terms:**
 
 **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
@@ -27,10 +27,10 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ## Dataset citation
 
-Data set citation should include these key components:\
+Data set citations should include these key components:\
 Principal Investigator (PI) name(s) (VERSION YEAR) title of dataset, data version date, publisher or distributor, date accessed/retrieved by you, DOI or URL of the data set
 
-**Example Data Set Citations:**
+**Example Dataset Citations:**
 
 Buesseler, K. (2006) "VERTIGO Cruise Event Log." Biological and Chemical Oceanography Data Management Office (BCO-DMO). Dataset version: 5 September 2006. [http://www.bco-dmo.org/dataset/2957](http://www.bco-dmo.org/dataset/2957) \[access date]
 
@@ -38,12 +38,10 @@ Twining, B. (2016). “Element Quotas of Individual Synechococcus Cells Collecte
 
 ## More information on datasets
 
-BCO-DMO recommends that you contact the original principal investigator (PI) should you require additional information about the data beyond what is available on this site. In the event that the data originator is not available, please contact BCO-DMO ([info@bco-dmo.org](mailto:info@bco-dmo.org)) for guidance.&#x20;
+BCO-DMO recommends that you contact the original principal investigator (PI) should you require additional information about the data beyond what is available on our website. In the event the data originator is not available, please contact BCO-DMO ([info@bco-dmo.org](mailto:info@bco-dmo.org)) for guidance.&#x20;
 
 ## **No Warranty:**
 
-&#x20;All materials on this Website are made available to BCO-DMO and in turn to you as-is. There is no warranty, expressed or implied, to these materials, their title, accuracy, non-infringement of third party rights, or fitness for any particular purpose, or the performance or results you may obtain from their use.
-
-****
+All materials on this website are made available to BCO-DMO and in turn to you as-is. There is no warranty, expressed or implied, to these materials, their title, accuracy, non-infringement of third party rights, or fitness for any particular purpose, or the performance or results you may obtain from their use.
 
 ****
