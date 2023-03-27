@@ -1,3 +1,7 @@
+---
+description: Guidance on submitting large data files to BCO-DMO.
+---
+
 # Large Data Files
 
 If you have or plan to acquire a dataset greater than 100GB, please contact BCO-DMO in advance of your submission so we can help coordinate your file transfers ([info@bco-dmo.org](mailto:info@bco-dmo.org)).
