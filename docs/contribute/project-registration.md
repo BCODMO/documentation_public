@@ -2,7 +2,7 @@
 description: How to register a project at BCO-DMO
 ---
 
-# Project Registration (use for forms description)
+# Project Registration
 
 ## What is an NSF Project?
 
