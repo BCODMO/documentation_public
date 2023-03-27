@@ -13,7 +13,7 @@
   * [Large Data Files](data-guidance/large-data-files.md)
 * [Contribute](contribute/README.md)
   * [Can I Contribute?](data-planning/find-a-fitting-repository.md)
-  * [Project Registration (use for forms description)](contribute/project-registration-use-for-forms-description.md)
+  * [Project Registration](contribute/project-registration.md)
   * [Registering a Project with Submission Tool](contribute/registering-a-project.md)
   * [Program Registration](contribute/program-registration.md)
   * [Submitting Data with Submission Tool](contribute/contributing-data-via-submission-tool.md)

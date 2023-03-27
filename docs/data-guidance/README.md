@@ -14,7 +14,7 @@ We provide **data management and curation services** free of charge to investiga
 
 **Register your award and related project**
 
-Before submitting data to BCO-DMO, make sure to register your award and related project using our online **Submission Tool**. Find out how to [register your project](../contribute/project-registration-use-for-forms-description.md) and what information is needed when you have been [recommended for funding.](../contribute/project-registration-use-for-forms-description.md)&#x20;
+Before submitting data to BCO-DMO, make sure to register your award and related project using our online **Submission Tool**. Find out how to [register your project](../contribute/project-registration.md) and what information is needed when you have been [recommended for funding.](../contribute/project-registration.md)&#x20;
 
 
 
