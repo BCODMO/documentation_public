@@ -1,3 +1,7 @@
+---
+description: Guidance on how to prepare your project's Data Management Plan.
+---
+
 # Data Management Plan
 
 ## What is a data management plan?

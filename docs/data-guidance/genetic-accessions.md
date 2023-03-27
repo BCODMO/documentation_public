@@ -1,3 +1,9 @@
+---
+description: >-
+  Guidance for submitting genetic accession numbers and other types of "Omics"
+  data.
+---
+
 # Genetic Accessions (Omics)
 
 ## Contributing Genetic Accessions (omics) <a href="#page-title" id="page-title"></a>
