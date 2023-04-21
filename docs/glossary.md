@@ -24,7 +24,7 @@ _**This page is still under construction!**_
 
 **Dataset Authors:** individuals who have contributed to the dataset and will be included in the citation for the dataset
 
-**Dataset Metadata Page**: **** A BCO-DMO Dataset Metadata Page (sometimes referred to as a "Dataset Landing Page") displays all of the descriptive metadata associated with a dataset, such as title, PIs, methods, instruments, and parameter definitions. The Metadata Page also provides access to data files and any associated supplemental files.&#x20;
+**Dataset Metadata Page**: A BCO-DMO Dataset Metadata Page (sometimes referred to as a "Dataset Landing Page") displays all of the descriptive metadata associated with a dataset, such as title, PIs, methods, instruments, and parameter definitions. The Metadata Page also provides access to data files and any associated supplemental files.&#x20;
 
 **Deployments:**
 
@@ -74,19 +74,19 @@ Submission Status:
 
 ## **Acronyms**
 
-**BCO-DMO**: **** Biological and Chemical Oceanography Data Management Office
+**BCO-DMO**: Biological and Chemical Oceanography Data Management Office
 
 **DMP**: Data Management Plan
 
 **DOI**: Digital Object Identifier&#x20;
 
-**ERDDAP**: **** "ERDDAP" used to be an acronym, but it outgrew that original description. Now, please just think of it as a name, not an acronym.
+**ERDDAP**: "ERDDAP" used to be an acronym, but it outgrew that original description. Now, please just think of it as a name, not an acronym.
 
 **FAIR**: Findable, Accessible, Interoperable, Reusable
 
 **GMBF**: Gordon and Betty Moore Foundation
 
-**NSF**: **** National Science Foundation
+**NSF**: National Science Foundation
 
 **OCE**: The National Science Foundation's Division of Ocean Sciences
 
@@ -94,7 +94,7 @@ Submission Status:
 
 * May also refer to the Ocean Protein Portal ([https://www.oceanproteinportal.org/](https://www.oceanproteinportal.org/))
 
-**ORCID**: ORCID, which stands for Open Researcher and Contributor ID, **** is a global, not-for-profit organization that provides a unique, persistent identifier for individuals. An **ORCID iD** is an identifier assigned to an individual. At BCO-DMO, you'll need to have an ORCID iD to use our online submission tool. To learn more about the benefits of having an ORCID iD, visit [https://info.orcid.org/benefits-for-researchers/](https://info.orcid.org/benefits-for-researchers/).&#x20;
+**ORCID**: ORCID, which stands for Open Researcher and Contributor ID, is a global, not-for-profit organization that provides a unique, persistent identifier for individuals. An **ORCID iD** is an identifier assigned to an individual. At BCO-DMO, you'll need to have an ORCID iD to use our online submission tool. To learn more about the benefits of having an ORCID iD, visit [https://info.orcid.org/benefits-for-researchers/](https://info.orcid.org/benefits-for-researchers/).&#x20;
 
 **R2R**: Rolling Deck to Repository ([https://www.rvdata.us/](https://www.rvdata.us/)). R2R provides preservation and distribution of the environmental sensor data routinely acquired on expeditions of the U.S. academic research fleet.
 

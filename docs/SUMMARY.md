@@ -36,4 +36,4 @@
   * [BCO-DMO Workshops](education-and-training/workshops.md)
   * [Other Courses](education-and-training/other-courses.md)
 * [Glossary](glossary.md)
-* [FAQs](contribute/faqs.md)
+* [Submission Tool FAQs](submission-tool-faqs.md)

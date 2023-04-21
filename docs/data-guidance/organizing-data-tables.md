@@ -2,7 +2,7 @@
 description: Organize data within a spreadsheet for inclusion in the BCO-DMO data system.
 ---
 
-# Data Tables Organization
+# Data Table Organization
 
 This page offers some suggestions on how to organize data within a spreadsheet for inclusion in the BCO-DMO data system. We will accept your data in whatever form and format you provide, but we may make requests related to how data tables are structured so data are compliant with our system and with FAIR data principles.&#x20;
 
@@ -46,7 +46,7 @@ Some like to provide date and time information as a single value, starting at so
 
 **Additional Details about UTC and GMT**
 
-Coordinated Universal Time (**UTC**) is used as the official world reference for time. **** UTC replaced the use of Greenwich Mean Time (**GMT**) in 1972. You will sometimes see time zones represented as UTC-5h or GMT-5h. In this example, the (-5h) refers to that time zone being five hours behind UTC. UTC+5h or GMT+5h would refer to that time zone being five hours ahead of UTC or GMT.
+Coordinated Universal Time (**UTC**) is used as the official world reference for time. UTC replaced the use of Greenwich Mean Time (**GMT**) in 1972. You will sometimes see time zones represented as UTC-5h or GMT-5h. In this example, the (-5h) refers to that time zone being five hours behind UTC. UTC+5h or GMT+5h would refer to that time zone being five hours ahead of UTC or GMT.
 
 UTC and GMT both typically display time using a twenty-four-hour clock and are based on the 0° longitude meridian, referred to as the Greenwich meridian in Greenwich, England.
 
@@ -116,7 +116,7 @@ Units should not appear in a data cell, (e.g., "0.5 knots"). The cell should con
 
 ### Comments
 
-Comments **** should appear in a separate column and not be part of data values. For example, if the following cell value existed in a column titled, "Wire\_Out," this would be impossible to treat as a numeric value and difficult to reuse for future analysis.
+Comments should appear in a separate column and not be part of data values. For example, if the following cell value existed in a column titled, "Wire\_Out," this would be impossible to treat as a numeric value and difficult to reuse for future analysis.
 
 &#x20;                                          "350 m, towed between Mound 11 and 12"
 

@@ -44,4 +44,3 @@ The first deadline for the submission of datasets to guarantee inclusion in IDP2
 
 The final deadline for submission of datasets is the 15th of December 2020. After that date, data will **not** be included IDP2021. Any dataset submitted between 15 May and 15 December will be included in the IDP if time allows.
 
-****

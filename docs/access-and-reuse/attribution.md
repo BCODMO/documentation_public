@@ -44,4 +44,3 @@ BCO-DMO recommends that you contact the original principal investigator (PI) sho
 
 All materials on this website are made available to BCO-DMO and in turn to you as-is. There is no warranty, expressed or implied, to these materials, their title, accuracy, non-infringement of third party rights, or fitness for any particular purpose, or the performance or results you may obtain from their use.
 
-****

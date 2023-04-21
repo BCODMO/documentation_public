@@ -273,7 +273,7 @@ If you need to remove a file for any reason, you can click the red trash can ico
 
 **Instructions:** On this screen, you can submit your dataset to BCO-DMO or save it as a draft. You'll also see a box where you can enter other information, comments, questions, etc. for a BCO-DMO data manager.&#x20;
 
-****
+
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>screenshot of the Submit page</p></figcaption></figure>
 
