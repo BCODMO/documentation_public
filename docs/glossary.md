@@ -20,7 +20,7 @@ _**This page is still under construction!**_
 
 **Data Package**:
 
-**Dataset:** "Dataset" can mean different things in different contexts, but in the context of a BCO-DMO dataset submission, or a dataset associated with a metadata landing page, a dataset is a singular collection of observation level data. In the case of tabular or spreadsheet data, this would be one data table in a single spreadsheet. Contrastly, multiple spreadsheet tabs in an Excel file would consitute multiple data tables (unless they could be merged). In the case of images...
+**Dataset:** "Dataset" can mean different things in different contexts, but in the context of a BCO-DMO dataset submission, or a dataset associated with a metadata landing page, a dataset is a singular collection of observation-level data. In the case of tabular or spreadsheet data, this would be one data table in a single spreadsheet. Contrastingly, multiple spreadsheet tabs in an Excel file would constitute multiple data tables (unless they could be merged). In the case of images, a dataset may be composed of a set of images collected within the context of a study, experiment, or instrument deployment.&#x20;
 
 **Dataset Authors:** individuals who have contributed to the dataset and will be included in the citation for the dataset
 
