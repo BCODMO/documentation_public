@@ -26,9 +26,9 @@ _**This page is still under construction!**_
 
 **Dataset Metadata Page**: A BCO-DMO Dataset Metadata Page (sometimes referred to as a "Dataset Landing Page") displays all of the descriptive metadata associated with a dataset, such as title, PIs, methods, instruments, and parameter definitions. The Metadata Page also provides access to data files and any associated supplemental files.&#x20;
 
-**Deployments:**
+**Deployments:** BCO-DMO uses the term "deployment" typically to refer to research cruises or the deployment of a platform (e.g. HOV, mooring) in the field.&#x20;
 
-**Deprecated**: In terms of software or programming, "deprecated" refers to a software or programming language feature that is tolerated or supported, but not recommended. Similarly, at BCO-DMO a dataset that is "deprecated" has been superseded by another version. The deprecated dataset is not necessarily erroneous, unless indicated otherwise, but its use is not recommended.&#x20;
+**Deprecated**: In terms of software or programming, "deprecated" refers to a software or programming language feature that is tolerated or supported, but not recommended. Similarly, at BCO-DMO a dataset that is "deprecated" has been superseded by another version. The deprecated dataset is not necessarily erroneous unless indicated otherwise, but its use is not recommended.&#x20;
 
 **ERDDAP**: ERDDAP is a data server that provides a simple, consistent way to download subsets of scientific datasets in common file formats. Many different organizations and data repositories use ERDDAP to distribute data. BCO-DMO's ERDDAP can be found at [https://erddap.bco-dmo.org/erddap/index.html](https://erddap.bco-dmo.org/erddap/index.html).&#x20;
 
@@ -38,29 +38,29 @@ _**This page is still under construction!**_
 
 **File Group:** Multiple data files that comprise one dataset. The files contain the same type of data and are formatted the same. If applicable, these files can be combined into one data table after submission.
 
-**Metadata**:&#x20;
+**Metadata**: Metadata can be thought of as "data about data". Metadata is the documentation that accompanies data. For BCO-DMO datasets, metadata fields include a description of acquisition and processing methods, instruments used, column descriptions, funding awards, and investigators, among others.
 
 **Metadata Forms (.rtf):** Metadata Forms in .rtf format are available as an alternative to our Submission Tool. These forms are downloadable and fillable offline. The Dataset Metadata Form should be filled out when submitting data. The Project Metadata Form should be filled out when registering a project.&#x20;
 
-**Parameters:**
+**Parameters:** BCO-DMO typically uses the term "parameter" interchangeably with "column name" or "column header". Parameters are the measurements reported in a dataset.
 
-Platforms:
+**Platforms:**
 
-Program:
+**Program:**
 
 **Project Page:** A BCO-DMO Project Page (sometimes referred to as a "Project Landing Page") displays all of the descriptive metadata associated with a project, such as the start and end dates, project summary, and funding awards. The Project Page also provides access to the Dataset Metadata Pages of those datasets associated with the project.
 
-Project Registration:
+**Project Registration:** the process of setting up a BCO-DMO project page.&#x20;
 
-**.rtf:** a file extension for rich text format files. By default, your system may open an .rtf file in a plain text editor. If that is the case, you can right click to open the file in Microsoft Word, which may enable you to see and edit the formatting of this file more easily.
+**.rtf:** a file extension for rich text format files. By default, your system may open an .rtf file in a plain text editor. If that is the case, you can right-click to open the file in Microsoft Word, which may enable you to see and edit the formatting of this file more easily.
 
 **Restricted**: BCO-DMO's dataset landing pages display a "Restricted" field denoting the availability of the dataset. "No" means the data are or will be publicly available. "Yes" means the data are restricted and will not be published or shared publicly before the release date specified by the data submitter. The term "embargoed data" is often used interchangeably with "restricted data".&#x20;
 
 **LSID**: Life Sciences Identifier "persistent, location-independent, resource identifiers for uniquely naming biologically significant resources" from Object Management Group: Life Sciences Identifiers final adopted specification. [OMG Document dtc/04-05-01. 2004](https://www.omg.org/cgi-bin/doc?dtc/04-05-01)
 
-Tabular Data (or Data Tables)
+**Tabular Data (or Data Tables):**
 
-Submission Status:
+**Submission Status:** Refer to our [Submission Tool FAQs](https://bcodmo.gitbook.io/how-to/submission-tool-faqs#what-does-the-submission-status-mean) for a description of each status.
 
 **Submission Tool:** BCO-DMO's Submission Tool, found at [https://submit.bco-dmo.org/](https://submit.bco-dmo.org/), is an online tool that allows users to submit datasets to and register projects with BCO-DMO. If you'd prefer to email your submission to BCO-DMO, use our downloadable Metadata Forms (.rtf) instead. The downloadable, fillable forms can be found on our website at [https://www.bco-dmo.org/how-get-started](https://www.bco-dmo.org/how-get-started).&#x20;
 
