@@ -6,11 +6,11 @@ description: Instructions on contributing model output, software, and code to BC
 
 ## Submitting Models, Software, and Code <a href="#page-title" id="page-title"></a>
 
-If you have code or software you developed as part of your project, we can publish it from a supplemental files section of relevant Dataset Metadata Pages. If your code has already been documented and archived (e.g. citable with a Zenodo DOI), we can link to it as a Related Publication from your Dataset Landing Page. &#x20;
+If you have code or software you developed as part of your project, we can publish it from the Supplemental Files section of relevant Dataset Metadata pages. If your code has already been documented and archived (e.g. citable with a Zenodo DOI), we can link to it as a Related Publication from your Dataset Landing Page. &#x20;
 
 Check your funding agency's requirements for making your code public. If you were funded by NSF's OCE division you are required to make your code public within two years of developing it.
 
-You can send us your code any way you choose, whether by attaching files to an email, uploading them to the submission tool ([https://submit.bco-dmo.org/](https://submit.bco-dmo.org/)), sending us a repository link (e.g. github), or sending us a Zenodo DOI.
+You can send us your code any way you choose, whether by attaching files to an email, uploading them to the submission tool ([https://submit.bco-dmo.org/](https://submit.bco-dmo.org/)), sending us a repository link (e.g. GitHub), or sending us a Zenodo DOI.
 
 Code and software should be documented and commented to an extent that it is understandable to others. Full reproducibility isn't always possible but you should include enough detail that someone could follow along with what was done and be able to understand how it works and how the results were produced. The goal is transparency and transferable knowledge. The knowledge gained and techniques employed should be reproducible even if the exact workflow can't be.
 
@@ -18,11 +18,11 @@ Code and software should be documented and commented to an extent that it is und
 
 We do not require you to get a DOI for your code before submitting to BCO-DMO. However, if you would like to make your code persistent and citable you can archive your code using Zenodo.  You will then have a DOI and formal citation for your code. &#x20;
 
-You can upload your files directly to Zenodo or link your GitHub repository if you have one. Here is information on how to do that if you have your code in a GitHub repository: "Making Your Code Citable" [https://guides.github.com/activities/citable-code/](https://guides.github.com/activities/citable-code/).  Make sure to pay attention to the part of the guidance that explains to link Zenodo to your GitHub repository before making a Github release. &#x20;
+You can upload your files directly to Zenodo or link your GitHub repository if you have one. Here is information on how to do that if you have your code in a GitHub repository: "Making Your Code Citable" [https://guides.github.com/activities/citable-code/](https://guides.github.com/activities/citable-code/).  Make sure to pay attention to the part of the guidance that explains to link Zenodo to your GitHub repository before making a GitHub release. &#x20;
 
-Examples of Github releases archived at Zenodo:
+Examples of GitHub releases archived at Zenodo:
 
-* Dykman, L. (2021). ldykman/FD\_EPR: Github repository release associated with Dykman et al. (2021) Ecology (Version v1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.4625160](https://doi.org/10.5281/zenodo.4625160)&#x20;
+* Dykman, L. (2021). ldykman/FD\_EPR: GitHub repository release associated with Dykman et al. (2021) Ecology (Version v1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.4625160](https://doi.org/10.5281/zenodo.4625160)&#x20;
 * Schenck, F. R. (2022). _schenckf/BWE\_Experiment: The effect of warming on seagrass wasting disease depends on host genotypic identity and diversity - Analyses_ (Version V2.0.0) \[Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.7129500](https://doi.org/10.5281/zenodo.7129500)
 
 ### What to include in code documentation
@@ -42,7 +42,7 @@ Comment lines within code are a recommended best practice, however, they do not 
 
 **Where do you put documentation?**  If you have a GitHub repository you can put documentation in your README.md file. Or you can put it in a supplemental file archived with your code. You can also provide it to BCO-DMO along with your data submission's methodology section or as a supplemental file.
 
-* Example of documentation as part of the github README.md file: a [README.md ](https://github.com/ldykman/FD\_EPR/blob/v1.0.0/README.md)archived at Zenodo with package DOI: [10.5281/zenodo.4625160](https://doi.org/10.5281/zenodo.4625160\)))
+* Example of documentation as part of the GitHub README.md file: a [README.md ](https://github.com/ldykman/FD\_EPR/blob/v1.0.0/README.md)archived at Zenodo with package DOI: [10.5281/zenodo.4625160](https://doi.org/10.5281/zenodo.4625160\)))
 * Example of documentation provided as a supplemental file at Zenodo (DOI: [10.5281/zenodo.7129648)](https://doi.org/10.5281/zenodo.7129648)
 * Example of code documentation as a supplemental file attached to a BCO-DMO dataset.
 
@@ -61,14 +61,14 @@ Comment lines within code are a recommended best practice, however, they do not 
 
 #### Citing Packages and Sofware Versions
 
-Where possible provide the exact package and software version numbers you used to generate your data and the recommended citation for your software.&#x20;
+Where possible, provide the exact package and software version numbers you used to generate your data and the recommended citation for your software.&#x20;
 
 Example of citing the language version:
 
 > These data were produced using code run with **R version 3.4.1 (2017-06-30)**.
 
 Example of software cited in methodology text:\
-\* From the dataset "Tidal study of seawater microbial communities" [https://www.bco-dmo.org/dataset/783679](https://www.bco-dmo.org/dataset/783679)
+From the dataset "Tidal study of seawater microbial communities" [https://www.bco-dmo.org/dataset/783679](https://www.bco-dmo.org/dataset/783679)
 
 > _To understand the variability in microbial communities over time at all sites, Bray-Curtis dissimilarity was calculated between each sample in the R package **vegan v2.5.4 (Oksanen et al. 2019)** and illustrated using non-metric multidimensional scaling (NMDS) in the R package, **ggplot2 v3.2.1 (Wickham 2016)**._
 
@@ -156,9 +156,9 @@ In this output, the standard or base packages are listed under "attached base pa
 
 Packages listed under "loaded via a namespace" are those imported automatically by R as dependencies of "other attached packages."
 
-#### Getting versions in python
+#### Getting versions in Python
 
-To get your python version using command line:
+To get your Python version using the command line:
 
 <pre class="language-shell-session"><code class="lang-shell-session"><strong>$ python3 --version
 </strong>Python 3.10.6
@@ -167,7 +167,7 @@ To get your python version using command line:
 </strong><strong>Python 2.7.18
 </strong></code></pre>
 
-To get your python version from within a notebook (jupyter, colab, etc)<img src="../.gitbook/assets/image (3).png" alt="" data-size="original">
+To get your Python version from within a notebook (jupyter, colab, etc)<img src="../.gitbook/assets/image (3).png" alt="" data-size="original">
 
 To get the version of a package you imported you can use `packagename.__version__`
 
@@ -181,7 +181,7 @@ There are several ways to get all package versions in your environment.  See pip
 
 #### Getting versions in Matlab
 
-You can get the version of matlab and installed packages with [the command `ver`](https://www.mathworks.com/help/matlab/ref/ver.html):
+You can get the version of Matlab and installed packages with [the command `ver`](https://www.mathworks.com/help/matlab/ref/ver.html):
 
 <pre class="language-matlab"><code class="lang-matlab"><strong>ver
 </strong></code></pre>
@@ -229,9 +229,9 @@ We understand the reality that datasets are sometimes produced using code that i
 \
 When you submit a dataset to BCO-DMO provide whatever information you have about the code.  \
 \
-\* Who are the authors? Provide real names not just usernames if you have them.\
-\* Briefly describe what the code does.\
-\* How do you get the code/software? Is it publicly accessible? If so, where can it be found? Or is it available upon request or purchase from the authors or company?\
-\* What version of the code did you use? Or lacking that, what date did you use the code? If it is public on github provide the link to the repository and the version (or commit) you used if available.\
+\- Who are the authors? Provide real names not just usernames if you have them.\
+\- Briefly describe what the code does.\
+\- How do you get the code/software? Is it publicly accessible? If so, where can it be found? Or is it available upon request or purchase from the authors or company?\
+\- What version of the code did you use? Or lacking that, what date did you use the code? If it is public on GitHub, provide the link to the repository and the version (or commit) you used if available.\
 \
-If you know the authors of public, but not archived code, encourage them to publish their code with documentation, a release, and a license.  (See "Making Your Code Citable" [https://guides.github.com/activities/citable-code/](https://guides.github.com/activities/citable-code/)).  They get a formal citation they can put on their CV after archiving it which is a great incentive.  Not to mention enhanced discoverability and usage.
+If you know the authors of public, but not archived code, encourage them to publish their code with documentation, a release, and a license. (See "Making Your Code Citable" [https://guides.github.com/activities/citable-code/](https://guides.github.com/activities/citable-code/)). They get a formal citation they can put on their CV after archiving it which is a great incentive, not to mention enhanced discoverability and usage.
