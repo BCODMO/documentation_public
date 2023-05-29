@@ -2,9 +2,9 @@
 description: Introduction to BCO-DMO "How-To" pages.
 ---
 
-# Welcome!
+# BCO-DMO Documentation
 
-Welcome to the BCO-DMO "How To?" pages. We understand that navigating the many aspects of the data world and BCO-DMO can be challenging. These pages are here to help you find your way through it all.&#x20;
+Welcome to the BCO-DMO Documentation page. We understand that navigating the many aspects of the data world and BCO-DMO can be challenging. These pages are here to help you find your way through it all.&#x20;
 
 **Please note that this guide is still under construction** so you may find some blank pages but we are continually working to expand the information available here, so check back for updates or reach out if you have questions.
 

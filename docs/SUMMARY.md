@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [BCO-DMO Documentation](README.md)
 * [Prepare](data-guidance/README.md)
   * [Data Management Plan](data-planning/data\_management\_plan.md)
   * [What is a Dataset?](data-planning/what-is-a-dataset.md)
