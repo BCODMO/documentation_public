@@ -6,7 +6,7 @@ description: Frequently Asked Questions about the Submission Tool
 
 ## What does the BCO-DMO Submission Tool do?
 
-Our online Submission Tool allows you to submit data to and register projects with BCO-DMO. \
+Our online Submission Tool ([submit.bco-dmo.org](https://submit.bco-dmo.org/)) allows you to submit data to and register projects with BCO-DMO. \
 \
 Guidance about preparing your data and metadata for submission and registering projects can be found in the [Preparing Data for Submission](data-guidance/) section.
 
