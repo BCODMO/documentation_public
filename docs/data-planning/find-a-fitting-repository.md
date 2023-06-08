@@ -6,11 +6,11 @@ description: Is BCO-DMO the right repository for your data?
 
 ## Data types served by BCO-DMO
 
-BCO-DMO is a **domain-specific repository,** focusing on **biological and chemical oceanographic data** resulting from research conducted in coastal, marine, great lakes, and laboratory environments. We work closely with research communities to apply quality controls, create and curate robust discovery- and use-level metadata, and document provenance, thereby increasing data reusability.
+BCO-DMO is a **domain-specific repository,** focusing on **biological and chemical oceanographic data** resulting from research conducted in coastal, marine, great lakes, and laboratory environments.&#x20;
 
+We work closely with research communities to apply quality controls, create and curate robust discovery- and use-level metadata, and document provenance, thereby increasing data reusability.
 
-
-## Programs supported by BCO-DMO
+## NSF Programs supported by BCO-DMO
 
 BCO-DMO is funded by the US National Science Foundation to provide data management services at no additional cost to projects funded by:
 
@@ -24,7 +24,9 @@ BCO-DMO is funded by the US National Science Foundation to provide data manageme
 
 BCO-DMO staff members work with researchers funded by these NSF programs to ensure that their research output is in compliance with the current [NSF OCE Sample and Data Policy](https://nsf.gov/pubs/2017/nsf17037/nsf17037.jsp?org=NSF) (NSF 17-037).&#x20;
 
-However, if your project is not funded by an NSF program that BCO-DMO serves, there are additional repositories in the compiled list of recommended data centers below.&#x20;
+## Do you have other data?
+
+If your project is not funded by an NSF program that BCO-DMO serves, there are additional repositories in the compiled list of recommended data centers below.&#x20;
 
 If your data fit within BCO-DMO's disciplinary scope, it may be possible to obtain data management services for non-OCE projects. These are typically prioritized after NSF OCE data and are on a fee-for-service basis. Costs are decided after review of the data. Please contact [info@bco-dmo.org](mailto:info@bco-dmo.org) for more information.
 
