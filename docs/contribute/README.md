@@ -4,15 +4,19 @@ description: How can I contribute data to the BCO-DMO data repository?
 
 # Contribute
 
-## The Submission Process
+The Submission Process: Step by Step
 
 **Determine your domain-specific repository**
 
-We provide **data management and curation services** free of charge to investigators funded through the NSF OCE Biological and Chemical Oceanography programs and NSF Division of Polar Programs. For those funded outside of these programs, we determine if the data would be of value to the BCO-DMO user community and negotiate a 'fee per dataset' data management strategy. See "Find a Fitting Repository" for a complete list of programs supported by BCO-DMO and for help finding another repository if BCO-DMO is not appropriate.
+We provide **data management and curation services** free of charge to investigators funded through the NSF OCE Biological and Chemical Oceanography programs and NSF Division of Polar Programs. For those funded outside of these programs, we determine if the data would be of value to the BCO-DMO user community and negotiate a 'fee per dataset' data management strategy. See "[Find a Fitting Repository](../data-planning/find-a-fitting-repository.md)" for a complete list of programs supported by BCO-DMO and for help finding another repository if BCO-DMO is not appropriate.
+
+
 
 **Register your award and related project**
 
 Before submitting data to BCO-DMO, make sure to register your award and related project using our online **Submission Tool**. Find out how to register your project and what information is needed when you have been recommended for funding.
+
+
 
 **Submit your data and metadata**
 
