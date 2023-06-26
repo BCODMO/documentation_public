@@ -37,3 +37,4 @@
   * [Other Courses](education-and-training/other-courses.md)
   * [BCO-DMO Workshops](education-and-training/workshops.md)
 * [Glossary](glossary.md)
+* [Frequently Asked Questions (FAQs)](frequently-asked-questions-faqs.md)
