@@ -40,7 +40,7 @@ BCO-DMO manages a wide variety of data types and formats. Contents of the datase
 
 **Models, Software, & Code** are rapidly emerging data types, with few community templates or formalized structures. See the [Models, software & code](../data-guidance/software-and-code.md) guidelines pages that BCO-DMO is using to standardize these data submissions.&#x20;
 
-**GEOTRACES data** submitted to BCO-DMO need to follow a program-specific template. See the "[GEOTRACES](../data-guidance/geotraces.md)" page for details on data submission complying with the requirements of the this program.&#x20;
+**GEOTRACES data** submitted to BCO-DMO need to follow a program-specific template. See the "[GEOTRACES](../contribute/metadata-for-datasets/geotraces.md)" page for details on data submission complying with the requirements of the this program.&#x20;
 
 **Genetic Accessions**: Genetic data are primarily curated in the domain-specific repository NCBI ([https://ncbi.nlm.nih.gov/](https://ncbi.nlm.nih.gov/)). However, BCO-DMO serves the metadata related to the genetic accessions, using the specific identifier as a way to relate the data in NCBI and BCO-DMO. Specific information on this data type can be found on the "[Genetic Accesions](../data-guidance/genetic-accessions.md)" page.&#x20;
 
@@ -50,7 +50,7 @@ BCO-DMO manages a wide variety of data types and formats. Contents of the datase
 
 Each dataset needs information providing sufficient **context for peer review and reuse of** **the data.** Therefore, each dataset needs to have its own metadata page, **describing the who/what/where/how** information about the data.&#x20;
 
-Metadata consists of detailed acquisition and processing descriptions, including a description of all instruments used, parameter descriptions, funding, investigator names and contact information, as well as links to related datasets and publications.  See the full [list of necessary metadata](../data-guidance/metadata-for-datasets.md) for a BCO-DMO dataset for all details.
+Metadata consists of detailed acquisition and processing descriptions, including a description of all instruments used, parameter descriptions, funding, investigator names and contact information, as well as links to related datasets and publications.  See the full [list of necessary metadata](../contribute/metadata-for-datasets/) for a BCO-DMO dataset for all details.
 
 Important aspects of research data should be documented as it's collected and analyzed making it easier to provide the necessary metadata. A robust [data management plan](data\_management\_plan.md) at the start of the project can mapping this information.&#x20;
 

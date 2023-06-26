@@ -6,7 +6,7 @@ description: Metadata BCO-DMO uses for data curation.
 
 Each dataset at BCO-DMO needs to be accompanied by metadata (information describing the data) in order for a user to understand and effectively reuse the data. Therefore, each dataset needs to have its own metadata page, specifically describing how the data were generated. Below is a description the necessary metadata at BCO-DMO.
 
-Gathering the necessary metadata for a specific dataset can seem cumbersome, but a robust [data management plan](../data-planning/data\_management\_plan.md) at the start of the project can help alleviate the burden.&#x20;
+Gathering the necessary metadata for a specific dataset can seem cumbersome, but a robust [data management plan](../../data-planning/data\_management\_plan.md) at the start of the project can help alleviate the burden.&#x20;
 
 ### Project and Funding
 
@@ -58,7 +58,7 @@ Please include the name and a description of all sampling equipment and instrume
 
 Parameter names are the column headers in tabular data. Please provide a description for each parameter, units of measurement, and missing data identifiers (e.g. NaN, nd)
 
-![Example of parameter descriptions needed to complete the dataset metadata.](<../.gitbook/assets/image (10) (1) (1).png>)
+![Example of parameter descriptions needed to complete the dataset metadata.](<../../.gitbook/assets/image (10) (1) (1).png>)
 
 ### Related items
 
