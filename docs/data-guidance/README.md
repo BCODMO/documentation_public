@@ -4,6 +4,12 @@ description: Information on how to prepare data and metadata for submission to B
 
 # Prepare
 
+Planning your project
+
+General Data Guidance
+
+Topic Specific Data Guidance
+
 
 
 Please make sure to have prepared the following:
