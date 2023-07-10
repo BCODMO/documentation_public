@@ -12,9 +12,9 @@ The [Data Management Plan page](../data-planning/data\_management\_plan.md) has 
 
 ## General Guidance for BCO-DMO Datasets
 
-A dataset submitted to BCO-DMO needs **sufficient quality to validate and replicate research findings.**&#x20;
+**A** [**dataset**](../data-planning/what-is-a-dataset.md) submitted to BCO-DMO needs sufficient quality to validate and replicate research findings. It usually consists of a file containing a single data table (example formats: csv, Excel, tsv) or a collection of files that contain the same type of data, like a collection of model output files in .netcdf format or a collection of coral quadrat photos.&#x20;
 
-**Descriptive Metadata**: Each dataset needs information providing sufficient context for peer review and reuse of the data. Therefore, each dataset has its own metadata page, describing the who/what/where/how information about the data. See full details of necessary metadata [here](../contribute/metadata-for-datasets/).&#x20;
+[**Descriptive Metadata**](../contribute/metadata-for-datasets/): Each dataset needs information providing sufficient context for peer review and reuse of the data. Therefore, each dataset has its own metadata page, describing the who/what/where/how information about the data.&#x20;
 
 ## Data Type Specific Guidance
 
