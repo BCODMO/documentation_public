@@ -1,4 +1,4 @@
-# Access & Reuse Data
+# Access & Reuse
 
 The BCO-DMO database consists of research-ready data that spans the full range of marine ecosystem-related measurements including in-situ and remotely sensed observations, experimental results, models output, and synthesis products.&#x20;
 
@@ -30,7 +30,7 @@ The BCO-DMO [**ERDDAP server**](erddap.md) provides access to downloadable subse
 
 All BCO-DMO datasets are freely available and may be used in proposals, other scientific analyses, and projects. The requirements are giving appropriate credit, providing a link to the license, and indicating if changes were made. You can't apply measures that restrict others from doing anything the license permits.&#x20;
 
-Guidelines for how to use and cite BCO-DMO data can be found [**here**](attribution.md)**.**&#x20;
+Guidelines for how to use and cite BCO-DMO data can be found on the "[Attribution](attribution.md)" page.
 
 
 
