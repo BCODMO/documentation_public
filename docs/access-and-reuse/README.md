@@ -6,7 +6,7 @@ BCO-DMO develops and adopts software, APIs, ontologies, and other services to en
 
 ## Data Access
 
-### Data Explorer
+### Database Search
 
 Our [**database explorer**](database-search.md) can be used to find data and metadata records across our whole system. It is designed to explore data from across scientific disciplines, formats, standard vocabularies, time periods, and locations.
 
