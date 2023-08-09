@@ -18,7 +18,7 @@ description: >-
 
 #### More details
 
-As of December 2019, any GEOTRACES investigator intending to include their data in one of the GEOTRACES Intermediate Data Products (IDP) must first register their data using the **D**ata for **O**ceanic **R**esearch Portal (the "DOoR Portal"). The link to the DOoR portal is: [https://geotraces-portal.sedoo.fr/pi/](https://geotraces-portal.sedoo.fr/pi/).&#x20;
+Starting in December 2019, any GEOTRACES investigator intending to include their data in one of the GEOTRACES Intermediate Data Products (IDPs) must first register their data using the **D**ata for **O**ceanic **R**esearch Portal (the "DOoR Portal"). The link to the DOoR portal is: [https://geotraces-portal.sedoo.fr/pi/](https://geotraces-portal.sedoo.fr/pi/).&#x20;
 
 The DOoR portal will help you generate and submit the intercalibration documents required by the GEOTRACES Standards and Intercalibration Committee (S\&I) and will also provide you with IDP-compliant data templates (Excel files). The DOoR data templates are important for consistency across datasets (as they make use of GEOTRACES naming conventions, recommended units, and data quality flags) and for tracking your data through the S\&I and IDP processes. The data template files contain unique barcodes for every parameter that must not be changed.&#x20;
 
@@ -31,7 +31,19 @@ Please refer to the following GEOTRACES materials for more information on DOoR:
 
 Any other questions about the DOoR portal may be directed to Bill Landing ([wlanding@fsu.edu](mailto:wlanding@fsu.edu)) or Phoebe Lam ([pjlam@ucsc.edu](mailto:pjlam@ucsc.edu)).
 
-### IDP2021-Specific Guidance
+### \*New\* IDP2025 Data Submission Deadlines
+
+The GEOTRACES Data Management Committee has announced e the planned release of the fourth Intermediate Data Product (IDP) in November 2025.
+
+Deadlines for inclusion in next IDP are as follows:
+
+**15th May 2024** - First deadline for the submission of datasets using DOoR templates and completed intercalibration reports via DOoR to **guarantee inclusion** in IDP2025. After this date we cannot guarantee your data will be included.
+
+**15th of December 2024** - Final deadline for submission of datasets using DOoR templates and the complete intercalibration reports via DOoR.&#x20;
+
+Processing of data for inclusion in next IDP will prioritize those submitted before the May 15, 2024 deadline and then will prioritize section cruises over process studies over compliant data. Because of the very large number of datasets that are being submitted for IDP, we encourage timely submission ahead of the December 15, 2024 deadline wherever possible.
+
+### Guidance for IDP2021
 
 **Note:** The 2021 IDP has been released and can be found at [https://www.geotraces.org/geotraces-intermediate-data-product-2021/](https://www.geotraces.org/geotraces-intermediate-data-product-2021/). The following information is provided for historical reference.
 
