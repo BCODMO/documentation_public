@@ -4,7 +4,7 @@ description: Guidance on preparing to share your data
 
 # Prepare
 
-## [image-video-datasets.md](image-video-datasets.md "mention")Planning your project with a Data Management Plan
+## Planning your project with a Data Management Plan
 
 Open access data begins with a Data Management Plan (DMP). To prepare your DMP, think about all the steps in the [data life cycle](../education-and-training/the-data-life-cycle.md) and your data needs at each step, such as: data types that will be gathered, file formats of those data, naming conventions, metadata formats, repositories that will be used for data sharing, and plans for long-term archive.&#x20;
 
