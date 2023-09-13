@@ -6,7 +6,7 @@ description: A summary of useful tutorials and workshops for the BCO-DMO user co
 
 ## **Data-related** workshops and training
 
-Here is a list of workshops staff members of BCO-DMO have taught in the past. All of the workshops are data-related and could potentially be useful for the community that BCO-DMO serves
+Here is a list of workshops staff members of BCO-DMO have taught in the past. All of the workshops are data-related and could potentially be useful for the community that BCO-DMO serves.
 
 When teaching workshops, we mostly follow [The Carpentries](https://carpentries.org/workshops/) style workshops (instructors are trained in pedagogy and focus on creating a motivating and engaging environment for learners).
 
