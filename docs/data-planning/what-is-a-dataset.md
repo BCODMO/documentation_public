@@ -42,7 +42,7 @@ BCO-DMO manages a wide variety of data types and formats. Contents of the datase
 
 **GEOTRACES data** submitted to BCO-DMO need to follow a program-specific template. See the "[GEOTRACES](../contribute/metadata-for-datasets/geotraces.md)" page for details on data submission complying with the requirements of the this program.&#x20;
 
-**Genetic Accessions**: Genetic data are primarily curated in the domain-specific repository NCBI ([https://ncbi.nlm.nih.gov/](https://ncbi.nlm.nih.gov/)). However, BCO-DMO serves the metadata related to the genetic accessions, using the specific identifier as a way to relate the data in NCBI and BCO-DMO. Specific information on this data type can be found on the "[Genetic Accesions](../data-guidance/genetic-accessions.md)" page.&#x20;
+**Genetic Accessions**: Genetic data are primarily curated in the domain-specific repository NCBI ([https://ncbi.nlm.nih.gov/](https://ncbi.nlm.nih.gov/)). However, BCO-DMO publishes the metadata related to the genetic accessions, using the specific identifier as a way to relate the data in NCBI and BCO-DMO. Specific information on this data type can be found on the "[Genetic Accesions](../data-guidance/genetic-accessions.md)" page.&#x20;
 
 **Image Classification Data:** Images and ancillary data from imagery instruments. Our "[Image Classification](../data-guidance/image-video-datasets.md)" data page is still being finished.&#x20;
 
