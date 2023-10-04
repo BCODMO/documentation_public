@@ -6,7 +6,7 @@
   * [What is a Dataset?](data-planning/what-is-a-dataset.md)
   * [Metadata for Datasets](contribute/metadata-for-datasets/README.md)
   * [Data Table Organization](data-guidance/organizing-data-tables.md)
-  * [Genetic Accessions (Omics)](data-guidance/genetic-accessions.md)
+  * ['Omics-related Data](data-guidance/genetic-accessions.md)
   * [GEOTRACES Data](contribute/metadata-for-datasets/geotraces.md)
   * [Image/Video Datasets](data-guidance/image-video-datasets.md)
   * [Models, Software, and Code](data-guidance/software-and-code.md)

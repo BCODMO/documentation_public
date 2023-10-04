@@ -1,14 +1,16 @@
 ---
-description: >-
-  Guidance for submitting genetic accession numbers and other types of "Omics"
-  data.
+description: Guidance for submitting genetic and other types of 'omics-related data.
 ---
 
-# Genetic Accessions (Omics)
+# 'Omics-related Data
 
-## Contributing Genetic Accessions (omics) <a href="#page-title" id="page-title"></a>
+## Advantages of Sharing 'Omic Data Links through BCO-DMO <a href="#page-title" id="page-title"></a>
 
-Sequence data are best served by a disciplinary repository, such as the [National Center for Biotechnology Information (NCBI](http://www.ncbi.nlm.nih.gov/)) GenBank or Sequence Read Archive (SRA). Metadata and supporting data related to these NCBI accessions should be provided to BCO-DMO to further enable discovery and re-use.
+'Omics is a term that refers collectively to a group of rapidly evolving multi-disciplinary fields, each seeking to quantify and describe an entire collection of biological molecules of particular type (e.g., genome). Ocean ecosystem investigators are increasingly using ‘omic tools (e.g. genomic, transcriptomic, proteomics, and metabolomic) in their research due to their ability to document the environment status in time and space. We want to make data generators aware of the benefits to submitting omics data links to BCO-DMO. While there are dedicated repositories for omics data (Table 1), discoverability and accessibility of metadata and environmental data are well known to be major obstacles to reusing 'omic datasets. This is generally because the specialized 'omics repositories are designed for biomedical research and often lack the ability to connect to environmental research and associated metadata. Although BCO-DMO does not host raw sequence or mass spectrometry data, it can easily link to the repositories that do. In doing so BCO-DMO can allow researchers to discover your data and place it in its appropriate environmental context. Because BCO-DMO datasets are connected to their expeditions, environmental data associated with  the meta’omic sample locations can be easily connected (Figure 1). Similarly, BCO-DMO connects data to grants and/or projects, allowing laboratory experimental data to be associated with 'omic data. BCO-DMO’s site is optimized for data discovery using search engines, and data types can be searched for within BCO-DMO’s holdings. With a minor effort in submission, all the hard work you have put into collecting your dataset can be used to help other researchers throughout the world better discover and interpret your data. You, the data generator, will benefit from submission through increased citations and collaborations.
+
+## Contributing Genetic Accessions  <a href="#page-title" id="page-title"></a>
+
+We recommend that sequence data be submitted to national biological archiving services such as the [National Center for Biotechnology Information (NCBI](http://www.ncbi.nlm.nih.gov/)) GenBank, or ENA. Related metadata and supporting environmental data should be submitted to BCO-DMO where they can be seamlessly connected to their genetic data by unifying all sequence projects under a BioProject in NCBI or Study in ENA (Figure 2).
 
 If you have metadata and additional data related to your genetic accessions (collection date, latitude, longitude, taxon names, treatment descriptions, environmental measurements, etc.), please submit them to us along with any relevant accession numbers (e.g. BioSample, SRA run id, etc). Note that submitting your accession numbers and related data in a tabular format (e.g. Excel, comma- or tab-delimited) will expedite our processing of your data. We will then create a Dataset Landing Page at BCO-DMO which is linked to your Project Page.
 
