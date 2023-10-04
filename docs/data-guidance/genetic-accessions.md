@@ -10,7 +10,7 @@ description: Guidance for submitting genetic and other types of 'omics-related d
 
 ## Contributing Genetic Accessions  <a href="#page-title" id="page-title"></a>
 
-We recommend that sequence data be submitted to national biological archiving services such as the [National Center for Biotechnology Information (NCBI](http://www.ncbi.nlm.nih.gov/)) GenBank, or ENA. Related metadata and supporting environmental data should be submitted to BCO-DMO where they can be seamlessly connected to their genetic data by unifying all sequence projects under a BioProject in NCBI or Study in ENA (Figure 2).
+We recommend that sequence data be submitted to national biological archiving services such as the [National Center for Biotechnology Information (NCBI](http://www.ncbi.nlm.nih.gov/)) GenBank, or the [European Nucleotide Archive (ENA)](https://www.ebi.ac.uk/ena/browser/). Related metadata and supporting environmental data should be submitted to BCO-DMO where they can be seamlessly connected to their genetic data by unifying all sequence projects under a BioProject in NCBI or Study in ENA (Figure 2).
 
 If you have metadata and additional data related to your genetic accessions (collection date, latitude, longitude, taxon names, treatment descriptions, environmental measurements, etc.), please submit them to us along with any relevant accession numbers (e.g. BioSample, SRA run id, etc). Note that submitting your accession numbers and related data in a tabular format (e.g. Excel, comma- or tab-delimited) will expedite our processing of your data. We will then create a Dataset Landing Page at BCO-DMO which is linked to your Project Page.
 
