@@ -1,0 +1,54 @@
+---
+description: Description of a BCO-DMO dataset and specific data types
+---
+
+# What is a Dataset?
+
+## The BCO-DMO Dataset
+
+As a federally-funded data repository, BCO-DMO ([www.bco-dmo.org](https://www.bco-dmo.org)) aligns with the U.S. Office of Science and Technology Policy (OSTP) concept of data as outlined in its 2022 Memorandum: _Ensuring Free, Immediate, and Equitable Access to Federally Funded Research,_ where: "“scientific data” include the **recorded factual material** commonly accepted in the scientific community as of **sufficient quality to validate and replicate research findings.** Such scientific data do not include laboratory notebooks, preliminary analyses, case report forms, drafts of scientific papers, plans for future research, peer-reviews, communications with colleagues, or physical objects and materials, such as laboratory specimens, artifacts, or field notes."
+
+A BCO-DMO dataset usually **consists of a file containing a single** **data table** (example formats include csv, Excel, tsv) **or a collection of files that contain the same type of data** (i.e., a collection of model output files in .netcdf format or a collection of coral quadrat photos), along with metadata and any relevant supporting files.
+
+Examples of datasets:
+
+* CTD data from [one cruise](https://www.bco-dmo.org/dataset/3101) or CTD data from [several cruises](https://www.bco-dmo.org/dataset/837256) that have been processed and analyzed in the same way.
+* A collection of images resulting from a [model, along with the input files, and model code](https://www.bco-dmo.org/dataset/782848) would constitute a BCO-DMO dataset.
+* [Images and ancillary data from imagery instruments](https://www.bco-dmo.org/dataset/853440).&#x20;
+* [Water quality parameters](https://www.bco-dmo.org/dataset/821061) collected by hand using a multimeter, handheld fluorometer, and nitrate sensor from the same location, such as a pier, over a period of time.
+* Water biogeochemistry determined using several instruments from samples collected at sea, along with [NCBI accession numbers](https://www.bco-dmo.org/dataset/542665) of sequences obtained from biological samples collected at those same locations during the cruise.
+* [Species names, sampling locations and dates](https://www.bco-dmo.org/dataset/855395), and specimen size and sex determined using a microscope from samples collected by various nets during several cruises pertaining to a research project.
+* [Trace metal concentrations](https://www.bco-dmo.org/dataset/869683) in water samples collected by Niskin bottles, McLane pumps, and ice corers deployed during a cruise.
+* Carbonate system parameters and mussel growth measurements resulting from a [laboratory experiment](https://www.bco-dmo.org/dataset/773623) on ocean acidification.
+
+**One dataset does not necessarily equate to one data file**. Often times, multiple data tables of the same type and organizational structure may be submitted as individual files, or tabs within a single Excel file.  In these cases, data managers combine the tables into a single data table.&#x20;
+
+<figure><img src="../.gitbook/assets/WhatsADataset.png" alt=""><figcaption><p>One dataset from multiple data files. </p></figcaption></figure>
+
+A single dataset, consisting of a data table, its metadata and any supporting files, is presented on each BCO-DMO Dataset Landing Page. Therefore, submissions that describe different types of acquisition methods, processing methods, or parameters, or that were produced by different projects/awards would likely remain individual and separate BCO-DMO datasets and not be combined.
+
+## Data Types
+
+BCO-DMO manages a wide variety of data types and formats. While the contents of the datasets may differ depending on the subject, if the submitted data represent observations taken from the field (versus laboratory results or meta analyses) the following information should be included for improved reusability:&#x20;
+
+* Dates, times, and timezone
+* Location information (latitude and longitude)&#x20;
+
+**Tabular data** with biological and chemical oceanographic data from in-situ measurements during cruises or field sampling, sediment samples, lab experiments, etc. make up the bulk of the BCO-DMO data holdings. See the "[Organizing Data Tables](organizing-data-tables.md)" page for more details on the supported format and organization of tabular data.&#x20;
+
+**Models, Software, & Code** are rapidly emerging data types, with few community templates or formalized structures. See the [Models, software & code](software-and-code.md) guidelines pages that BCO-DMO is using to standardize these data submissions.&#x20;
+
+**GEOTRACES data** submitted to BCO-DMO need to follow a program-specific template. See the "[GEOTRACES](geotraces.md)" page for details on data submission complying with the requirements of the this program.&#x20;
+
+**Genetic Accessions**: Genetic data are primarily curated in the domain-specific repository NCBI ([https://ncbi.nlm.nih.gov/](https://ncbi.nlm.nih.gov/)). However, BCO-DMO publishes the metadata related to the genetic accessions, using the specific identifier as a way to relate the data in NCBI and BCO-DMO. Specific information on this data type can be found on the "[Genetic Accesions](genetic-accessions.md)" page.&#x20;
+
+**Image Classification Data:** Images and ancillary data from imagery instruments. Our "[Image Classification](image-video-datasets.md)" data page is still being finished.&#x20;
+
+## Metadata
+
+Every dataset needs information that provides sufficient **context for peer review and effective reuse.** Therefore, each BCO-DMO Dataset Landing Page contains metadata **describing the who/what/where/how** information about the data.&#x20;
+
+Metadata consists of detailed acquisition and processing descriptions, including a description of all instruments used, parameter names and descriptions, funding, investigator names and contact information, as well as links to related datasets and publications.  See the full [list of necessary metadata](metadata-for-datasets.md) for a BCO-DMO dataset for all details.
+
+Important aspects of research data should be documented as it's collected and analyzed making it easier to provide the necessary metadata. A robust [data management plan](data_management_plan.md) at the start of the project can help with mapping this information.&#x20;
+

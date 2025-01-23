@@ -1,0 +1,333 @@
+---
+description: How to submit data to BCO-DMO using the online Submission Tool
+---
+
+# Submitting Data with Submission Tool
+
+## How to Submit Data
+
+After clicking the "Submit a new dataset" button from the [Submission Tool dashboard](https://submit.bco-dmo.org/) ([https://submit.bco-dmo.org/](https://submit.bco-dmo.org/)), you'll be taken to a series of forms where you'll enter your metadata and then upload data files. Each field has instructions and examples. Below is further information about how to complete each field.
+
+### Request Data Restriction (Embargo) <a href="#dataset-name" id="dataset-name"></a>
+
+At the top of the "Overview" section, you'll see a checkbox where you can indicate if you'd like the dataset to be restricted/embargoed. If you click this checkbox, you'll then see a field where you can enter the desired public release date for the dataset. Select the release date using the calendar drop-down.&#x20;
+
+Please be aware of your funder policies about data sharing and any policies established by journals you plan to publish in. The [NSF OCE Data Policy](https://www.nsf.gov/pubs/2017/nsf17037/nsf17037.jsp), for example, requires data to be made publicly available no later than two years after collection. Certain journals may also require your data to be publicly available for the peer-review process.&#x20;
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>screenshot of the restricted data and release date options</p></figcaption></figure>
+
+### Dataset Name <a href="#dataset-name" id="dataset-name"></a>
+
+**Instructions**: Enter your preferred name for the dataset. It should be short, but descriptive. Your data manager will use this to construct a dataset title.&#x20;
+
+**Examples:**
+
+> CTD Profiles from the RR1805 cruise in April 2018\
+> Ammonia and Urea-derived-N Oxidation Rates \
+> 2014 Antarctic krill feeding experiments \
+> Kimbe Bay connectivity model results \
+> AT42-05 sediment geochemistry \
+> Salp genome and transcriptomes&#x20;
+
+### Abstract <a href="#abstract" id="abstract"></a>
+
+**Instructions**: Provide an abstract that describes your data. In terms of length and level of detail, your dataset abstract should be similar to an abstract you might write for a publication. To comply with the DataCite Metadata Schema, your Abstract will be published as plain text only (i.e. no italics, bold text, hyperlinks, etc.).
+
+{% hint style="info" %}
+Avoid using an award or paper abstract with information not related to the exact data you are submitting to BCO-DMO.&#x20;
+{% endhint %}
+
+It should describe the _what, where, when, why, how_, and _who_ of the specific dataset you're submitting.&#x20;
+
+* **What -** A description of what has been recorded and what form the data take. This should immediately convey to the reader precisely what the resource is.
+* **Where -** A description of the spatial coverage, whether the coverage is even or variable.
+* **When -** The period over which data were collected.
+* **How -** A _brief_ description of the methodology. (Detailed methodology and can be provided in other parts of the metadata.)
+* **Why -** For what purpose was the data collected? And who is likely to find the data useful?
+* **Who -** The party/parties responsible for the collection and interpretation of data.
+
+If relevant, describe how the data are related to any larger studies and how the data might be of interest to the science community.
+
+**​Example 1:**
+
+> Despite their importance for research and environmental protection, ther&#x65;**'**&#x73; still a shortage of high quality and high-resolution temperature, pH, and oxygen data, particularly in shallow coastal habitats. We monitor five important environmental parameters (i.e., depth, temperature, salinity, pH, and dissolved oxygen) at 30 minute intervals in Mumford Cove, CT (41°19'25"N 72°01'07"W), a small (2 km × 0.5 km), shallow (1-5m), cone-shaped embayment opening to northeastern Long Island Sound, with protected marsh habitat along its western side, marsh and beach habitat along its eastern side, and an extensive seagrass (_Zostera marina_) cover. Continuous monitoring is achieved by swapping identical and recalibrated probes (Eureka Manta Sub2) every 3-5 weeks.
+
+### Project
+
+**Instructions**: Enter the complete project name as shown by your funder or provide a link to the BCO-DMO Project landing page.
+
+**Examples**:
+
+> Connecting Trace Elements and Metalloenzymes Across Marine Biogeochemical Gradients
+>
+> [https://www.bco-dmo.org/project/2236](https://www.bco-dmo.org/project/2236)
+
+### Funding
+
+**Instructions**: Enter the award number(s) that funded this dataset. If an NSF award, include the three-letter prefix that indicates the funding directorate.
+
+**Example**:
+
+> OCE-1435056, OCE-1436694
+
+### Keywords
+
+**Instructions**: Enter keywords for your dataset (optional). We suggest 3-5 keywords but you can provide more or less.&#x20;
+
+**Example**:
+
+> ocean acidification, coral reefs, calcification
+
+{% hint style="info" %}
+#### After filling in the above fields, click "Save and continue" in the navigation pane on the left-hand side of the page to move on to the People section.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Click 'Save and continue' to move to the next section.</p></figcaption></figure>
+
+### People
+
+**Instructions:** Identify all people associated with this dataset. The name and ORCID iD you used to log in will be displayed. Fill in your email address and phone number. Note that we do not publish your email or phone number. They are for internal BCO-DMO use only.
+
+Select your role from the drop-down list.&#x20;
+
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Unlike roles on Project pages, which need to align exactly with the NSF award and cannot be adjusted, roles on datasets reflect how people contributed to the datasets.&#x20;
+{% endhint %}
+
+As an example, the PI role on a dataset should be the main person responsible for the generation of the dataset even if they are not a project PI or Co-PI. Each person can also have multiple roles. These roles are used as metadata on the dataset landing page. The author order in the dataset citation can be determined independently from the roles. As an example, sometimes a person may be listed as a ‘Student’ on the dataset, but they could be listed as first author in the citation if that’s appropriate. Once your submission has an assigned BCO-DMO data manager, we’ll contact you about the author order for the citation.
+
+> To select multiple roles in the Submission Tool from a Windows PC, hold down the Ctrl key while clicking on the roles. On a Mac, hold down the Command key while clicking on the roles.
+
+Enter your current affiliation (institution or organization name) and your affiliation at the time of data collection.
+
+To add additional people, click "+ Add person" and then click "Edit". Use the "ORCID Search" at the top of the edit window to search by name or ORCID iD and then fill in the rest of their information and roles on the project, and, once complete, click "Update" at the bottom of the screen. If the person doesn't have an ORCID iD, we suggest they create one, but it is not required. Anyone added here with an ORCiD will be able to view the submission and will be able to edit it when in draft state.
+
+Any required information that's missing will be displayed in red:
+
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption><p>Required fields that are empty will be displayed in red.</p></figcaption></figure>
+
+{% hint style="info" %}
+#### After filling in **all of the People information**, click "Save and continue" in the navigation pane on the left-hand side of the page to move to the Location section.
+{% endhint %}
+
+### Location
+
+**Instructions**: Provide a general description of the study area.
+
+**Example**:
+
+> Sub-Antarctic waters (48 S, 173 E) depth 2369m
+
+### Cruise or Deployment
+
+**Instructions**: List identifying **cruise or deployment information** here. If the data were collected on a research cruise, mooring, or another field deployment, include as much of the following as is relevant:&#x20;
+
+* vessel name,&#x20;
+* cruise ID, mooring ID, or other identifier,
+* cruise name (nickname) or alternate identifiers,
+* start and end dates,&#x20;
+* location,
+* Chief Scientist name and contact information,&#x20;
+* coordinated platforms/deployments
+* Rolling Deck to Repository (R2R) link (for UNOLS vessels only)
+
+**Example of research cruise information:**
+
+> R/V Kilo Moana KM1128 "METZYME" cruise; Oct 1 to Oct 25, 2011; Chief Scientist - Karl Lamborg (WHOI, clamborg@whoi.edu); [https://www.rvdata.us/search/cruise/KM1128](https://www.rvdata.us/search/cruise/KM1128)
+
+**Other** **Examples**:&#x20;
+
+> Day-trips aboard an 18-foot powerboat conducted once per week in Buzzards Bay, MA during June-October, 2016-2019.
+>
+> CTD casts conducted daily from the Santa Monica Pier, CA during July and August 2018.
+
+### Geospatial Extent
+
+**Instructions**: Provide the geospatial extent (**latitude and longitude** bounding box) of the dataset, if applicable.&#x20;
+
+{% hint style="info" %}
+&#x20;If latitude and longitude are provided as values in your data file(s), you can skip this section. Decimal degree format with North and East values as positive and South and West values as negative is preferred.
+{% endhint %}
+
+The bounding box limits are for Northern most, Southern most, Eastern most and Western most.
+
+**Example**:
+
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption><p>Example of geospatial extent</p></figcaption></figure>
+
+### Temporal Bounds
+
+**Instructions**: Provide the **start and end time range** for the dataset. If dates are included as values in your data file(s), you can skip this section.&#x20;
+
+{% hint style="info" %}
+Include the time range you think is most relevant for your data, whether that includes both the sample collection dates along with the dates measurements were made on those samples or just the sample collection dates itself.
+{% endhint %}
+
+ISO8601 format is preferred (YYYY-MM-DD). If you only know the year and month, that can be entered as YYYY-MM.&#x20;
+
+**Example**:
+
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption><p>Example of temporal bounds</p></figcaption></figure>
+
+{% hint style="info" %}
+#### After filling in **all of the information in the Location section**, click "Save and continue" in the navigation pane on the left-hand side of the page to move to the Methods section.
+{% endhint %}
+
+### Methods & Sampling
+
+**Instructions**: Provide **detailed** methods for sample collection and analyses, including references. Consider the following: filter type, pore size, wash protocols, storage of sample before determination (time, conditions), sample preparation, treatment descriptions, and specific changes from any published methodologies mentioned. Include a description of data processing and any software products that were used, including version numbers if available. \
+\
+"See methodology in results publication" is insufficient. If citing the methodology section of a results publication, please provide a methodology summary in addition to the citation.
+
+### Instruments
+
+**Instructions**:  Provide the names and descriptions of all **equipment and instrumentation** used in sample collection and analyses. Include manufacturer names and model numbers where relevant and calibration information for individual sensors. If you have calibration files you can upload them in the Files section along with a description of the calibration file.\
+\
+**Examples**:
+
+> 8 L X-Niskin bottles: Dissolved seawater samples were collected using a 12-bottle trace metal clean rosette equipped with 8 L X-Niskin bottles.
+>
+>
+>
+> Metrohm 663 VA and µAutolabIII system: Dissolved Co was measured using a Metrohm 663 VA and µAutolabIII system equipped with a hanging mercury drop working electrode.
+>
+>
+>
+> A Retsch Mixer Mill 200 was used for homogenization.
+
+### Data Processing
+
+**Instructions:** Describe the processing performed to arrive at the data you are submitting. Include any software products that were used including version numbers if available. If you have associated code to share, you can upload the code files or provide a remote repository link. &#x20;
+
+{% hint style="info" %}
+**Do not** include subsequent processing (e.g. statistics, graphs) used to analyze the data. If you would like to include that information, please upload it to the files section as a supplemental document or, if described in a publication, provide a citation under Related Publications.
+{% endhint %}
+
+### Problems/Issues
+
+**Instructions**: List any known problems associated with the dataset,  such as gaps in sampling, instrument malfunction, software errors, etc. Include information about any quality flags used.\
+\
+**Example**:
+
+> Some dissolved cobalt values reported are suspected misfires, and are accordingly labeled with a QC flag of 3. See flag definitions at: [https://www.geotraces.org/geotraces-quality-flag-policy/](https://www.geotraces.org/geotraces-quality-flag-policy/)&#x20;
+
+### Related Publications
+
+**Instructions**: Related Publications can include related datasets, results publications, methods references, published code, models, and protocols (e.g. protocols.io, Github, Zenodo). Please populate the sections below by providing the appropriate identifiers. Please use DOI numbers whenever possible.
+
+**To add related publications or datasets:**&#x20;
+
+* Enter the identifier in the “Identifier” field and then choose the "Identifier Type" from the drop-down menu.&#x20;
+* The citation for the resource will then be generated automatically (if using DOI) and displayed to the right of the drop-down menu.&#x20;
+* It is optional but recommended to toggle the "Add additional context" button and provide a description of how the resource is related to your submission.&#x20;
+* If the resource does not have an identifier, such as a paper that is in review, choose "No identifier" as the Identifier Type and then toggle "Add additional context" to manually enter the citation in APA format.
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>screenshot showing that once a DOI is entered, the citation is displayed on the right</p></figcaption></figure>
+
+#### Related Datasets
+
+**Instructions:** Identify any **datasets** that are directly related to your BCO-DMO data submission. For each related dataset, please provide a brief description of the data type and how it is related to your BCO-DMO submission.
+
+#### Results Publications
+
+**Instructions:** Provide the identifiers or full citations for **publications that used these data**. If this dataset was published as a particular table or plotted in a figure, please provide the table and figure numbers.
+
+#### **Methods References**
+
+**Instructions:** Provide the identifiers or full citations for **publications, code, or software cited in your metadata**.
+
+{% hint style="info" %}
+**After filling in all of the information in the Methods section, click "Save and continue" in the navigation pane on the left-hand side of the page to move to the Parameters section.**
+{% endhint %}
+
+### Parameters
+
+#### Parameter names, descriptions, units
+
+**Instructions**: Parameter names are the column headings in your dataset. If these are not fully explained in the data files (with definitions and units), provide definitions and units here for every data column.
+
+Please include limits of detection, precision, any inter-calibration information, use of international standards, etc. if relevant. Include the missing data identifier(s) used to indicate "no data" (e.g. -999, NaN, nd). Remember to provide the time zone.
+
+If you'd prefer to provide your parameter descriptions in a separate file, please use [parameters\_template.csv](https://submit.bco-dmo.org/static/files/parameters_template.csv) and upload this file in the file upload section. Refer to [parameters\_example\_porewater-geochem.csv](https://submit.bco-dmo.org/static/files/parameters_example_porewater-geochem.csv) as an example.\
+\
+**Example**:
+
+> Site = Site number (1, 2, or 3); three sites were cored in the high marsh; unitless. \
+> Location = Location number (1, 2, or 3); at each of the three sites, two high marsh cores and one inundated pond core were collected; unitless. \
+> Core ID = The two marsh cores were labeled 1 and 2; unitless.\
+> Depth = Depth of horizon relative to surface of the marsh; centimeters (cm).\
+> Time = Time during ramped pyrolysis oxidation experiment; h:mm:ss AM/PM. \
+> Temperature = Temperature of oven during ramped pyrolysis oxidation; degrees Celsius. \
+> CO2 = Carbon dioxide evolved; per mil (0/00).\
+> \
+> NaN = no data value\
+> BDL = below detection limit
+
+{% hint style="info" %}
+#### After filling in **all of the information in the Parameters section**, click "Save and continue" **in the navigation pane on the left-hand side of the page** to move to the Files section.
+{% endhint %}
+
+### **Files**
+
+**Instructions:** Upload all files related to this submission (data files and supporting information, such as images, statistical tables, or instrument calibration reports). If you need help submitting a large dataset, please email [info@bco-dmo.org](mailto:info@bco-dmo.org) to coordinate your file transfer.
+
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption><p>screenshot of the Files section</p></figcaption></figure>
+
+To upload a file, click the "+ Add File" button and then select the file you want to upload. After you select a file, its name will be displayed and you can enter an optional (but recommended) description of what the file is. This description will help your data manager understand your files.
+
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>screenshot of file upload</p></figcaption></figure>
+
+Once you confirm the correct file has been selected and you've entered a description, click the blue-green "Upload" button to upload that file. A progress bar will be displayed as it uploads and then the file name, size, and date will be displayed:
+
+<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption><p>screenshot of a successfully uploaded data file</p></figcaption></figure>
+
+If you have several files within a folder that you'd like to upload, you can use the "+ Add folder" option instead of adding one file at a time. After clicking "+ Add folder", select the folder you want to upload. You'll see a pop-up message asking you to confirm you want to add ALL the files from the folder. If yes, click the blue "Upload" button.
+
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>pop-up messages asking you to confirm the folder upload</p></figcaption></figure>
+
+You will then see multiple file names displayed. You can enter one description for all of them, like this:
+
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption><p>example of folder upload and providing one description</p></figcaption></figure>
+
+Or, if you prefer, you can select the "Multiple descriptions" checkbox to provide a unique description for each file, like this:
+
+<figure><img src="../.gitbook/assets/image (45).png" alt=""><figcaption><p>example of folder upload providing multiple descriptions</p></figcaption></figure>
+
+Once the files have been selected and the descriptions have been entered, click the blue-green "Upload" button to upload those files. A progress bar will be displayed as it uploads and then the file name, size, and date will be displayed:
+
+<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption><p>screenshot showing multiple files that have been uploaded successfully</p></figcaption></figure>
+
+If you need to remove a file for any reason, you can click the red trash can icon to the right of that file name to delete it.
+
+{% hint style="info" %}
+**After uploading all data files and any other related files, click "Save and continue" in the navigation pane on the left-hand side of the page to move to the Submit section.**&#x20;
+{% endhint %}
+
+### **Submit**
+
+**Instructions:** On this screen, **you can submit your dataset to BCO-DMO or save it as a draft**. You'll also see a box where you can enter other information, comments, questions, etc. for a BCO-DMO data manager.&#x20;
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>screenshot of the Submit page</p></figcaption></figure>
+
+{% hint style="info" %}
+If you'd like to save the draft to work on later, click "Save as draft". Your draft will show up on your submission tool dashboard ([https://submit.bco-dmo.org/](https://submit.bco-dmo.org/)).&#x20;
+
+BCO-DMO will not review your submission until you've hit the "Submit dataset" button.
+{% endhint %}
+
+### Confirmation Screen and Next Steps
+
+If your dataset was submitted successfully, you'll see the following screen:
+
+<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption><p>submission confirmation page</p></figcaption></figure>
+
+### What happens next
+
+* After submitting your dataset, you'll receive an automated email stating that your submission has been received and is under review by a data manager.&#x20;
+* Within two business days, you'll then receive another email from a BCO-DMO data manager confirming receipt of your submission and asking any additional questions we have. Please be sure to check your spam folders.
+
+{% hint style="info" %}
+Note that **you will be unable to edit your submission while it's under review** by a data manager. You can always email [info@bco-dmo.org](mailto:info@bco-dmo.org) if you'd like to make changes.
+{% endhint %}
