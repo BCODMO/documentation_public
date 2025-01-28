@@ -6,6 +6,7 @@ env:
   REVALIDATE_TOKEN: ${{ secrets.REVALIDATE_TOKEN }}
   VERCEL_BYPASS: ${{ secrets.VERCEL_BYPASS }}
   STAGING_URL: ${{ vars.STAGING_URL }}
+  PROD_URL: ${{ vars.PROD_URL }}
 
 
 # Controls when the workflow will run
@@ -28,6 +29,12 @@ jobs:
     steps:
 
       # Runs a single command using the runners shell
+      - name: Reset cache in staging
+        run: >
+          curl --header "x-bcodmo-revalidate-token: $REVALIDATE_TOKEN"
+          --header "x-vercel-protection-bypass: $VERCEL_BYPASS"
+          $PROD_URL/api/revalidate?tag=gitbook
+          
       - name: Reset cache in staging
         run: >
           curl --header "x-bcodmo-revalidate-token: $REVALIDATE_TOKEN"
