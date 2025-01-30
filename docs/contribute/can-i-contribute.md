@@ -19,16 +19,36 @@ BCO-DMO is funded by the US National Science Foundation to provide data manageme
   * **Chemical Oceanography** Program
 * The NSF Division of Polar Programs' Antarctic Organisms & Ecosystems Program (**OPP;** formerly PLR)
 * NSF Ocean Acidification program (**CRI-OA)**. Certain awards represent collaborations between OCE and other NSF divisions, eg., Division of Environmental Biology (DEB). **NOTE:** this is a legacy program that has sunset.
-* NSF **FSML**: Biological Field Stations and Marine Laboratories (part of Division of Biological Infrastructure, DBI).
-* Long-Term Ecological Research (**LTER**): LTER is a cross-cutting program at the Directorate/Division level (for example BIO/DEB, GEO/OPP, GEO/OCE, SBE/BCS) that funds research at oceanographic sites (GEO/OCE). BCO-DMO accepts ancillary or complimentary research output conducted at these sites. Core LTER research data can be directed to the Environmental Data Initiative (EDI) repository.
+* NSF **FSML**: Biological Field Stations and Marine Laboratories (part of Division of Biological Infrastructure, DBI)
+* Long-Term Ecological Research (**LTER**): LTER is a cross-cutting program at the Directorate/Division level (for example BIO/DEB, GEO/OPP, GEO/OCE, SBE/BCS) that funds research at oceanographic sites (GEO/OCE). **BCO-DMO accepts ancillary or complimentary research output conducted at these sites.** Core LTER research data can be directed to the [Environmental Data Initiative](https://edirepository.org/) (EDI) repository.
+* Because OCE BIO is a partner in these interdisciplinary programs, we can also accept data from the following:
+  * **Organismal Response to Climate Change (ORCC):**  [https://www.nsf.gov/pubs/2023/nsf23622/nsf23622.htm](https://www.nsf.gov/pubs/2023/nsf23622/nsf23622.htm)
+  * **Biodiversity on a Changing Planet (BoCP):** [https://www.nsf.gov/pubs/2023/nsf23542/nsf23542.htm](https://www.nsf.gov/pubs/2023/nsf23542/nsf23542.htm)
+  * **Ecology and Evolution of Infectious Disease (EEID):** [https://www.nsf.gov/pubs/2023/nsf23616/nsf23616.htm](https://www.nsf.gov/pubs/2023/nsf23616/nsf23616.htm)
+* When the subject of the project/data falls within BCO-DMO's domains of expertise, we can accept data from:
+  * The Division of Ocean Science's Postdoctoral Fellowship Program (**OCE-PRF**): [https://www.nsf.gov/pubs/2022/nsf22628/nsf22628.htm](https://www.nsf.gov/pubs/2022/nsf22628/nsf22628.htm)
+  * The **GEO EMBRACE** Program: [https://new.nsf.gov/funding/opportunities/embrace-empowering-broader-academic-capacity-education](https://new.nsf.gov/funding/opportunities/embrace-empowering-broader-academic-capacity-education)
+  * NSF **GEO-NERC** Collaborative projects: [https://new.nsf.gov/funding/information/dcl-special-guidelines-submitting-collaborative-proposals-under-2](https://new.nsf.gov/funding/information/dcl-special-guidelines-submitting-collaborative-proposals-under-2)
+  * Paleo Perspectives on Present and Projected Climate (**P4CLIMATE**): [https://new.nsf.gov/funding/opportunities/p4climate-paleo-perspectives-present-projected-climate/nsf22-612/solicitation](https://new.nsf.gov/funding/opportunities/p4climate-paleo-perspectives-present-projected-climate/nsf22-612/solicitation)
 
 BCO-DMO staff members work with researchers funded by these NSF programs to ensure that their research output is in compliance with the current [NSF OCE Sample and Data Policy](https://www.nsf.gov/pubs/2024/nsf24124/nsf24124.jsp) (NSF 24-124).&#x20;
+
+## Non-NSF Data and Special Cases
+
+In addition to the programs listed above, BCO-DMO also accepts data funded through the following programs:
+
+* Center for Chemical Currencies of a Microbial Planet **(C-CoMP):** an NSF-funded Science and Technology Center that awards its own research grants and supports a number of different researchers and projects. [https://ccomp-stc.org/](https://ccomp-stc.org/)
+* Center for Dark Energy Biosphere Investigations **(C-DEBI):** an NSF-funded project that awards its own research grants and supports a number of different researchers and projects. [https://www.darkenergybiosphere.org/](https://www.darkenergybiosphere.org/)
+* The Gordon and Betty Moore Foundation Marine Microbiology Initiative (**GBMF** **MMI**): [https://www.moore.org/](https://www.moore.org/)
+* Ocean Protein Portal (**OPP**): a prototype data-sharing platform for ocean metaproteomics data. [https://proteinportal.whoi.edu/about](https://proteinportal.whoi.edu/about)
 
 ## Do you have other data?
 
 If your project is not funded by an NSF program that BCO-DMO serves, there are additional repositories in the compiled list of recommended data centers below.&#x20;
 
-If your data fit within BCO-DMO's disciplinary scope, we may still be able to provide you with data management services These datasets are typically prioritized after NSF-funded data and are on a fee-for-service basis. Costs are determined after review of the data. Please contact [info@bco-dmo.org](mailto:info@bco-dmo.org) for more information.
+If your data fit within BCO-DMO's disciplinary scope, we may still be able to provide you with data management services These datasets are typically prioritized after NSF-funded data and are on a fee-for-service basis. Costs are determined after we've reviewed the data. Email us at [info@bco-dmo.org](mailto:info@bco-dmo.org) to discuss your project data and request a cost estimate.&#x20;
+
+If you have any questions about where to share your data, we always recommend contacting your funding program manager and you can also reach us at [info@bco-dmo.org](mailto:info@bco-dmo.org) with any questions.
 
 ## Other recommended domain-specific repositories
 
