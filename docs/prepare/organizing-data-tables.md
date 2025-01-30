@@ -12,7 +12,7 @@ BCO-DMO wants to make it as easy as possible for researchers to submit their dat
 
 ### Position (location) data
 
-BCO-DMO publishes latitude and longitude data as decimal degrees. North latitude and east longitude are represented by positive values, and south latitude and west longitude are represented by negative values. We will convert any latitude and longitude format to decimal degrees.
+BCO-DMO publishes latitude and longitude data as decimal degrees. North latitude and east longitude are represented by positive values; south latitude and west longitude are represented by negative values. We will convert any latitude and longitude format to decimal degrees.
 
 **Quick guide for submitters**
 
@@ -21,11 +21,11 @@ BCO-DMO publishes latitude and longitude data as decimal degrees. North latitude
 
 **Background**
 
-Whenever possible, data should be accompanied by position information so that others can put the data in a geographical context and compare them to other data. Position information can be detailed at the dataset level (referred to as the geospatial extent of a dataset), and at the observation level (per each row) within a data table. The geospatial extent of a dataset is derived from observation level lat/long details.&#x20;
+Whenever possible, data should be accompanied by position information so that others can put the data in a geographical context and compare them to other data. Position information can be detailed at the dataset level (referred to as the geospatial extent of a dataset), and at the observation level (per each row) within a data table. The geospatial extent of a dataset is derived from observation-level lat/long details.&#x20;
 
 ### Dates and times
 
-BCO-DMO provides date-times in [ISO 8601 format](https://www.iso.org/iso-8601-date-and-time-format.html) (YYYY-MM-DDThh:mm:ss) format, and in both UTC and local time when possible. We will convert any other provided format into ISO 8601, and will add UTC date time columns if only local times are provided.
+BCO-DMO provides date-times in [ISO 8601 format](https://www.iso.org/iso-8601-date-and-time-format.html) (YYYY-MM-DDThh:mm:ss) format, and in both UTC and local time when possible. We will convert any other provided format into ISO 8601, and will add UTC date-time columns if only local times are provided.
 
 **Quick guide for submitters**
 
@@ -34,15 +34,15 @@ BCO-DMO provides date-times in [ISO 8601 format](https://www.iso.org/iso-8601-da
 
 **Background**
 
-Entering date and time information is as important as entering the position information. While arguments still persist as to how date and time should be displayed, consistency is the overriding rule of thumb. If you have a choice, it would be best to provide date and time as UTC (some refer to this as GMT).
+Entering date and time information is as important as entering the position information. While arguments persist as to how date and time should be displayed, consistency is the overriding rule of thumb. If you have a choice, it would be best to provide the date and time as UTC (some refer to this as GMT).
 
-The values can be entered in separate columns, as year, month, day, and time, or as a single long entry like YYYY-MM-DD hh:mm:ss where YYYY is the four digit year, MM is the month (January is 01), DD is the day of the month, hh is the hour (13 is 1:00pm), mm is minutes, and ss is seconds. The order isn't important, just be consistent (e.g. MM-DD-YYYY is acceptable but please be sure to document what format you're using as part of the column definitions).
+The values can be entered in separate columns, as year, month, day, and time, or as a single long entry like YYYY-MM-DD hh:mm:ss where YYYY is the four digit year, MM is the month (January is 01), DD is the day of the month, hh is the hour (13 is 1:00 pm), mm is minutes, and ss is seconds. The order isn't important, just be consistent (e.g. MM-DD-YYYY is acceptable but please be sure to document what format you're using as part of the column definitions).
 
 If you have time zone information, please provide that too, either as a number or abbreviation (e.g. time zone of -8 is UTC-8 for Pacific Standard Time \[PST] and time zone of -7 is UTC-7 for Pacific Daylight Time \[PDT].)&#x20;
 
-If local time is provided, you must be clear in your parameter metadata about (1) whether it is local ship's time or local time based on the longitude of the measurement, and (2) provide the time zone. If local time is provided, we will add a UTC column to the dataset. Time zone information can be provided in the metadata or as a separate column, within the parameter documentation you provide with your data table(s). Note that local ship's time is not necessarily the same as the local time based on the longitude value.
+If local time is provided, you must be clear in your parameter metadata about (1) whether it is local ship's time or local time based on the longitude of the measurement, and (2) provide the time zone. If local time is provided, we will add a UTC column to the dataset. Time zone information can be provided in the metadata or as a separate column within the dataset. Note that local ship's time is not necessarily the same as the local time based on the longitude value.
 
-Some like to provide date and time information as a single value, starting at some arbitrary point in time or at the beginning of the year (e.g. Julian day), so that 1.5 would represent January 1 at 12:00pm. Others start counting with 0, so that 1.5 is January 2 at 1200. We can manage almost any format, but as mentioned above, please be consistent and describe the format you are using.  If you provide date and time as a single value, please don’t forget to include the year information in a separate column, in the header, or in a separate document.
+Some like to provide date and time information as a single value, starting at some arbitrary point in time or at the beginning of the year (e.g. Julian day), so that 1.5 would represent January 1 at 12:00 pm. Others start counting with 0, so that 1.5 is January 2 at 1200. We can manage almost any format, but as mentioned above, please be consistent and describe the format you are using.  If you provide date and time as a single value, please don’t forget to include the year information in a separate column, in the header, or in a separate document.
 
 **Additional Details about UTC and GMT**
 
@@ -65,13 +65,13 @@ To help ensure your data table is formatted in a way that can be reused across p
 
 ### **Column headers**
 
-The header row is the first row of a data table and it contains the column names (or what we refer to as "parameters") of a dataset.&#x20;
+The header row is the first row of a data table; it contains the column names (or what we refer to as "parameters") of a dataset.&#x20;
 
 **Quick guide for submitters**&#x20;
 
 * Create decipherable and unique column names in the first row of your dataset
 * Avoid using special characters (like symbols and Greek letters) in column names
-* Column names must begin with a letter and can contain only letters, numbers, and underscores (If the names you provide don't comply with these requirements, your BCO-DMO data manager will adjust the names as needed.)
+* **BCO-DMO Parameter Naming Conventions**: Column names must begin with a letter and can contain only letters, numbers, and underscores (If the names you provide don't comply with these requirements, your BCO-DMO data manager will adjust the names as needed.)
 
 ### Merged cells
 
@@ -84,13 +84,15 @@ Merged cells are Excel cells that contain more than one datum. Each cell should 
 
 ### Blanks, missing data, below detection limit, and zeros&#x20;
 
-Blank cells and zeros (0) hold different meanings within a dataset. Blank cells can denote missing or undefined values, whereas zeros (0) denote that a value of zero (0) had been measured.&#x20;
+Blank cells and zeros (0) hold different meanings within a dataset. Blank cells can denote missing or undefined values, whereas zeros (0) denote that a value of zero (0) has been measured.&#x20;
 
 Missing data may also be represented by nd, NaN, NA, -999, or other data flags. Whatever you used to denote missing data, be sure to document this as part of the dataset's metadata.
 
-BCO-DMO will change any values that represent "no data" to "nd" (minus the quotation marks). This will allow all "no data" cells in a data table to appear as blanks in the final data product we publish.&#x20;
+BCO-DMO will remove any values that represent "no data" and leave the missing data empty or blank.&#x20;
 
-"Bdl" is often used to denote values that are below detection. If you use this notation, document what the detection limits are as part of the metadata.&#x20;
+(Note that in the past, our policy was to represent missing data as "nd", however, to better support interoperability, missing data are now left empty/blank when possible.)
+
+"Bdl" is often used to denote values that are below detection. If you use this notation, be sure to document detection limits as part of the metadata.&#x20;
 
 **Quick guide for submitters**
 
@@ -103,11 +105,11 @@ It is difficult to process ranges of values within a single cell. If there are r
 
 **Quick guide for submitters**
 
-* Create separate columns for min and max values, instead of placing ranges in one cell
+* Create separate columns for minimum and maximum values, instead of placing ranges in one cell
 
 ### **Units**&#x20;
 
-Units should not appear in a data cell, (e.g., "0.5 knots"). The cell should contain only the value (e.g. "0.5"). Units can appear as a separate line underneath the column headers or in a separate document (such as in the parameter details you provide to BCO-DMO), and/or as part of the column name.
+Units should **not** appear in a data cell, (e.g., "0.5 knots"). The cell should contain only the value (e.g. "0.5"). Units can appear as a separate line underneath the column headers or in a separate document (such as in the parameter details you provide to BCO-DMO), and/or as part of the column name.
 
 **Quick guide for submitters**
 
@@ -135,11 +137,11 @@ Within the context of research data, statistics are summaries or calculated inte
 * Do not submit statistical summaries of your data to BCO-DMO unless you want them to be provided as supplemental files to the full dataset
 * Always provide the primary measurements or complete datasets
 
-## Figures, images, video and other supplemental files (non-tabular data)
+## Figures, images, video, and other supplemental files (non-tabular data)
 
-BCO-DMO can help you make graphs and images, available to others. There are different strategies we can use, depending on how your data tables and supplemental files are interrelated. We can accept images (and movies) in just about any common format, such as gif, tif, jpeg, mov, etc. Long (or short) descriptions are best provided separately, as part of the descriptions of how the data were collected or processed.
+BCO-DMO can help you make graphs and images available to others. There are different strategies we can use depending on how your data tables and supplemental files are related. We can accept images and video in just about any common format, such as .gif, .tif, .jpeg, .mov, etc. Descriptions of images and video must be provided as part of the dataset's metadata.
 
-See related guidance on page [Image/Video Datasets](image-video-datasets.md)
+See related guidance on page [Image/Video Datasets](image-video-datasets.md).
 
 ## Finding examples of well-formatted tables
 
