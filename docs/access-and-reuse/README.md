@@ -1,6 +1,6 @@
 # Access & Reuse
 
-The BCO-DMO database ([www.bco-dmo.org](https://www.bco-dmo.org)) consists of research-ready data that spans the full range of marine ecosystem-related measurements including in-situ and remotely sensed observations, experimental results, models output, and synthesis products.&#x20;
+The BCO-DMO database consists of research-ready data that span the full range of marine ecosystem-related measurements including in-situ and remotely sensed observations, experimental results, model output, and synthesis products.&#x20;
 
 BCO-DMO develops and adopts software, APIs, ontologies, and other services to enhance data access, discovery, and interoperability.&#x20;
 
