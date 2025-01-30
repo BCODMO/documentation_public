@@ -30,7 +30,7 @@ Principal Investigator (PI) name(s) (VERSION YEAR) title of dataset, data versio
 
 **Example Dataset Citations:**
 
-Buesseler, K. (2006) "VERTIGO Cruise Event Log." Biological and Chemical Oceanography Data Management Office (BCO-DMO). Dataset version: 5 September 2006. [http://www.bco-dmo.org/dataset/2957](http://www.bco-dmo.org/dataset/2957) \[access date]
+Gifford, D., Manning, J. (2004) Chlorophyll data from R/V Endeavor cruises EN321 and EN325 to Georges Bank in 1999 as part of the U.S. GLOBEC program (GB project). Biological and Chemical Oceanography Data Management Office (BCO-DMO). (Version 1) Version Date 2004-07-14 \[if applicable, indicate subset used]. doi:10.1575/1912/bco-dmo.2417.1 \[access date]
 
 Twining, B. (2016). “Element Quotas of Individual Synechococcus Cells Collected During Bermuda Atlantic Time-Series Study (BATS) Cruises Aboard the R/V Atlantic Explorer between 2012-07-11 and 2013-10-13”. Biological and Chemical Oceanography Data Management Office (BCO-DMO) Dataset version 05/06/2016. doi:10.1575/1912/bco-dmo.651474 \[access date]
 
