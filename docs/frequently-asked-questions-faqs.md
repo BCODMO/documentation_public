@@ -2,8 +2,8 @@
 
 ## What is BCO-DMO?
 
-BCO-DMO ([www.bco-dmo.org](https://www.bco-dmo.org)) is the **B**iological and **C**hemical **O**ceanography **D**ata **M**anagement **O**ffice. Our acronym is pronounced as "Bee-Co Dee-Mo." \
-\
+BCO-DMO is the **B**iological and **C**hemical **O**ceanography **D**ata **M**anagement **O**ffice. Our acronym is pronounced as "Bee-Co Dee-Mo."&#x20;
+
 BCO-DMO curates a database of research-ready data spanning the full range of marine ecosystem-related measurements including in-situ and remotely-sensed observations, experimental and model results, and synthesis products. We work closely with investigators to publish data and information from research projects in accordance with F.A.I.R. (Findable, Accessible, Interoperable, Reusable) data policies.
 
 ## What are the mission and vision of BCO-DMO?
@@ -16,11 +16,11 @@ The BCO-DMO project strives to stay apprised of evolving and leading practices, 
 
 ## Who funds BCO-DMO?
 
-BCO-DMO is primarily funded by the National Science Foundation (NSF) Division of Ocean Sciences (OCE). Our current award is [OCE-1924618](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1924618\&HistoricalAwards=false). Past awards include [OCE-1435578](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1435578\&HistoricalAwards=false) and [OCE-1031253](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1031253\&HistoricalAwards=false).
+BCO-DMO is primarily funded by the National Science Foundation (NSF) Division of Ocean Sciences (OCE). Our current award is [OCE-2421145](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2421145\&HistoricalAwards=false) (2024-2029). Past awards include [OCE-1924618](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1924618\&HistoricalAwards=false) (2019-2025), [OCE-1435578](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1435578\&HistoricalAwards=false) (2014-2020), and [OCE-1031253](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1031253\&HistoricalAwards=false) (2010-2015)
 
 ## Who are the people at BCO-DMO?
 
-BCO-DMO is made up of several Data Managers, who curate and publish datasets, as well as Application Programmers, who maintain our technical infrastructure. We are advised by our sciences PIs and by our Strategic Planning Committee. Contact information can be found on our website at [https://www.bco-dmo.org/contact](https://www.bco-dmo.org/contact).
+BCO-DMO is made up of several Data Managers, who curate and publish datasets, as well as Application Programmers, who maintain our technical infrastructure. We are advised by our science PIs and by our Strategic Planning Committee. Contact information can be found on our website at [https://bco-dmo.org/team](https://demo.bco-dmo.org/team).
 
 ## Who can contribute data to BCO-DMO?
 
@@ -28,7 +28,7 @@ BCO-DMO primarily accepts data from researchers funded by the National Science F
 
 ## What are NSF's requirements for data management?
 
-NSF has a well-defined [data management policy section](https://new.nsf.gov/policies/pappg/23-1/ch-2-proposal-preparation#2D2i-ii) contained within the Grant Proposal Guide (GPG). Specific directorates, divisions, programs, or other units of NSF may also have additional data management policies. The Division of Ocean Sciences (OCE) updated its [Sample and Data Policy](https://nsf.gov/pubs/2017/nsf17037/nsf17037.jsp?org=NSF) in 2016. Of note is the requirement that data collected by researchers funded by NSF must be made publically available within two years of the data collection/production.&#x20;
+NSF has a well-defined [data management policy section](https://new.nsf.gov/policies/pappg/23-1/ch-2-proposal-preparation#2D2i-ii) contained within the Grant Proposal Guide (GPG). Specific directorates, divisions, programs, or other units of NSF may also have additional data management policies. The Division of Ocean Sciences (OCE) updated its [Sample and Data Policy](https://www.nsf.gov/pubs/2024/nsf24124/nsf24124.jsp) in 2024. Of note is the requirement that data collected by researchers funded by NSF must be made publically available within two years of the data collection/production.&#x20;
 
 ## What is an NSF Data Management Plan?
 
@@ -56,7 +56,7 @@ Yes, we do. Please review our "[Data Table Organization](prepare/organizing-data
 
 ## My data are online already. Do I need to send my data to BCO-DMO too?
 
-The [NSF OCE Data Policy](https://www.nsf.gov/pubs/2017/nsf17037/nsf17037.jsp?org=NSF) has specific requirements about where data are expected to be published and archived. Providing access via a project-specific website is not likely to be sufficient in meeting NSF's requirements because these types of websites usually do not persist long-term nor do they provide long-term archiving of data. However, if your data are already online in another NSF-approved data repository, it _may_ not be necessary to submit those data to BCO-DMO as well. If your data are already online elsewhere, we encourage you to contact us at i[nfo@bco-dmo.org ](mailto:info@bco-dmo.org)to determine if data or metadata should be submitted to us as well. We also advise speaking with your NSF program manager if you have any questions about the best place to publish your data online.
+The [NSF OCE Data Policy](https://www.nsf.gov/pubs/2024/nsf24124/nsf24124.jsp) has specific requirements about where data are expected to be published and archived. Providing access via a project-specific website is not likely to be sufficient in meeting NSF's requirements because these types of websites usually do not persist long-term nor do they provide long-term archiving of data. However, if your data are already online in another NSF-approved data repository, it _may_ not be necessary to submit those data to BCO-DMO as well. If your data are already online elsewhere, we encourage you to contact us at i[nfo@bco-dmo.org ](mailto:info@bco-dmo.org)to determine if data or metadata should be submitted to us as well. We also advise speaking with your NSF program manager if you have any questions about the best place to publish your data online.
 
 ## How should I submit large data files to BCO-DMO?
 
@@ -78,7 +78,7 @@ We are glad you asked! Please read our "[Data Table Organization](prepare/organi
 
 ## If I need help, who should I call at BCO-DMO?
 
-You can send an email to [info@bco-dmo.org](mailto:info@bco-dmo.org) or [contact a particular person](http://www.bco-dmo.org/contact).
+You can send an email to [info@bco-dmo.org](mailto:info@bco-dmo.org).
 
 ## What formats are available for downloading data from BCO-DMO?
 
