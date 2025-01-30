@@ -10,9 +10,9 @@ A Data Management Plan (or "DMP") is a formal document that outlines what you wi
 
 ## NSF's DMP requirements
 
-Proposals submitted to the National Science Foundation (NSF) must include a supplementary document of no more than two pages labeled “Data Management Plan” (DMP). This supplementary document should describe how the proposal will conform to NSF’s policy on the dissemination and sharing of research results. See the full description in the [NSF Proposal & Award Policies & Procedures Guide (PAPPG)](https://new.nsf.gov/policies/pappg/23-1/ch-2-proposal-preparation#2D2i-ii) for full policy implementation.
+Proposals submitted to the National Science Foundation (NSF) must include a supplementary document of no more than two pages labeled “Data Management Plan” (DMP). This supplementary document should describe how the proposal will conform to NSF’s policy on the dissemination and sharing of research results. See the full description in the [NSF Proposal & Award Policies & Procedures Guide (PAPPG)](https://new.nsf.gov/policies/pappg/24-1/ch-2-proposal-preparation#ch2D2i-ii) for full policy implementation.
 
-Investigators working under awards granted by the NSF Division of Ocean Sciences (OCE) have additional conditions to which they must adhere, as described in the [OCE Sample and Data Policy](https://www.nsf.gov/pubs/2017/nsf17037/nsf17037.jsp).&#x20;
+Investigators working under awards granted by the NSF Division of Ocean Sciences (OCE) have additional conditions to which they must adhere, as described in the [OCE Sample and Data Policy](https://www.nsf.gov/pubs/2024/nsf24124/nsf24124.jsp).&#x20;
 
 If your proposal is being submitted to OCE's Biological or Chemical Oceanography Sections or the Office of Polar Programs Antarctic Sciences (ANT) Organisms & Ecosystems Program then your DMP can state that results generated during the proposed research project will be contributed to the BCO-DMO system.
 
@@ -54,6 +54,6 @@ A summary of these instructions, including screenshots, is available in the [DMP
 
 ## Additional Resources
 
-[NSF OCE Sample and Data Policy](https://www.nsf.gov/pubs/2017/nsf17037/nsf17037.jsp)\
+[NSF OCE Sample and Data Policy](https://www.nsf.gov/pubs/2024/nsf24124/nsf24124.jsp)\
 [NSF Frequently Asked Questions (FAQs) for Public Access](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18041)\
 [DMPTool Quick Start Guide](https://dmptool.org/help)\
