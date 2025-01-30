@@ -1,8 +1,10 @@
+---
+description: How to register a project at BCO-DMO
+---
+
 # Project Registration
 
-&#x20;How to register a project at BCO-DMO ([www.bco-dmo.org](https://www.bco-dmo.org)).
-
-## What is an NSF Project?
+## &#x20;What is an NSF Project?
 
 * A project oversees a collection of one or more datasets.
 * A project may or may not be part of a larger program.
