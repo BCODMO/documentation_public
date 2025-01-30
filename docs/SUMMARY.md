@@ -1,6 +1,6 @@
 # Table of contents
 
-* [BCO-DMO Documentation](README.md)
+* [BCO-DMO Guide](README.md)
 * [Data Sharing Expectations & Processes](data-sharing-expectations-and-processes.md)
 * [Prepare](prepare/README.md)
   * [Data Management Plan](prepare/data_management_plan.md)
