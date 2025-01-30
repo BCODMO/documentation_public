@@ -34,8 +34,8 @@ Typically, BCO-DMO publishes your media (e.g. images/videos) by bundling them us
 
 **The format of the images/video you submit to BCO-DMO should be one with the most reuse potential.** If your community would benefit from raw images (this is often TIFF format), you can submit them in this form however, in these cases, we recommend submitting raw in addition to any processed formats.
 
-For NSF OCE-funded projects, the Data Sharing Policy states:\
-&#xNAN;_&#x54;he Division of Ocean Sciences requires that metadata files, full data sets, derived data products and physical collections must be made publicly accessible within two (2) years of collection._ [https://www.nsf.gov/pubs/2017/nsf17037/nsf17037.jsp](https://www.nsf.gov/pubs/2017/nsf17037/nsf17037.jsp)
+For NSF OCE-funded projects, the [Data Sharing Policy states](https://www.nsf.gov/pubs/2024/nsf24124/nsf24124.jsp):\
+&#xNAN;_&#x54;he Division of Ocean Sciences requires that metadata files, full data sets, derived products and physical collections must be made publicly accessible upon publication, or within two (2) years of collection, whichever comes first._
 
 ## Data and metadata to include along with images/video files
 
@@ -88,7 +88,7 @@ Include whatever data is needed for reuse by your community. BCO-DMO data manage
 
 ## Example Datasets
 
-Your images and related data may become one or more "Datasets" at BCO-DMO depending upon the type of data and their structure.\
+Your images and related data may become one or more "datasets" at BCO-DMO depending upon the type of data and their structure.\
 \
 In some cases, it makes sense to have a dedicated dataset metadata page for the images themselves and a file inventory or collection information, which will have its own DOI. Associated data would be published from separate dataset metadata pages, each getting a DOI. A BCO-DMO Data Manager can help decide how to organize your data into metadata landing pages when you submit your data or when you reach out in advance of your submission.
 
