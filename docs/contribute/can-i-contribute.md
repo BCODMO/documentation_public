@@ -41,6 +41,7 @@ In addition to the programs listed above, BCO-DMO also accepts data funded throu
 * Center for Dark Energy Biosphere Investigations **(C-DEBI):** an NSF-funded project that awards its own research grants and supports a number of different researchers and projects. [https://www.darkenergybiosphere.org/](https://www.darkenergybiosphere.org/)
 * The Gordon and Betty Moore Foundation Marine Microbiology Initiative (**GBMF** **MMI**): [https://www.moore.org/](https://www.moore.org/)
 * Ocean Protein Portal (**OPP**): a prototype data-sharing platform for ocean metaproteomics data. [https://proteinportal.whoi.edu/about](https://proteinportal.whoi.edu/about)
+* **GEOTRACES**: BCO-DMO is the designated data assembly center for US GEOTRACES researchers. In most cases, GEOTRACES projects are funded through NSF OCE, but if there are exceptions we may still accept your data. See the "[GEOTRACES Data](../prepare/geotraces.md)" page for more information.
 
 ## Do you have other data?
 
