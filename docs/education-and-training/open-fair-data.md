@@ -10,12 +10,6 @@ Realizing the value of open data within the scientific research landscape, sever
 
 However, for data to be reused efficiently and effectively, they must also be **well-managed and stewarded**. Here, domain-specific repositories add great value to their community’s research data by bringing subject matter expertise to the curation process (Lenhert, 2015; ICPSR, 2013).
 
-## Data Life Cycle
-
-Curating and providing open access to research data is a collaborative process. This process may be thought of as a life cycle with data passing through various phases. Each phase has its own associated actors, roles, and critical activities. Good data management (including data description through metadata and documentation, quality assurance, and backups) and practices are necessary for all phases, from proposal to preservation.
-
-![Research Data Management Lifecycle ](<../.gitbook/assets/data lifecycle diagram (1).png>)
-
 ## F.A.I.R Principles
 
 The four F.A.I.R. Principles ([Wilkinson et al., 2016](http://dx.doi.org/10.1038/sdata.2016.18)) are a set of values intended to guide data producers and publishers in establishing good data management and stewardship practices. These principles are at the core mission of BCO-DMO:

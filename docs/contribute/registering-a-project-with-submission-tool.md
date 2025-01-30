@@ -135,7 +135,7 @@ If you need to remove that file for any reason, you can click the red trash can 
 
 **Instructions:** On this screen, you can submit your project to BCO-DMO or save it as a draft. You'll also see a box where you can enter other information, comments, questions, etc. for a BCO-DMO data manager.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>screenshot of the Submit page</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>screenshot of the Submit page</p></figcaption></figure>
 
 If you'd like to save the draft to work on later, click "Save as draft". Your draft will show up on your submission tool dashboard ([https://submit.bco-dmo.org/](https://submit.bco-dmo.org/)). BCO-DMO will not review your submission until "Submit project" is selected.
 
