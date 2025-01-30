@@ -10,7 +10,7 @@ description: How to contribute data to BCO-DMO
 
 We provide **data management and curation services** free of charge to investigators funded through the NSF OCE Biological and Chemical Oceanography programs and NSF Division of Polar Programs.&#x20;
 
-For those funded outside of these programs, we determine if the data would be of value to the BCO-DMO user community and negotiate a 'fee per dataset' data management strategy. See "[Find a Fitting Repository](can-i-contribute.md)" for a complete list of programs supported by BCO-DMO and for help finding another repository if BCO-DMO is not appropriate.
+For those funded outside of these programs, we determine if the data would be of value to the BCO-DMO user community and negotiate a 'fee per dataset' data management strategy. See "[Can I Contribute?](can-i-contribute.md)" for a complete list of programs supported by BCO-DMO and for help finding another repository if BCO-DMO is not appropriate.
 
 **Register your award and related project**
 
