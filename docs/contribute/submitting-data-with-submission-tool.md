@@ -12,7 +12,7 @@ After clicking the "Submit a new dataset" button from the [Submission Tool dashb
 
 At the top of the "Overview" section, you'll see a checkbox where you can indicate if you'd like the dataset to be restricted/embargoed. If you click this checkbox, you'll then see a field where you can enter the desired public release date for the dataset. Select the release date using the calendar drop-down.&#x20;
 
-Please be aware of your funder policies about data sharing and any policies established by journals you plan to publish in. The [NSF OCE Data Policy](https://www.nsf.gov/pubs/2017/nsf17037/nsf17037.jsp), for example, requires data to be made publicly available no later than two years after collection. Certain journals may also require your data to be publicly available for the peer-review process.&#x20;
+Please be aware of your funder policies about data sharing and any policies established by journals you plan to publish in. The [NSF OCE Data Policy](https://www.nsf.gov/pubs/2024/nsf24124/nsf24124.jsp), for example, requires data to be made publicly available no later than two years after collection. Certain journals may also require your data to be publicly available for the peer-review process.&#x20;
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>screenshot of the restricted data and release date options</p></figcaption></figure>
 
@@ -177,14 +177,14 @@ ISO8601 format is preferred (YYYY-MM-DD). If you only know the year and month, t
 
 ### Methods & Sampling
 
-**Instructions**: Provide **detailed** methods for sample collection and analyses, including references. Consider the following: filter type, pore size, wash protocols, storage of sample before determination (time, conditions), sample preparation, treatment descriptions, and specific changes from any published methodologies mentioned. Include a description of data processing and any software products that were used, including version numbers if available. \
-\
+**Instructions**: Provide **detailed** methods for sample collection and analyses, including references. Consider the following: filter type, pore size, wash protocols, storage of sample before determination (time, conditions), sample preparation, treatment descriptions, and specific changes from any published methodologies mentioned. Include a description of data processing and any software products that were used, including version numbers if available.&#x20;
+
 "See methodology in results publication" is insufficient. If citing the methodology section of a results publication, please provide a methodology summary in addition to the citation.
 
 ### Instruments
 
-**Instructions**:  Provide the names and descriptions of all **equipment and instrumentation** used in sample collection and analyses. Include manufacturer names and model numbers where relevant and calibration information for individual sensors. If you have calibration files you can upload them in the Files section along with a description of the calibration file.\
-\
+**Instructions**:  Provide the names and descriptions of all **equipment and instrumentation** used in sample collection and analyses. Include manufacturer names and model numbers where relevant and calibration information for individual sensors. If you have calibration files you can upload them in the Files section along with a description of the calibration file.
+
 **Examples**:
 
 > 8 L X-Niskin bottles: Dissolved seawater samples were collected using a 12-bottle trace metal clean rosette equipped with 8 L X-Niskin bottles.
@@ -207,8 +207,8 @@ ISO8601 format is preferred (YYYY-MM-DD). If you only know the year and month, t
 
 ### Problems/Issues
 
-**Instructions**: List any known problems associated with the dataset,  such as gaps in sampling, instrument malfunction, software errors, etc. Include information about any quality flags used.\
-\
+**Instructions**: List any known problems associated with the dataset,  such as gaps in sampling, instrument malfunction, software errors, etc. Include information about any quality flags used.
+
 **Example**:
 
 > Some dissolved cobalt values reported are suspected misfires, and are accordingly labeled with a QC flag of 3. See flag definitions at: [https://www.geotraces.org/geotraces-quality-flag-policy/](https://www.geotraces.org/geotraces-quality-flag-policy/)&#x20;
@@ -250,8 +250,8 @@ ISO8601 format is preferred (YYYY-MM-DD). If you only know the year and month, t
 
 Please include limits of detection, precision, any inter-calibration information, use of international standards, etc. if relevant. Include the missing data identifier(s) used to indicate "no data" (e.g. -999, NaN, nd). Remember to provide the time zone.
 
-If you'd prefer to provide your parameter descriptions in a separate file, please use [parameters\_template.csv](https://submit.bco-dmo.org/static/files/parameters_template.csv) and upload this file in the file upload section. Refer to [parameters\_example\_porewater-geochem.csv](https://submit.bco-dmo.org/static/files/parameters_example_porewater-geochem.csv) as an example.\
-\
+If you'd prefer to provide your parameter descriptions in a separate file, please use [parameters\_template.csv](https://submit.bco-dmo.org/static/files/parameters_template.csv) and upload this file in the file upload section. Refer to [parameters\_example\_porewater-geochem.csv](https://submit.bco-dmo.org/static/files/parameters_example_porewater-geochem.csv) as an example.
+
 **Example**:
 
 > Site = Site number (1, 2, or 3); three sites were cored in the high marsh; unitless. \
