@@ -34,8 +34,9 @@ Typically, BCO-DMO publishes your media (e.g. images/videos) by bundling them us
 
 **The format of the images/video you submit to BCO-DMO should be one with the most reuse potential.** If your community would benefit from raw images (this is often TIFF format), you can submit them in this form however, in these cases, we recommend submitting raw in addition to any processed formats.
 
-For NSF OCE-funded projects, the [Data Sharing Policy states](https://www.nsf.gov/pubs/2024/nsf24124/nsf24124.jsp):\
-&#xNAN;_&#x54;he Division of Ocean Sciences requires that metadata files, full data sets, derived products and physical collections must be made publicly accessible upon publication, or within two (2) years of collection, whichever comes first._
+For NSF OCE-funded projects, the [Data Sharing Policy states](https://www.nsf.gov/pubs/2024/nsf24124/nsf24124.jsp),
+
+_The Division of Ocean Sciences requires that metadata files, full data sets, derived products and physical collections must be made publicly accessible upon publication, or within two (2) years of collection, whichever comes first._
 
 ## Data and metadata to include along with images/video files
 
