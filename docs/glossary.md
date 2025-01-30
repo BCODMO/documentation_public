@@ -4,8 +4,6 @@ description: Definitions of frequently used terms and acronyms
 
 # Glossary
 
-_**This page is still under construction!**_
-
 ## **Terminology**
 
 **Current State**: BCO-DMO's dataset landing pages display a "Current State" field denoting the status of the dataset. The Current States are defined as:
@@ -16,9 +14,7 @@ _**This page is still under construction!**_
 * **Final no updates expected** = The data submitter has validated the data and metadata for the current version and no updates are expected.
 * **Final with updates expected** = The data submitter has validated the data and metadata for the current version. Updates to the dataset are expected. This designation is often used to indicate ongoing data updates are expected, such as for time-series datasets.
 
-**Data Management Plan**: A data management plan, or DMP, is a formal document that outlines what you will do with your data during and after a research project. Proposals submitted to NSF must include a DMP and those submitted to the NSF Division of Ocean Sciences (OCE) must comply with [OCE Sample and Data Policy](https://www.nsf.gov/pubs/2017/nsf17037/nsf17037.jsp). BCO-DMO has a template designed to help you prepare your DMP for submissions to OCE. For more information, see the "[Data Management Plan](prepare/data_management_plan.md)" page.
-
-**Data Package**:
+**Data Management Plan**: A data management plan, or DMP, is a formal document that outlines what you will do with your data during and after a research project. Proposals submitted to NSF must include a DMP and those submitted to the NSF Division of Ocean Sciences (OCE) must comply with OCE Sample and Data Policy ([NSF 24-124](https://www.nsf.gov/pubs/2024/nsf24124/nsf24124.jsp)). BCO-DMO has a template designed to help you prepare your DMP for submissions to OCE. For more information, see the "[Data Management Plan](prepare/data_management_plan.md)" page.
 
 **Dataset:** "Dataset" can mean different things in different contexts, but in the context of a BCO-DMO dataset submission, or a dataset associated with a metadata landing page, a dataset is a singular collection of observation-level data. In the case of tabular or spreadsheet data, this would be one data table in a single spreadsheet. Contrastingly, multiple spreadsheet tabs in an Excel file would constitute multiple data tables (unless they could be merged). In the case of images, a dataset may be composed of a set of images collected within the context of a study, experiment, or instrument deployment.&#x20;
 
@@ -32,21 +28,23 @@ _**This page is still under construction!**_
 
 **ERDDAP**: ERDDAP is a data server that provides a simple, consistent way to download subsets of scientific datasets in common file formats. Many different organizations and data repositories use ERDDAP to distribute data. BCO-DMO's ERDDAP can be found at [https://erddap.bco-dmo.org/erddap/index.html](https://erddap.bco-dmo.org/erddap/index.html).&#x20;
 
-**FAIR Data Principles:** Guiding principles for making digital assets Findable, Accessible, Interoperable, and Reusable. Find more information [here](education-and-training/open-fair-data.md).
+**FAIR Data Principles:** Guiding principles for making digital assets Findable, Accessible, Interoperable, and Reusable. Find more information on the "[What are Open and FAIR Data](education-and-training/open-fair-data.md)?" page.
 
 **File Format:** The structure of your file. Note that the extension may not completely describe the structure within your file. For example, a .txt file can contain any ASCII text whether it is a comma, tab, or space-delimited dataset.
 
 **File Group:** Multiple data files that comprise one dataset. The files contain the same type of data and are formatted the same. If applicable, these files can be combined into one data table after submission.
 
-**Metadata**: Metadata can be thought of as "data about data". Metadata is the documentation that accompanies data. For BCO-DMO datasets, metadata fields include a description of acquisition and processing methods, instruments used, column descriptions, funding awards, and investigators, among others.
+**LSID**: Life Sciences Identifier "persistent, location-independent, resource identifiers for uniquely naming biologically significant resources" from Object Management Group: Life Sciences Identifiers final adopted specification. [OMG Document dtc/04-05-01. 2004](https://www.omg.org/cgi-bin/doc?dtc/04-05-01)
+
+**Metadata**: Metadata can be thought of as "data about data". Metadata are the documentation that accompanies data. For BCO-DMO datasets, metadata fields include a description of acquisition and processing methods, instruments used, column descriptions, funding awards, and investigators, among others.
 
 **Metadata Forms (.rtf):** Metadata Forms in .rtf format are available as an alternative to our Submission Tool. These forms are downloadable and fillable offline. The Dataset Metadata Form should be filled out when submitting data. The Project Metadata Form should be filled out when registering a project.&#x20;
 
 **Parameters:** BCO-DMO typically uses the term "parameter" interchangeably with "column name" or "column header". Parameters are the measurements reported in a dataset.
 
-**Platforms:**
+**Platforms:** A means of deploying instruments. Examples includes ships, small vessels, and moorings.
 
-**Program:**
+**Program:** We think of a "program" as a large, coordinated research effort that usually encompass one or more projects
 
 **Project Page:** A BCO-DMO Project Page (sometimes referred to as a "Project Landing Page") displays all of the descriptive metadata associated with a project, such as the start and end dates, project summary, and funding awards. The Project Page also provides access to the Dataset Metadata Pages of those datasets associated with the project.
 
@@ -56,19 +54,13 @@ _**This page is still under construction!**_
 
 **Restricted**: BCO-DMO's dataset landing pages display a "Restricted" field denoting the availability of the dataset. "No" means the data are or will be publicly available. "Yes" means the data are restricted and will not be published or shared publicly before the release date specified by the data submitter. The term "embargoed data" is often used interchangeably with "restricted data".&#x20;
 
-**LSID**: Life Sciences Identifier "persistent, location-independent, resource identifiers for uniquely naming biologically significant resources" from Object Management Group: Life Sciences Identifiers final adopted specification. [OMG Document dtc/04-05-01. 2004](https://www.omg.org/cgi-bin/doc?dtc/04-05-01)
-
-**Tabular Data (or Data Tables):**
-
 **Submission Status:** Refer to our [Submission Tool FAQs](https://bcodmo.gitbook.io/how-to/submission-tool-faqs#what-does-the-submission-status-mean) for a description of each status.
 
-**Submission Tool:** BCO-DMO's Submission Tool, found at [https://submit.bco-dmo.org/](https://submit.bco-dmo.org/), is an online tool that allows users to submit datasets to and register projects with BCO-DMO. If you'd prefer to email your submission to BCO-DMO, use our downloadable Metadata Forms (.rtf) instead. The downloadable, fillable forms can be found on our website at [https://www.bco-dmo.org/how-get-started](https://www.bco-dmo.org/how-get-started).&#x20;
+**Submission Tool:** BCO-DMO's Submission Tool, found at [https://submit.bco-dmo.org/](https://submit.bco-dmo.org/), is an online tool that allows users to submit datasets to and register projects with BCO-DMO.&#x20;
 
 **Validated**: BCO-DMO's dataset landing pages display a "Validated" field denoting the validation status of the dataset. "Yes" means the data submitter has reviewed and approved the data and metadata. "No" means BCO-DMO has not received the final approval from the data submitter.
 
-**Validation:** (or "Dataset Validation")
-
-**Version Numbe**r: This is the dataset version identifier.  When any data files are updated the dataset gets a new version number.
+**Version Numbe**r: This is the dataset version identifier.  When any data files are updated, the dataset gets a new version number.
 
 **Version Date**: The date when the dataset version number is assigned in format YYYY-MM-DD.&#x20;
 
