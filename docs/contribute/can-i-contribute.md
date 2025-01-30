@@ -35,7 +35,7 @@ BCO-DMO staff members work with researchers funded by these NSF programs to ensu
 
 ## Non-NSF Data and Special Cases
 
-In addition to the programs listed above, BCO-DMO also accepts data funded through the following programs:
+In addition to the programs listed above, BCO-DMO also accepts data related to the following programs and projects:
 
 * Center for Chemical Currencies of a Microbial Planet **(C-CoMP):** an NSF-funded Science and Technology Center that awards its own research grants and supports a number of different researchers and projects. [https://ccomp-stc.org/](https://ccomp-stc.org/)
 * Center for Dark Energy Biosphere Investigations **(C-DEBI):** an NSF-funded project that awards its own research grants and supports a number of different researchers and projects. [https://www.darkenergybiosphere.org/](https://www.darkenergybiosphere.org/)
