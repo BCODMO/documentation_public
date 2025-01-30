@@ -4,11 +4,9 @@ description: BCO-DMO Data Citations, Ownership, and Terms and Conditions for Web
 
 # Attribution
 
-Also published at [https://www.bco-dmo.org/terms-use](https://www.bco-dmo.org/terms-use)
-
 ## License
 
-All datasets and associated information are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+All datasets and associated information are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Per the CC BY 4 license, it is understood that any use of the data set will properly acknowledge the PI.
 
 &#x20;[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
@@ -27,7 +25,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ## Dataset citation
 
-Data set citations should include these key components:\
+Dataset citations should include these key components:\
 Principal Investigator (PI) name(s) (VERSION YEAR) title of dataset, data version date, publisher or distributor, date accessed/retrieved by you, DOI or URL of the data set
 
 **Example Dataset Citations:**
