@@ -145,11 +145,11 @@ References:
 * Oksanen J, Blanchet FG, Friendly M, Kindt R, Legendre P, McGlinn D, Minchin PR, O’Hara RB, Simpson GL, Solymos P, Stevens HH, Szoecs E, Wagner H (2019) Vegan: Community Ecology Package. R package version 25-4. Available from https://cran.r-project.org/package=vegan [https://cran.r-project.org/src/contrib/Archive/vegan/vegan\_2.5-4.tar.gz](https://cran.r-project.org/src/contrib/Archive/vegan/vegan_2.5-4.tar.gz)
 
 {% hint style="info" %}
-Note that the reference Wickham (2016) for ggplot2 doesn't include the version.  But the methods text does include the exact version number that was used to produce the dataset.
+Note that the reference Wickham (2016) for ggplot2 doesn't include the version, but the methods text does include the exact version number that was used to produce the dataset.
 {% endhint %}
 
 {% hint style="info" %}
-If you have a lot of installed packages you can supply a supplemental file with the packages and version numbers you used instead of citing them all in your methods text.
+If you have a lot of installed packages, you can supply a supplemental file with the packages and version numbers you used instead of citing them all in your methods text.
 {% endhint %}
 
 #### Getting versions in R
