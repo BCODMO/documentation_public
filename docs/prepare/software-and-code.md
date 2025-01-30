@@ -8,8 +8,8 @@ description: Instructions on contributing model output, software, and code to BC
 
 If you have code or software you developed as part of your project, check your funding agency's requirements for making your code public. If you were funded by NSF's OCE division you are required to make your code public within two years of developing it.
 
-**We recommend and strongly encourage archiving and getting a dedicated DOI** **for your code**. This is becoming a widely accepted best practice for code and software output from funded research. However, if for some reason this is not possible, we can include it as a Supplemental File to a relevant BCO-DMO Dataset Page and it will be archived in the same package as your data. We consider this a sub-optimal option as it does not follow current recommended practice. The attached code will not be citable or discoverable on its own and will not have an appropriate software license applied to it (see more about [LICENSES](software-and-code.md#dont-forget-to-add-a-license)).\
-\
+**We recommend and strongly encourage archiving and getting a dedicated DOI** **for your code**. This is becoming a widely accepted best practice for code and software output from funded research. However, if for some reason this is not possible, we can include it as a Supplemental File to a relevant BCO-DMO Dataset Page and it will be archived in the same package as your data. We consider this a sub-optimal option as it does not follow current recommended practice. The attached code will not be citable or discoverable on its own and will not have an appropriate software license applied to it (see more about [LICENSES](software-and-code.md#dont-forget-to-add-a-license)).
+
 If your code has already been documented and archived (i.e. citable with a DOI), we can link to it as a Related Publication from your Dataset Landing Page (see section below [Making code citable with an archive](software-and-code.md#making-code-citable-with-an-archive)). &#x20;
 
 You can send us your code any way you choose, whether by attaching files to an email, uploading them to the submission tool ([https://submit.bco-dmo.org/](https://submit.bco-dmo.org/)), sending us a repository link (e.g. GitHub), or sending us a DOI.
@@ -47,8 +47,8 @@ Comment lines within code are a recommended best practice, however, they do not 
 
 ## My code is in GitHub, why does it need to go somewhere else?
 
-[GitHub](https://github.com/) and[ Bitbucket](https://bitbucket.org/) are code repositories but not archives. Code repositories are great for sharing and collaborating, but they can be taken down at any time by the authors or the repository.\
-\
+[GitHub](https://github.com/) and[ Bitbucket](https://bitbucket.org/) are code repositories but not archives. Code repositories are great for sharing and collaborating, but they can be taken down at any time by the authors or the repository.
+
 If you **archive** your code repository using Zenodo (or another archive), it will be **preserved** and you will get a digital object identifier (**DOI**) for your code. See "Making code citable with an archive" below.
 
 Once you have your code archived you can supply the **formal citation and DOI to journal publications and BCO-DMO** along with dataset submissions.
@@ -87,15 +87,15 @@ When BCO-DMO publishes code as supplemental files along with a dataset. The data
 
 ## I'm using someone else's code that isn't public or archived
 
-We understand the reality that datasets are sometimes produced using code that isn't publicly available. Whether it is **proprietary software from an instrument manufacturer** or if you used code **provided by a colleague** that isn't published in a way that follows best practice recommendations for long-term archiving.\
-\
-When you submit a dataset to BCO-DMO provide whatever information you have about the code.  \
-\
-\- Who are the authors? Provide real names not just usernames if you have them.\
-\- Briefly describe what the code does.\
-\- How do you get the code/software? Is it publicly accessible? If so, where can it be found? Or is it available upon request or purchase from the authors or company?\
-\- What version of the code did you use? Or lacking that, what date did you use the code? If it is public on GitHub, provide the link to the repository and the version (or commit) you used if available.\
-\
+We understand the reality that datasets are sometimes produced using code that isn't publicly available. Whether it is **proprietary software from an instrument manufacturer** or if you used code **provided by a colleague** that isn't published in a way that follows best practice recommendations for long-term archiving.
+
+When you submit a dataset to BCO-DMO provide whatever information you have about the code.&#x20;
+
+* Who are the authors? Provide real names not just usernames if you have them.
+* Briefly describe what the code does.
+* How do you get the code/software? Is it publicly accessible? If so, where can it be found? Or is it available upon request or purchase from the authors or company?
+* What version of the code did you use? Or lacking that, what date did you use the code? If it is public on GitHub, provide the link to the repository and the version (or commit) you used if available.
+
 If you know the authors of public, but not archived code, encourage them to publish their code with documentation, a release, and a license. (See "Making Your Code Citable" [https://guides.github.com/activities/citable-code/](https://guides.github.com/activities/citable-code/)). They get a formal citation they can put on their CV after archiving it which is a great incentive, not to mention enhanced discoverability and usage.
 
 ## Models
