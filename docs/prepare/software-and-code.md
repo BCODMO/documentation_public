@@ -6,8 +6,8 @@ description: Instructions on contributing model output, software, and code to BC
 
 ## What to do with Code, Software and Models? <a href="#page-title" id="page-title"></a>
 
-If you have code or software you developed as part of your project, check your funding agency's requirements for making your code public. If you were funded by NSF's OCE division you are required to make your code public within two years of developing it.\
-\
+If you have code or software you developed as part of your project, check your funding agency's requirements for making your code public. If you were funded by NSF's OCE division you are required to make your code public within two years of developing it.
+
 **We recommend and strongly encourage archiving and getting a dedicated DOI** **for your code**. This is becoming a widely accepted best practice for code and software output from funded research. However, if for some reason this is not possible, we can include it as a Supplemental File to a relevant BCO-DMO Dataset Page and it will be archived in the same package as your data. We consider this a sub-optimal option as it does not follow current recommended practice. The attached code will not be citable or discoverable on its own and will not have an appropriate software license applied to it (see more about [LICENSES](software-and-code.md#dont-forget-to-add-a-license)).\
 \
 If your code has already been documented and archived (i.e. citable with a DOI), we can link to it as a Related Publication from your Dataset Landing Page (see section below [Making code citable with an archive](software-and-code.md#making-code-citable-with-an-archive)). &#x20;
