@@ -34,8 +34,6 @@ description: Definitions of frequently used terms and acronyms
 
 **File Group:** Multiple data files that comprise one dataset. The files contain the same type of data and are formatted the same. If applicable, these files can be combined into one data table after submission.
 
-**LSID**: Life Sciences Identifier "persistent, location-independent, resource identifiers for uniquely naming biologically significant resources" from Object Management Group: Life Sciences Identifiers final adopted specification. [OMG Document dtc/04-05-01. 2004](https://www.omg.org/cgi-bin/doc?dtc/04-05-01)
-
 **Metadata**: Metadata can be thought of as "data about data". Metadata are the documentation that accompanies data. For BCO-DMO datasets, metadata fields include a description of acquisition and processing methods, instruments used, column descriptions, funding awards, and investigators, among others.
 
 **Metadata Forms (.rtf):** Metadata Forms in .rtf format are available as an alternative to our Submission Tool. These forms are downloadable and fillable offline. The Dataset Metadata Form should be filled out when submitting data. The Project Metadata Form should be filled out when registering a project.&#x20;
@@ -77,6 +75,8 @@ description: Definitions of frequently used terms and acronyms
 **FAIR**: Findable, Accessible, Interoperable, Reusable
 
 **GMBF**: Gordon and Betty Moore Foundation
+
+**LSID**: Life Sciences Identifier "persistent, location-independent, resource identifiers for uniquely naming biologically significant resources" from Object Management Group: Life Sciences Identifiers final adopted specification. [OMG Document dtc/04-05-01. 2004](https://www.omg.org/cgi-bin/doc?dtc/04-05-01)
 
 **NSF**: National Science Foundation
 
