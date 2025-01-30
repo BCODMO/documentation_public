@@ -21,7 +21,7 @@ When teaching workshops, we mostly follow [The Carpentries](https://carpentries.
 
 ### Text -Tutorials
 
-Data access tutorial: [https://www.bco-dmo.org/files/bcodmo/BCO-DMO\_Tutorial.pdf](https://www.bco-dmo.org/files/bcodmo/BCO-DMO_Tutorial.pdf)&#x20;
+Data access tutorial from the 2017 OCB Summer Workshop (note that many of our tools, systems, and processes have changed since then!) [https://www.bco-dmo.org/files/bcodmo/BCO-DMO\_Tutorial.pdf](https://www.bco-dmo.org/files/bcodmo/BCO-DMO_Tutorial.pdf)&#x20;
 
 ### Video Tutorials
 
