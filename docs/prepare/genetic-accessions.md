@@ -13,6 +13,8 @@ We want to make data generators aware of the benefits of submitting 'omics data 
 
 Although BCO-DMO does not host raw sequence or mass spectrometry data, we can easily link to the repositories that do. In doing so BCO-DMO can allow researchers to discover your data and place it in its appropriate environmental context. Because BCO-DMO datasets are connected to their expeditions, environmental data associated with the meta’omic sample locations can be easily connected. Similarly, BCO-DMO connects data to grants and/or projects, allowing laboratory experimental data to be associated with 'omic data. BCO-DMO’s site is optimized for data discovery using search engines, and specific data types can be searched for within BCO-DMO’s holdings. With a minor effort in submission, all the hard work you have put into collecting your dataset can be used to help other researchers throughout the world better discover and interpret your data. You, the data generator, will benefit from submission through increased citations and collaborations.
 
+**Table 1: Repositories linked by BCO-DMO**
+
 | Repository                      | Data types                              |
 | ------------------------------- | --------------------------------------- |
 | NCBI (SRA, Bioproject)          | DNA, RNA sequence                       |
@@ -22,7 +24,7 @@ Although BCO-DMO does not host raw sequence or mass spectrometry data, we can ea
 | ProteomeXChange (PX consortium) | Mass Spectra (proteomics, metabolomics) |
 | MetaboLights                    | Metabolomics database                   |
 
-<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption><p>Table 1. Omics Data Repositories lnked to by BCO-DMO</p></figcaption></figure>
+## &#x20;<a href="#page-title" id="page-title"></a>
 
 ## Contributing Genetic Accessions  <a href="#page-title" id="page-title"></a>
 
