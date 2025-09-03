@@ -24,7 +24,11 @@ Although BCO-DMO does not host raw sequence or mass spectrometry data, we can ea
 | ProteomeXChange (PX consortium) | Mass Spectra (proteomics, metabolomics) |
 | MetaboLights                    | Metabolomics database                   |
 
-## &#x20;<a href="#page-title" id="page-title"></a>
+<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption><p><strong>Figure 1.</strong> Example of a BCO-DMO project page that connects 'omics data with environmental datasets and sample collection metadata. The star symbol indicates a datasets within this larger project that is illustrated in Figures 2 &#x26; 3.</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption><p><strong>Figure 2.</strong> An example of a physical marine sample found within the Fundamental Coral-Microbiome Project in BCO-DMO. An individual physical sample has associated environmental data within BCO-DMO. Additionally, an accession for a BioSample associated<br>with this physical sample is found within BCO-DMO which facilitates linkage to the nucleotide sequencing data for this sample found within the NCBI repository. Additional sequencing information can be obtained for this genomic data within the NCBI repository based upon this accession link via the BioSample.</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption><p><strong>Figure 3.</strong> Example of data structures from the Coral-Microbial Association Dataset #661942 found within BCO-DMO and the genomic data associated with the samples found within the NCBI repository where the sequencing data is maintained. Within NCBI, the sequencing data is organized under an overarching BioProject, with raw sequencing data maintained within the SRA database in the depicted structure. Note, only 2 biosamples are depicted in this figure whereas the dataset actually has 10 separate BioSamples.</p></figcaption></figure>
 
 ## Contributing Genetic Accessions  <a href="#page-title" id="page-title"></a>
 
