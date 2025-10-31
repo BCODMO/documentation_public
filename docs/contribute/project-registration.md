@@ -16,7 +16,7 @@ description: How to register a project at BCO-DMO
 
 1\. **Search** [BCO-DMO](https://www.bco-dmo.org/) (either searching on project name, PI name, or award number) to see if your award is already registered. If it's not yet registered:
 
-2\. **Gather** the required information. For NSF-funded projects, we ask that you provide a copy of your [**NSF Data Management Plan**](http://www.bco-dmo.org/nsf-two-page-data-management-plan#DMP_Template) as a PDF. You should also have the following information ready:
+2\. **Gather** the required information. For NSF-funded projects, we ask that you provide a copy of your [**NSF Data Management Plan**](../prepare/data_management_plan.md) as a PDF. You should also have the following information ready:
 
 * PI and Co-PI names, contact information, and ORCiD numbers
 * The official Project title
