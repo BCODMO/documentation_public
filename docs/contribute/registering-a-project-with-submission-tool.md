@@ -34,8 +34,7 @@ If this is an NSF Award, the Project Name should match your award title as liste
 
 * If entering an NSF award, include the three-letter prefix indicating the directorate (e.g. OCE-1435056).&#x20;
 * For NSF Collaborative Research Projects, list all collaborative awards granted to investigators as a comma-separated list.&#x20;
-* If you're registering a proposal that has been recommended for funding, enter the award number (if known) or the proposal number and check the box that says "Check here if you are registering a proposal that has been recommended for funding."\
-
+* If you're registering a proposal that has been recommended for funding, enter the award number (if known) or the proposal number and check the box that says "Check here if you are registering a proposal that has been recommended for funding."<br>
 
 **Example:**
 
@@ -94,8 +93,7 @@ To add additional people, click "+ Add person" and then click "Edit". Use the "O
 
 Please be sure to add all of the project's PIs and Co-PIs. If your project is an NSF Collaborative Research project, assign the designated Lead PI the role of "Lead PI". To select multiple roles for one person (e.g. PI and Long-Term Contact), hold down the CTRL button and click (for Windows users).&#x20;
 
-Any required information that's missing will be displayed in red:\
-
+Any required information that's missing will be displayed in red:<br>
 
 ![Required fields that are empty will be displayed in red.](<../.gitbook/assets/image (15).png>)
 

@@ -36,7 +36,7 @@
   * [Open and F.A.I.R Data](education-and-training/open-fair-data.md)
   * [Domain Data Curation](education-and-training/domain-data-curation.md)
   * [Data Management Best Practices](education-and-training/data-management-best-practices.md)
-  * [Other Courses](education-and-training/other-courses.md)
+  * [Data Management Training](education-and-training/data-management-training.md)
   * [BCO-DMO Workshops](education-and-training/workshops.md)
 * [Glossary](glossary.md)
 * [Frequently Asked Questions (FAQs)](frequently-asked-questions-faqs.md)

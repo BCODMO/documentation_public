@@ -56,4 +56,4 @@ A summary of these instructions, including screenshots, is available in the [DMP
 
 [NSF OCE Sample and Data Policy](https://www.nsf.gov/pubs/2024/nsf24124/nsf24124.jsp)\
 [NSF Frequently Asked Questions (FAQs) for Public Access](https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf18041)\
-[DMPTool Quick Start Guide](https://dmptool.org/help)\
+[DMPTool Quick Start Guide](https://dmptool.org/help)<br>
