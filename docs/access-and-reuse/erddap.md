@@ -10,4 +10,19 @@ All information about every ERDAPP request is contained in the URL of each reque
 
 ### Dataset Buttons
 
-![](<../.gitbook/assets/image (41).png>)
+The "Data Files" section of a BCO-DMO Dataset Landing Page provides convenient links to access various data formats and get to the ERDDAP subsetting page.  \
+\
+Click the "Dataset Files" heading to expand the files section on a Dataset Landing Page, and then click the  <img src="../.gitbook/assets/image (63).png" alt="" data-size="line">  button to see more options.\
+\
+Example:\
+CTD Hydrography: [https://www.bco-dmo.org/dataset/815732](https://www.bco-dmo.org/dataset/815732)
+
+<figure><img src="../.gitbook/assets/image (60).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+The links in the ![](<../.gitbook/assets/image (64).png>) menu on a Dataset Landing Page are for easy, one-click access. They point to the same data available through the ERDDAP server as described at the top of this guidance page. &#x20;
+{% endhint %}
+
+You can get to the "Data Files" section by scrolling down on the dataset page or by clicking the  "Access Dataset"->"Get Data" menu at the top of the page which takes you down to the same "Dataset Files" section.
+
+<figure><img src="../.gitbook/assets/image (61).png" alt=""><figcaption><p>Dataset Landing Page <a href="https://www.bco-dmo.org/dataset/815732">https://www.bco-dmo.org/dataset/815732</a></p></figcaption></figure>
