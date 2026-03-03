@@ -10,7 +10,7 @@ All information about every ERDAPP request is contained in the URL of each reque
 
 ### Dataset Buttons
 
-The "Data Files" section of a BCO-DMO Dataset Landing Page provides convenient links to access various data formats and get to the ERDDAP subsetting page.  \
+The "Dataset Files" section of a BCO-DMO Dataset Landing Page provides convenient links to access various data formats and get to the ERDDAP subsetting page.  \
 \
 Click the "Dataset Files" heading to expand the files section on a Dataset Landing Page, and then click the  <img src="../.gitbook/assets/image (63).png" alt="" data-size="line">  button to see more options.\
 \
