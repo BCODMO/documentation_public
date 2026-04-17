@@ -32,6 +32,7 @@ Whether you upload your files to an archive like Zenodo or submit them to us wit
 * Provide a description to go along with each file. &#x20;
   * Describe what the file does if it is code.&#x20;
   * If it is an input data file, describe where it came from, what is in it (e.g. CTD data from cruise KN1818 obtained from R2R, DOI: ####), and provide parameter names descriptions, and units (e.g. NH4, Pore water dissolved ammonium, micromolar (uM)).
+* Acknowledge any funding used to support the development of the code (for example, any NSF OCE awards).
 
 For more information and examples, you can refer to "How to Write Good Documentation": [https://guides.lib.berkeley.edu/how-to-write-good-documentation](https://guides.lib.berkeley.edu/how-to-write-good-documentation). &#x20;
 
@@ -41,7 +42,7 @@ Comment lines within code are a recommended best practice, however, they do not 
 
 **Where do you put documentation?**  If you have a GitHub repository you can put documentation in your README.md file. Or you can put it in a supplemental file archived with your code. You can also provide it to BCO-DMO along with your data submission's methodology section or as a supplemental file.
 
-* Example of documentation as part of the GitHub README.md file: a [README.md ](https://github.com/ldykman/FD_EPR/blob/v1.0.0/README.md)archived at Zenodo with package DOI: [10.5281/zenodo.4625160](https://doi.org/10.5281/zenodo.4625160\)))
+* Example of documentation as part of the GitHub README.md file: a [README.md ](https://github.com/ldykman/FD_EPR/blob/v1.0.0/README.md)archived at Zenodo with package DOI: [10.5281/zenodo.4625160](https://doi.org/10.5281/zenodo.4625160) )
 * Example of documentation provided as a supplemental file at Zenodo (DOI: [10.5281/zenodo.7129648)](https://doi.org/10.5281/zenodo.7129648)
 * Example of documentation as a supplemental file attached to a BCO-DMO dataset: "OysterFutures simulation model" [https://www.bco-dmo.org/dataset/875301](https://www.bco-dmo.org/dataset/875301).
 
