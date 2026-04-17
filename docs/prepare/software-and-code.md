@@ -32,7 +32,7 @@ Whether you upload your files to an archive like Zenodo or submit them to us wit
 * Provide a description to go along with each file. &#x20;
   * Describe what the file does if it is code.&#x20;
   * If it is an input data file, describe where it came from, what is in it (e.g. CTD data from cruise KN1818 obtained from R2R, DOI: ####), and provide parameter names descriptions, and units (e.g. NH4, Pore water dissolved ammonium, micromolar (uM)).
-* Acknowledge any funding used to support the development of the code (for example, any NSF OCE awards).
+* Acknowledge any NSF funding used to support the development of the code.
 
 For more information and examples, you can refer to "How to Write Good Documentation": [https://guides.lib.berkeley.edu/how-to-write-good-documentation](https://guides.lib.berkeley.edu/how-to-write-good-documentation). &#x20;
 
