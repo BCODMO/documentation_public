@@ -6,7 +6,7 @@ description: BCO-DMO Data Citations, Ownership, and Terms and Conditions for Web
 
 ## License
 
-When possible, datasets and associated information are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Per the CC BY 4 license, it is understood that any use of the data set will properly acknowledge the PI.
+All datasets and associated information are licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), unless specified otherwis&#x65;**\***. Per the CC BY 4 license, it is understood that any use of the data set will properly acknowledge the PI.
 
 &#x20;[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
@@ -23,9 +23,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
-
-
-**Note:** there may be instances where synthesized data is submitted to BCO-DMO with previously existing (and in some cases more restrictive) licensing. In these circumstances, BCO-DMO retains the existing licensing of the originating data during publication.&#x20;
+**\***&#x54;here may be instances where synthesized data are submitted to BCO-DMO with previously existing (and in some cases more restrictive) licensing. In these circumstances, BCO-DMO retains the existing licensing of the originating data during publication.&#x20;
 
 ## Dataset citation
 
