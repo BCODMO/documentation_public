@@ -16,7 +16,7 @@ When you are ready to submit data to us, create a "Data Submission" using our Su
 Note that you can upload entire folders of files to our Submission Tool's files section using a web browser. However, we request that you limit the size of any individual file to 10GB.
 {% endhint %}
 
-If your data are too large to upload using a web browser, we will coordinate a file transfer with you using a Dropbox file request from our account, or if you already have your files in an online fileshare (Google Drive, Globus, Box, etc.), you can provide the link.
+If your data are too large to upload using a web browser, we will coordinate a file transfer with you using a Globus, or if you already have your files in an online fileshare (Google Drive, Globus, Box, etc.), you can provide the link.
 
 After your metadata submission form is complete, **press the "Submit" button in the last section**.
 
@@ -24,7 +24,7 @@ For further help with the Submission Tool see "[Submitting Data with Submission 
 
 #### Providing a link to your online fileshare
 
-If you provide a link to your dataset in an online fileshare (Box, Google Drive, Dropbox, etc), we will copy the files and send you a file inventory of what we downloaded so you can confirm we have everything you intended to submit. Alternatively, we can send you a link to upload files to BCO-DMO's Dropbox account if you prefer this transfer method.
+If you provide a link to your dataset in an online fileshare (Box, Google Drive, Dropbox, etc), we will copy the files and send you a file inventory of what we downloaded so you can confirm we have everything you intended to submit. Alternatively, we can send you a link to upload files to us using Globus if you prefer this transfer method.
 
 If your data are not tabular (e.g. images, video, netcdf gridded data), typically BCO-DMO publishes your files by bundling them into file .zip bundles (with zip64 support). We can preserve any folder hierarchy your data type requires.&#x20;
 
