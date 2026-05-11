@@ -16,11 +16,11 @@ You can create a "Data Submission" using our [Submission Tool](../contribute/sub
 Note that you can upload entire folders of files to our Submission Tool's files section. However, we request that you limit the size of any individual file to 10GB.
 {% endhint %}
 
-We realize imaging datasets can be quite large. If your data are too large to upload using a web browser, we will coordinate a file transfer with you using a Globus, or if you already have your files in an online fileshare (Google Drive, Globus, Box, etc.), you can share the link with us and we will retrieve the files.
+We realize imaging datasets can be quite large. If your data are too large to upload using a web browser, we will coordinate a file transfer with you using Globus, or if you already have your files in an online fileshare (Google Drive, Globus, Box, etc.), you can share the link with us and we will retrieve the files.
 
 If submitting files from an online fileshare, proceed with filling in the appropriate metadata by creating a dataset submission in the [Submission Tool](../contribute/submitting-data-with-submission-tool.md).  You may skip the "Files" section of the form, and instead include a description of the data you have to send us in the comment box on the last page of the form ("Submit" page). We will email you to coordinate the file transfer.
 
-Once we retreive your files, we will send you a file inventory so you can confirm we have everything you intended to submit. Alternatively, we can send you a link to upload files to BCO-DMO's Dropbox account if you prefer this transfer method.
+Once we retrieve your files, we will send you a file inventory so you can confirm we have everything you intended to submit. Alternatively, we can send you a link to upload files to BCO-DMO's Dropbox account if you prefer this transfer method.
 
 Typically, BCO-DMO publishes your media (e.g. images/videos) by bundling them using zip or tar protocols (.zip with zip64 support, or .tar.gz). We can preserve any folder hierarchy your data type requires.&#x20;
 
