@@ -16,7 +16,7 @@ You can create a "Data Submission" using our [Submission Tool](../contribute/sub
 Note that you can upload entire folders of files to our Submission Tool's files section. However, we request that you limit the size of any individual file to 10GB.
 {% endhint %}
 
-We realize imaging datasets can be quite large. If your data are too large to upload using a web browser, we can coordinate a file transfer with you using a Dropbox file request from our account. Or, if you already have your files in an online fileshare (Google Drive, Globus, Box, etc.), you can share the link with us and we will retrieve the files.
+We realize imaging datasets can be quite large. If your data are too large to upload using a web browser, we will coordinate a file transfer with you using a Globus, or if you already have your files in an online fileshare (Google Drive, Globus, Box, etc.), you can share the link with us and we will retrieve the files.
 
 If submitting files from an online fileshare, proceed with filling in the appropriate metadata by creating a dataset submission in the [Submission Tool](../contribute/submitting-data-with-submission-tool.md).  You may skip the "Files" section of the form, and instead include a description of the data you have to send us in the comment box on the last page of the form ("Submit" page). We will email you to coordinate the file transfer.
 

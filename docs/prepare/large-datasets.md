@@ -16,7 +16,7 @@ When you are ready to submit data to us, create a "Data Submission" using our Su
 Note that you can upload entire folders of files to our Submission Tool's files section using a web browser. However, we request that you limit the size of any individual file to 10GB.
 {% endhint %}
 
-If your data are too large to upload using a web browser, we will coordinate a file transfer with you using a Globus, or if you already have your files in an online fileshare (Google Drive, Globus, Box, etc.), you can provide the link.
+If your data are too large to upload using a web browser, we will coordinate a file transfer with you using a Globus, or if you already have your files in an online fileshare (Google Drive, Globus, Box, etc.), you can share the link with us and we will retrieve the files.
 
 After your metadata submission form is complete, **press the "Submit" button in the last section**.
 
