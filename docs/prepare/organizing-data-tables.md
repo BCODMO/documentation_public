@@ -4,7 +4,7 @@ description: How to organize data within a spreadsheet for inclusion in BCO-DMO
 
 # Data Table Organization
 
-This page offers some suggestions on how to organize data within a spreadsheet for inclusion in the BCO-DMO data system. We encourage submitting data tables in .csv format. However, we can curate data provided in a wide range of file formats. In some cases, we may ask you to restructure data tables to ensure they are compatible with our system and comply with FAIR data principles.
+This page offers some suggestions on how to organize data tables for inclusion in the BCO-DMO data system. We encourage submitting data tables in .csv format. However, we can curate data provided in a wide range of file formats. In some cases, we may ask you to restructure data tables to ensure they are compatible with our system and comply with FAIR data principles.
 
 BCO-DMO wants to make it as easy as possible for researchers to submit their data so others can use them for further studies. There are ways of setting up a spreadsheet and entering the data that can make it significantly easier for us to process and publish. If possible, please try to follow as many of these guidelines as you can.
 
