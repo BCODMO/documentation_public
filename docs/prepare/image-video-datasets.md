@@ -4,7 +4,12 @@ description: Guidance for submitting images and datasets derived from images
 
 # Image/Video Datasets
 
-You may be wondering if you need to share images or video produced through the course of your research. These types of media, when associated with hypothesis-driven scientific research, are considered project output and valuable to the scientific community through their potential reuse. As such, many funding agencies will expect these data types to be shared through a repository. When in doubt you should reach out to your funding manager for confirmation.
+You may be wondering if you need to share images or video produced through the course of your research. These types of media, when associated with hypothesis-driven scientific research, are considered project output and valuable to the scientific community through their potential reuse. As such, many funding agencies will expect these data types to be shared through a repository. When in doubt, you should reach out to your funding manager for confirmation.
+
+{% hint style="info" %}
+Note for NSF-OCE funded projects: \
+The [OCE Sample and Data Policy](https://www.nsf.gov/policies/document/division-ocean-sciences-oce-sample-data-policy) states that limitations on access to original data from your project should be approved by the cognizant Program Officer.  If you are uncertain of what to share, it's best to clarify expectations with your program manager.
+{% endhint %}
 
 BCO-DMO can publish your videos and images as well as data derived from those videos or images (e.g. coral reef quadrat photos and derived percent cover calculations). The information we ask you to include when you submit data will vary depending upon the instrumentation, methods, and software that produced your images and data. &#x20;
 
@@ -32,11 +37,9 @@ Typically, BCO-DMO publishes your media (e.g. images/videos) by bundling them us
 
 ## Image and video file formats
 
-**The format of the images/video you submit to BCO-DMO should be one with the most reuse potential.** If your community would benefit from raw images (this is often TIFF format), you can submit them in this form however, in these cases, we recommend submitting raw in addition to any processed formats.
-
-For NSF OCE-funded projects, the [Data Sharing Policy states](https://www.nsf.gov/pubs/2024/nsf24124/nsf24124.jsp),
-
-_The Division of Ocean Sciences requires that metadata files, full data sets, derived products and physical collections must be made publicly accessible upon publication, or within two (2) years of collection, whichever comes first._
+**The format of the images/video you submit to BCO-DMO should be one with the most reuse potential.** \
+\
+If you have multiple forms of your dataset (raw or processed/compressed, color-corrected, subsets as regions of interest, etc), we recommend submitting the form that is most valuable to the research community.  A smaller processed version may be preferable if it preserves the information needed for scientific reuse, but the raw files may be more appropriate if processing removes information that other researchers could need.  You can reach out to us at info@bco-dmo.org if you would like help navigating the decisions of what to share.
 
 ## Data and metadata to include along with images/video files
 
