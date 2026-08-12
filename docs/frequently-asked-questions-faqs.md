@@ -94,7 +94,7 @@ Each dataset landing page has a "Cite This Dataset" button in the upper right-ha
 
 ## Where does BCO-DMO archive the data?
 
-BCO-DMO endeavors to archive the data we manage with NOAA's National Centers for Environmental Information ([NCEI)](https://www.ncei.noaa.gov/). We also submit an immutable copy of all published data receiving a Digital Object Identifier (DOI) to: the Woods Hole Open Access Server ([WHOAS](https://darchive.mblwhoilibrary.org/home)), run by the Marine Biological Laboratory and Woods Hole Oceanographic Institution's Library (a CoreTrustSeal certified institutional repository located at WHOI); and the Internet Archive, a non-profit digital archive that provides free universal access to digital content.
+BCO-DMO has a Submission Agreement with NOAA's National Centers for Environmental Information ([NCEI)](https://www.ncei.noaa.gov/) to archive the data we manage via routine harvesting of published data packages. We are also working with the Internet Archive, a non-profit digital archive that provides free universal access to digital content, to deposit published data packages.
 
 ## Are there parallel data management offices for physical and geological oceanography?
 
