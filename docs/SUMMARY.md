@@ -2,6 +2,7 @@
 
 * [BCO-DMO Guide](README.md)
 * [Data Sharing Expectations & Processes](data-sharing-expectations-and-processes.md)
+* [Standard Curation Edits](standard-curation-edits.md)
 * [Prepare](prepare/README.md)
   * [Data Management Plan](prepare/data_management_plan.md)
   * [What is a Dataset?](prepare/what-is-a-dataset.md)
