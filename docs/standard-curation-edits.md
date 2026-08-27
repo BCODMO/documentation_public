@@ -50,7 +50,7 @@ Primary data files in .csv format are named according to the following format:
 
 For example, _897682\_v1\_particle\_speed.csv_ or _875210\_v1\_gp15\_iron\_ligands.csv_.&#x20;
 
-### Characters Within Data Tables (values in rows):
+### Characters Within Data Tables (values in rows)
 
 To support data re-use in a wide variety of applications, we routinely adjust "non-standard" characters with replacements (for example μ -> u).
 
