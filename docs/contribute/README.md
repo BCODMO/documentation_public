@@ -10,11 +10,11 @@ description: How to contribute data to BCO-DMO
 
 We provide **data management and curation services** free of charge to investigators funded through the NSF OCE Biological and Chemical Oceanography programs and NSF Division of Polar Programs.&#x20;
 
-For those funded outside of these programs, we determine if the data would be of value to the BCO-DMO user community and negotiate a 'fee per dataset' data management strategy. See "[Can I Contribute?](can-i-contribute.md)" for a complete list of programs supported by BCO-DMO and for help finding another repository if BCO-DMO is not appropriate.
+For those funded outside of these programs, we determine if the data would be of value to the BCO-DMO user community and proceed on a 'fee for service' data management strategy. See "[Can I Contribute?](can-i-contribute.md)" for a complete list of programs supported by BCO-DMO and for help finding another repository if BCO-DMO is not appropriate.
 
 **Register your award and related project**
 
-Before submitting data to BCO-DMO, be sure to register your award and related project using our online **Submission Tool**. Find out how to register your project and what information is needed when you have been recommended for funding on the [Project Registration](project-registration.md) page.
+You should register your award and related project once you have been recommended for funding using our online **Submission Tool**. Project registration must be completed before submitting data. Find out how to register your project and what information is needed, on the [Project Registration](project-registration.md) page.
 
 **Submit your data and metadata**
 
@@ -44,4 +44,4 @@ After we accept your data and metadata, a BCO-DMO Data Manager will begin the pr
 
 **Validate/Approve**
 
-Once your datasets are online, you’ll be asked to review the data and metadata for completeness and accuracy. This validation stage is the final step in the process, and it is necessary for the assignment of DOIs and for long-term archiving. Once datasets are reviewed and approved by the contributor, BCO-DMO ensures the data are archived properly at the appropriate National Data Center (e.g. National Centers for Environmental Information, NCEI).
+Once your datasets are online, you’ll be asked to review the data and metadata for completeness and accuracy. This validation stage is the final step in the process, and it is necessary for the assignment of DOIs and for long-term archiving. Once datasets are reviewed and approved by the contributor, BCO-DMO ensures the data are archived at the appropriate National Data Center (e.g. National Centers for Environmental Information, NCEI).
